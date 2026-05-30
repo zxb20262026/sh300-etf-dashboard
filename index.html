@@ -46,8 +46,8 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Microsoft YaHei","PingFang SC
 .etf-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin-bottom:16px}
 .etf-card{background:#131a26;border:1px solid #1e2d45;border-radius:12px;padding:14px;transition:border-color .2s;display:flex;flex-direction:column}
 .etf-card:hover{border-color:#3a5a8a}
-.etf-card.rise{border-left:3px solid #3fb950}
-.etf-card.fall{border-left:3px solid #f85149}
+.etf-card.rise{border-left:3px solid #f85149}
+.etf-card.fall{border-left:3px solid #3fb950}
 .etf-card.flat{border-left:3px solid #484f58}
 
 /* 卡片头部 */
@@ -67,8 +67,8 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Microsoft YaHei","PingFang SC
 /* 收益条 */
 .etf-ret{display:flex;gap:6px;margin-bottom:8px;flex-wrap:wrap}
 .ret-tag{font-size:0.65em;padding:2px 6px;border-radius:4px;white-space:nowrap}
-.ret-tag.up{background:rgba(63,185,80,0.12);color:#3fb950}
-.ret-tag.dn{background:rgba(248,81,73,0.12);color:#f85149}
+.ret-tag.up{background:rgba(248,81,73,0.12);color:#f85149}
+.ret-tag.dn{background:rgba(63,185,80,0.12);color:#3fb950}
 .ret-tag.na{background:rgba(139,148,158,0.08);color:#8b949e}
 
 /* AUM+费率 */
@@ -80,8 +80,8 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Microsoft YaHei","PingFang SC
 /* MA偏离 */
 .etf-ma{display:flex;gap:8px;margin-bottom:6px;font-size:0.65em;flex-wrap:wrap}
 .ma-tag{padding:2px 6px;border-radius:4px}
-.ma-tag.above{background:rgba(63,185,80,0.08);color:#3fb950}
-.ma-tag.below{background:rgba(248,81,73,0.08);color:#f85149}
+.ma-tag.above{background:rgba(248,81,73,0.08);color:#f85149}
+.ma-tag.below{background:rgba(63,185,80,0.08);color:#3fb950}
 
 /* 趋势图 */
 .etf-chart{height:48px;margin-bottom:2px;border-radius:6px;overflow:hidden;background:rgba(0,0,0,0.2);position:relative}
@@ -161,7 +161,17 @@ function aumStr(a) {
     if (a >= 100) return a.toFixed(1) + "亿";
     return a.toFixed(2) + "亿";
 }
-function colorPct(v) { return v>0?"#3fb950":v<0?"#f85149":"#8b949e"; }
+function colorPct(v) { return v>0?"#f85149":v<0?"#3fb950":"#8b949e"; }
+function peLabel(pe) {
+    if (!pe) return '';
+    if (pe < 10) return '<span style="color:#3fb950">便宜</span>';
+    if (pe < 20) return '<span style="color:#7ee787">合理偏低</span>';
+    if (pe < 30) return '<span style="color:#d29922">合理</span>';
+    if (pe < 50) return '<span style="color:#f0883e">偏贵</span>';
+    if (pe < 100) return '<span style="color:#f85149">贵</span>';
+    return '<span style="color:#f85149">很贵</span>';
+}
+
 function priceFmt(p) { return p ? p.toFixed(3) : "—"; }
 
 // ═══════════════════════════════════
@@ -179,7 +189,7 @@ function buildKPI() {
     
     document.getElementById("kpi-row").innerHTML = `
         <div class="kpi-box"><div class="kl">监控ETF</div><div class="kv">${etfs.length}只</div><div class="kn">25板块</div></div>
-        <div class="kpi-box"><div class="kl">上涨/下跌</div><div class="kv"><span style="color:#3fb950">${up}</span>/<span style="color:#f85149">${dn}</span></div><div class="kn">${etfs.length-up-dn}只平</div></div>
+        <div class="kpi-box"><div class="kl">上涨/下跌</div><div class="kv"><span style="color:#f85149">${up}</span>/<span style="color:#3fb950">${dn}</span></div><div class="kn">${etfs.length-up-dn}只平</div></div>
         <div class="kpi-box"><div class="kl">平均涨跌</div><div class="kv" style="color:${colorPct(avgChg)}">${fmtPct(avgChg)}</div></div>
         <div class="kpi-box"><div class="kl">合计规模</div><div class="kv">${aumStr(totalAum)}</div></div>
     `;
@@ -222,7 +232,7 @@ function buildTrendSVG(trend) {
         pathD += (i===0?"M":"L") + x.toFixed(1) + "," + y.toFixed(1);
     });
     fillD = pathD + ` L${w-pad},${h-pad} L${pad},${h-pad} Z`;
-    const clr = vals[vals.length-1] >= vals[0] ? "#3fb950" : "#f85149";
+    const clr = vals[vals.length-1] >= vals[0] ? "#f85149" : "#3fb950";
     return `<svg viewBox="0 0 ${w} ${h}" preserveAspectRatio="none">
         <defs><linearGradient id="g${trend[0].date}" x1="0" y1="0" x2="0" y2="1">
             <stop offset="0%" stop-color="${clr}" stop-opacity="0.2"/>
@@ -271,7 +281,7 @@ function renderCards() {
             </div>
             <div class="etf-price-row">
                 <span class="etf-price">¥${priceFmt(e.price)}</span>
-                <span class="etf-pe">${e.index_pe ? '指数PE ' + e.index_pe.toFixed(1) : (e.index_pe_label || '')}</span>
+                <span class="etf-pe">${e.index_pe ? '指数PE ' + e.index_pe.toFixed(1) + ' ' + peLabel(e.index_pe) : ''}</span>
             </div>
             <div class="etf-ret">${["1w","1m","3m","ytd"].map(k => {
                 const v = r[k];
