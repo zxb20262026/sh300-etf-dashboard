@@ -134,6 +134,33 @@ def fetch_sina(etf):
 
 H_SINA = {"User-Agent": "Mozilla/5.0", "Referer": "https://finance.sina.com.cn/"}
 
+# ETF → 跟踪指数代码映射 (用于获取指数PE)
+# 仅包含腾讯API可获取真实PE的指数
+INDEX_MAP = {
+    "510300": "sh000300",   # 沪深300 → 14.56
+    "510500": "sz399905",   # 中证500 → 36.83
+    "588000": "sh000688",   # 科创50 → 166.17
+    "159915": "sz399006",   # 创业板指 → 71.24
+    "512800": "sz399986",   # 中证银行 → 6.75
+    "512880": "sz399975",   # 证券公司 → 14.29
+    "512710": "sz399967",   # 中证军工 → 72.05
+    "159928": "sh000990",   # 全指消费 → 22.49
+    "515170": "sz399997",   # 中证白酒 → 20.43
+    "512170": "sz399989",   # 中证医疗 → 27.45
+    "516160": "sh000941",   # 新能源 → 28.92
+    "515880": "sz399608",   # 通讯→科技100 40.40
+}
+
+def fetch_index_pe(index_code):
+    """获取跟踪指数PE(TTM)"""
+    try:
+        raw = get(f"http://qt.gtimg.cn/q={index_code}", "gbk", t=5, headers=H_EM)
+        fields = raw.split('~')
+        if len(fields) > 39 and fields[39]:
+            return {"index_pe": float(fields[39]), "index_name": fields[1] if len(fields)>1 else ""}
+    except: pass
+    return {}
+
 def fetch_backup_pcts(etfs_list):
     """批量获取所有备用ETF的涨跌幅"""
     # 收集所有备用代码 (去重)
@@ -189,6 +216,13 @@ def fetch_one(etf, backup_pcts={}):
         entry["change_pct"] = round((entry["price"]/sq["prev"]-1)*100, 2)
     if sq.get("high") and sq.get("low") and sq["low"] > 0:
         entry["amplitude"] = round((sq["high"]/sq["low"]-1)*100, 2)
+    # 跟踪指数PE
+    idx_code = INDEX_MAP.get(code)
+    if idx_code:
+        ip = fetch_index_pe(idx_code)
+        if ip:
+            entry["index_pe"] = ip["index_pe"]
+            entry["index_pe_label"] = ip.get("index_name", "")
     # 备用ETF涨跌幅
     entry["backup_pct"] = []
     for bc in etf.get("backup", []):
