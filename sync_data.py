@@ -128,7 +128,42 @@ def fetch_sina(etf):
     except: pass
     return {}
 
-def fetch_one(etf):
+H_SINA = {"User-Agent": "Mozilla/5.0", "Referer": "https://finance.sina.com.cn/"}
+
+def fetch_backup_pcts(etfs_list):
+    """批量获取所有备用ETF的涨跌幅"""
+    # 收集所有备用代码 (去重)
+    all_backups = []
+    seen = set()
+    for etf in etfs_list:
+        for code in etf.get("backup", []):
+            if code not in seen:
+                seen.add(code)
+                # 判断市场: 5开头=sh, 1/3开头=sz
+                mkt = "sh" if code.startswith("5") or code.startswith("58") else "sz"
+                all_backups.append({"code": code, "market": mkt})
+    
+    # 批量查询 (新浪一次最多几十个)
+    batch_size = 20
+    results = {}
+    for i in range(0, len(all_backups), batch_size):
+        batch = all_backups[i:i+batch_size]
+        codes_str = ",".join(f"{b['market']}{b['code']}" for b in batch)
+        try:
+            raw = get(f"https://hq.sinajs.cn/list={codes_str}", "gbk", t=10, headers=H_SINA)
+            # 新浪批量返回格式: var hq_str_shXXXX="...";\nvar hq_str_szYYYY="...";
+            for m in re.finditer(r'var hq_str_..(\d+)="([^"]*)"', raw):
+                code = m.group(1)
+                parts = m.group(2).split(",")
+                if len(parts) >= 4:
+                    price = float(parts[3]) if parts[3] else None
+                    prev = float(parts[2]) if parts[2] else None
+                    if price and prev and prev > 0:
+                        results[code] = round((price/prev-1)*100, 2)
+        except: pass
+    return results
+
+def fetch_one(etf, backup_pcts={}):
     code = etf["code"]
     info = fetch_fund_info(code)
     kq = fetch_kline_qt(etf)
@@ -149,14 +184,22 @@ def fetch_one(etf):
         entry["change_pct"] = round((entry["price"]/sq["prev"]-1)*100, 2)
     if sq.get("high") and sq.get("low") and sq["low"] > 0:
         entry["amplitude"] = round((sq["high"]/sq["low"]-1)*100, 2)
+    # 备用ETF涨跌幅
+    entry["backup_pct"] = []
+    for bc in etf.get("backup", []):
+        if bc in backup_pcts:
+            entry["backup_pct"].append({"code": bc, "pct": backup_pcts[bc]})
     return entry
 
 def main():
     out_path = sys.argv[1] if len(sys.argv) > 1 else os.path.join(os.path.dirname(__file__), "data.json")
     print(f"🔄 主题ETF赛道雷达 [{time.strftime('%H:%M')}] — 25只ETF并行采集\n", flush=True)
+    # 先批量采集备用ETF涨跌幅
+    backup_pcts = fetch_backup_pcts(ETFS)
+    print(f"  📡 备用ETF涨跌幅: {len(backup_pcts)}只获取成功\n", flush=True)
     results = {}
     with ThreadPoolExecutor(max_workers=5) as ex:
-        futures = {ex.submit(fetch_one, e): e for e in ETFS}
+        futures = {ex.submit(fetch_one, e, backup_pcts): e for e in ETFS}
         for i, f in enumerate(as_completed(futures)):
             e = futures[f]
             try:
