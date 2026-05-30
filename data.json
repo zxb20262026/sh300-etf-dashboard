@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-31 01:15:02",
+  "generated": "2026-05-31 01:20:36",
   "etfs": [
     {
       "code": "513500",
@@ -630,6 +630,8 @@
         }
       ],
       "change_pct": -0.18,
+      "index_pe": 14.56,
+      "index_pe_label": "沪深300",
       "backup_pct": [
         {
           "code": "510310",
@@ -790,6 +792,8 @@
         }
       ],
       "change_pct": -2.38,
+      "index_pe": 36.83,
+      "index_pe_label": "中证 500",
       "backup_pct": [
         {
           "code": "159922",
@@ -950,6 +954,8 @@
         }
       ],
       "change_pct": -5.05,
+      "index_pe": 166.17,
+      "index_pe_label": "科创50",
       "backup_pct": [
         {
           "code": "588050",
@@ -1270,6 +1276,8 @@
         }
       ],
       "change_pct": -2.05,
+      "index_pe": 71.24,
+      "index_pe_label": "创业板指",
       "backup_pct": [
         {
           "code": "159952",
@@ -2070,6 +2078,8 @@
         }
       ],
       "change_pct": -4.17,
+      "index_pe": 72.05,
+      "index_pe_label": "中证军工",
       "backup_pct": [
         {
           "code": "512660",
@@ -2390,6 +2400,8 @@
         }
       ],
       "change_pct": -2.62,
+      "index_pe": 28.92,
+      "index_pe_label": "新能源",
       "backup_pct": [
         {
           "code": "515030",
@@ -2870,6 +2882,8 @@
         }
       ],
       "change_pct": 1.97,
+      "index_pe": 6.75,
+      "index_pe_label": "中证银行",
       "backup_pct": [
         {
           "code": "512700",
@@ -3030,6 +3044,8 @@
         }
       ],
       "change_pct": 1.18,
+      "index_pe": 14.29,
+      "index_pe_label": "证券公司",
       "backup_pct": [
         {
           "code": "512000",
@@ -3190,6 +3206,8 @@
         }
       ],
       "change_pct": 2.84,
+      "index_pe": 22.49,
+      "index_pe_label": "全指消费",
       "backup_pct": [
         {
           "code": "510150",
@@ -3350,6 +3368,8 @@
         }
       ],
       "change_pct": 2.54,
+      "index_pe": 20.43,
+      "index_pe_label": "中证白酒",
       "backup_pct": [
         {
           "code": "159843",
@@ -3510,6 +3530,8 @@
         }
       ],
       "change_pct": 0.64,
+      "index_pe": 27.45,
+      "index_pe_label": "中证医疗",
       "backup_pct": [
         {
           "code": "512290",
@@ -3670,6 +3692,8 @@
         }
       ],
       "change_pct": -1.79,
+      "index_pe": 40.4,
+      "index_pe_label": "科技100",
       "backup_pct": [
         {
           "code": "515050",
