@@ -119,7 +119,8 @@ body{{font-family:-apple-system,BlinkMacSystemFont,"Microsoft YaHei","PingFang S
 .ma-tag.below{{background:rgba(248,81,73,0.08);color:#f85149}}
 
 /* 趋势图 */
-.etf-chart{{height:48px;margin-bottom:6px;border-radius:6px;overflow:hidden;background:rgba(0,0,0,0.2)}}
+.etf-chart{{height:48px;margin-bottom:2px;border-radius:6px;overflow:hidden;background:rgba(0,0,0,0.2);position:relative}}
+.etf-chart-label{{font-size:0.58em;color:#484f58;text-align:center;margin-bottom:4px}}
 .etf-chart svg{{width:100%;height:100%}}
 
 /* 备用代码 */
@@ -305,7 +306,6 @@ function renderCards() {{
             </div>
             <div class="etf-price-row">
                 <span class="etf-price">¥${{priceFmt(e.price)}}</span>
-                <span class="etf-pe">PE<span class="pe-val">${{e.pe ? e.pe.toFixed(1) : "—"}}</span></span>
             </div>
             <div class="etf-ret">${{["1w","1m","3m","ytd"].map(k => {{
                 const v = r[k];
@@ -325,6 +325,7 @@ function renderCards() {{
                 const sign = v>0?"↑":"↓";
                 return `<span class="ma-tag ${{cls}}">${{l}} ${{sign}}${{Math.abs(v||0).toFixed(1)}}%</span>`;
             }}).join("")}}</div>
+            <div class="etf-chart-label">${{e.chart_label || '近30日净值'}}</div>
             <div class="etf-chart">${{buildTrendSVG(e.trend_30)}}</div>
             <div class="etf-backup">备用: ${{(e.backup_pct||[]).map(b => `${{b.code}}<span style="color:${{colorPct(b.pct)}}">(${{fmtPct(b.pct)}})</span>`).join(", ") || (e.backup||[]).join(", ")}}</div>
         </div>`;
