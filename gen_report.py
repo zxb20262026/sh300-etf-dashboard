@@ -326,7 +326,7 @@ function renderCards() {{
                 return `<span class="ma-tag ${{cls}}">${{l}} ${{sign}}${{Math.abs(v||0).toFixed(1)}}%</span>`;
             }}).join("")}}</div>
             <div class="etf-chart">${{buildTrendSVG(e.trend_30)}}</div>
-            <div class="etf-backup">备用: ${{(e.backup||[]).join(", ")}}</div>
+            <div class="etf-backup">备用: ${{(e.backup_pct||[]).map(b => `${{b.code}}<span style="color:${{colorPct(b.pct)}}">(${{fmtPct(b.pct)}})</span>`).join(", ") || (e.backup||[]).join(", ")}}</div>
         </div>`;
     }});
     
