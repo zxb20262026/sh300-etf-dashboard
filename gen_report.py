@@ -306,6 +306,7 @@ function renderCards() {{
             </div>
             <div class="etf-price-row">
                 <span class="etf-price">¥${{priceFmt(e.price)}}</span>
+                <span class="etf-pe">${{e.index_pe ? '指数PE ' + e.index_pe.toFixed(1) : (e.index_pe_label || '')}}</span>
             </div>
             <div class="etf-ret">${{["1w","1m","3m","ytd"].map(k => {{
                 const v = r[k];
