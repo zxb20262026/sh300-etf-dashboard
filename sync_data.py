@@ -97,8 +97,12 @@ def fetch_kline_qt(etf):
                 pb = float(qt_data[46]) if qt_data[46] else None
             except: pass
         trend_30 = [{"date": c["date"][-5:], "close": c["close"]} for c in closes[-30:]]
+        chart_label = ""
+        if len(trend_30) >= 2:
+            chart_label = f"近30日净值 · {trend_30[0]['date']} → {trend_30[-1]['date']}"
         result = {"price": latest, "vol": closes[-1].get("vol", 0), "returns": ret,
-                  "ma20": ma20, "ma60": ma60, "pe": pe, "pb": pb, "trend_30": trend_30}
+                  "ma20": ma20, "ma60": ma60, "pe": pe, "pb": pb, "trend_30": trend_30,
+                  "chart_label": chart_label}
         if ma20: result["ma20_dev"] = round((latest/ma20-1)*100, 2)
         if ma60: result["ma60_dev"] = round((latest/ma60-1)*100, 2)
         return result
@@ -174,6 +178,7 @@ def fetch_one(etf, backup_pcts={}):
         entry["price"] = kq.get("price") or sq.get("price")
         entry["vol"] = kq.get("vol")
         entry["returns"] = kq.get("returns", {})
+        entry["chart_label"] = kq.get("chart_label", "")
         entry["ma20"] = kq.get("ma20"); entry["ma20_dev"] = kq.get("ma20_dev")
         entry["ma60"] = kq.get("ma60"); entry["ma60_dev"] = kq.get("ma60_dev")
         entry["pe"] = kq.get("pe"); entry["pb"] = kq.get("pb")
