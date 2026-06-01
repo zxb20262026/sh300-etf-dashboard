@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-01 18:33:42",
+  "generated": "2026-06-01 19:52:17",
   "etfs": [
     {
       "code": "513500",
@@ -164,19 +164,55 @@
         "today_tag": "📈 上涨",
         "short_trend": "偏强",
         "mid_trend": "偏强",
-        "verdict": "短期强势，资金持续流入，但需注意追高风险",
+        "verdict": "短期强势上攻，均线多头排列，资金持续流入。风险评分5/10(🟡 中等)，注意追高风险。",
         "details": [
           "📈 上涨 +2.66%，在25个板块中排名第2",
-          "短期MA20：站上5.5%，趋势偏强",
-          "中期MA60：站上11.5%，趋势偏强",
-          "近1周：+3.99%",
-          "近1月：+9.26%",
-          "年初至今：+6.56%"
+          "📏 均线：MA20偏离+5.5% | MA60偏离+11.5% | 多头排列 ✅",
+          "⚡ 动量：温和上涨 | 中等波动 | 连涨2天 🔥",
+          "📅 近1周：+3.99%",
+          "📅 近1月：+9.26%",
+          "📅 近3月：+10.27%，排名第9",
+          "📅 年初至今：+6.56%"
         ],
         "rank_change": 2,
-        "rank_1m": 9
+        "rank_1m": 9,
+        "align": "多头排列 ✅",
+        "momentum": "温和上涨",
+        "vola": "中等波动",
+        "risk_score": 5,
+        "risk_level": "🟡 中等",
+        "streak_text": "连涨2天 🔥"
       },
-      "news": []
+      "news": [
+        {
+          "title": "人工智能繁荣主导了标普500指数71%的增长,但落后板块开始苏醒",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b6hkNi5Lmrbu-cJ9ARKmOJ1qXa8Fplpd9LEIiOEtBVfCauL0RO_XeTVoSaYi2JQYsW1x-lDzDnyeHEPc4ATF2gvQWVZH9Vb_XS27rBPPd9t3DX6ZbDFZptHoJMIopEZFKaGziakao9CvPID6ce8igM3_pGx-nX90C0jtmos_qLs---wXjud7nO1V2KR1zHAgcUAkXoPeVZ5W00NVofL2iDw..&amp;type=2&amp;query=%E6%A0%87%E6%99%AE500 %E6%9D%BF%E5%9D%97&amp;token=22A8D0AD0FA4B3106C6B3F43BE11E9156D90246F6A1D7271",
+          "time": "",
+          "desc": "标普500指数中与人工智能相关的公司预计,从第一季度到2026年底,收入同比增长24.2%,是该指数其余部分预期增长7%的三倍多...."
+        },
+        {
+          "title": "大涨16%!三季度标普500最强势板块:原材料",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b6hkNi5Lmrbu-cJ9ARKmOJ1qXa8Fplpd9s92nYUeZENWdwFntE0Ji1tCdbd1VD2yxRTi-YajC-F5yJoWmjVe0DZnf7Vc81K-9Kno1bQXBGLwZi8hOSBqHMwkx1TLwf6VSwze10e0L3WfcTIWr0sEUEc-yDWuQS0AMBDhzLKVagXI3XhCJCvfA5iGi4sW8M4mgHkTcmhd0Wo_FcvUoAZZH7Q..&amp;type=2&amp;query=%E6%A0%87%E6%99%AE500 %E6%9D%BF%E5%9D%97&amp;token=22A8D0AD0FA4B3106C6B3F43BE11E9156D90246F6A1D7271",
+          "time": "",
+          "desc": "标普500本月下跌4%,但其中的原材料板块逆势上涨5.4%,第三季度共上涨16%,是标普500十一个子板块中表现最优秀的.个别公司..."
+        },
+        {
+          "title": "标普500指数将迎重大调整 科技板块大挪移或震动市场",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b6hkNi5Lmrbu-cJ9ARKmOJ1qXa8Fplpd9ZuhH38mtCQMT2R-LuPR_n3xqWP9iR4SRXp5CJkviXBhmbIB-rDtrQUM9uoTS0xVXPgQusNib9N1HYIg72UJjcJB1oO57FuBmujOqRleljihRYyYP9Ud0hfXT9fSYkG1ad1ePjy929uyBkpOHGMoWLJUYhAUfVIYocLpiRpTYTnuFW6cwuUnkdA..&amp;type=2&amp;query=%E6%A0%87%E6%99%AE500 %E6%9D%BF%E5%9D%97&amp;token=22A8D0AD0FA4B3106C6B3F43BE11E9156D90246F6A1D7271",
+          "time": "",
+          "desc": "标普500科技板块原先26%的比重下降到20%左右.虽然大修将分散FAANG等科技巨头到更多行业,但分析师表示,这将使科技巨兽的..."
+        },
+        {
+          "title": "【博时观市&middot;标普观察】标普500指数9月19日-23日下跌4.65% 覆盖的11个行业板块下跌",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b6hkNi5Lmrbu-cJ9ARKmOJ1qXa8Fplpd9ek3D8ToZraFJGC-dlYO7XunlnVvtdwtYRZL9jnTignak3JAxD7GyrdEmT0gBG5vFqaKKwck9OYhp-b8i_x8-4cJ4LZWJWZPZftynwl58bJeC2F2rTv94qlTsimcz-7xAE4lDpDClVtbvCQ4P9f_pIrYf3f7auNszhMedp58utlLzAjcIGepUqA..&amp;type=2&amp;query=%E6%A0%87%E6%99%AE500 %E6%9D%BF%E5%9D%97&amp;token=22A8D0AD0FA4B3106C6B3F43BE11E9156D90246F6A1D7271",
+          "time": "",
+          "desc": "标普500指数整周下跌-4.65%,其覆盖的11个行业板块全部下跌.其中,能源领跌下跌-9.00%,而必需消费下跌较少,下跌-2.15%...."
+        }
+      ]
     },
     {
       "code": "159941",
@@ -341,19 +377,55 @@
         "today_tag": "🔥 大涨",
         "short_trend": "偏强",
         "mid_trend": "偏强",
-        "verdict": "短期强势，资金持续流入，但需注意追高风险",
+        "verdict": "短期强势上攻，均线多头排列，资金持续流入。风险评分9/10(🔴 较高)，注意追高风险。",
         "details": [
           "🔥 大涨 +4.13%，在25个板块中排名第1",
-          "短期MA20：站上11.4%，趋势偏强",
-          "中期MA60：站上24.0%，趋势偏强",
-          "近1周：+9.05%",
-          "近1月：+20.80%",
-          "年初至今：+23.08%"
+          "📏 均线：MA20偏离+11.4% | MA60偏离+24.0% | 多头排列 ✅",
+          "⚡ 动量：强势上攻 | 中等波动 | 连涨2天 🔥",
+          "📅 近1周：+9.05%",
+          "📅 近1月：+20.80%",
+          "📅 近3月：+30.18%，排名第1",
+          "📅 年初至今：+23.08%"
         ],
         "rank_change": 1,
-        "rank_1m": 1
+        "rank_1m": 1,
+        "align": "多头排列 ✅",
+        "momentum": "强势上攻",
+        "vola": "中等波动",
+        "risk_score": 9,
+        "risk_level": "🔴 较高",
+        "streak_text": "连涨2天 🔥"
       },
-      "news": []
+      "news": [
+        {
+          "title": "创业板＂史诗诱多＂,美光万亿点燃纳指100,黄金跌穿4500美元",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b6hkNi5Lmrbu-cJ9ARKmOJ1qXa8Fplpd9mhKEpRmOC3yP8fSI1bI4L46RSdCpI612PXUsS1Kf6ouQ6rNXnvVGoMZTo8ID5iDTjdBi7U9_8nACeNflqRFWjfogomWosK7ATVWFZFNChsnKFxYTSaf9ZZvDezU9fHPbs6oJGOnDGYeB1L6PS3Kf-hUWoILd0qCv_t4nMa0blVRhlgeRt7bSzA..&amp;type=2&amp;query=%E7%BA%B3%E6%8C%87100 %E6%9D%BF%E5%9D%97&amp;token=22A8D1A6298394364B4D186499CA31024B024F526A1D7271",
+          "time": "",
+          "desc": "白酒(水井坊涨停)、超超临界发电这些＂防御板块＂.3.24万亿... 不过别太上头:纳指100破3万后,PE_TTM已超35倍,VIX只有13..."
+        },
+        {
+          "title": "进入策略回调期了(卖创业板,买纳指100)",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b6hkNi5Lmrbu-cJ9ARKmOJ1qXa8Fplpd99bINIc3ztl86QgNp7P1LeIqtpYojyPbL710gczSkXmYVbIToEDpLF6rYNgcJ-iKNjRSvSdLEwVuiUQAaC4jgCjslzRz0YLPQKhY3xMk0x5jrIoT2XpDCCDowbTh-L-3g_gDbePhmNCL4LgB-sVA53mtRLAHscZw1LgKJ9kKW-XwtPujwwRB2Pw..&amp;type=2&amp;query=%E7%BA%B3%E6%8C%87100 %E6%9D%BF%E5%9D%97&amp;token=22A8D1A6298394364B4D186499CA31024B024F526A1D7271",
+          "time": "",
+          "desc": "买入纳指100ETF纳指100ETF (513100.SH)备注:今天数据有点问... 核心板块追踪领涨: - 次新股(+5.11%):风险偏好高位,短线资..."
+        },
+        {
+          "title": "今年涨了19%,纳指100凭什么?普通人如何抓住这波AI时代红利?",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b6hkNi5Lmrbu-cJ9ARKmOJ1qXa8Fplpd9mJXBT0-AGzteRKQs3AYXKPNeyOwWXAFP8uxrtz8wBkvi36SnF_mmJX5gPK4C4elyCv-paQLAKhs1kZ4Gsf6bVfw9q7EFmq1yaXdfLskI434j1W-jtrKMQez_ivzh9p9t94pTt0aJT3uzg3w-D7gNwELYbURKZaSPkXMoKeDCSo7drgozfSg6bw..&amp;type=2&amp;query=%E7%BA%B3%E6%8C%87100 %E6%9D%BF%E5%9D%97&amp;token=22A8D1A6298394364B4D186499CA31024B024F526A1D7271",
+          "time": "",
+          "desc": "是AI时代的受益板块.挖金子不一定赚钱,但卖铲子赚钱概率相对较大.&rdquo;&mdash;&mdash; 杨德龙&ldquo;纳指100与标普500并非不能买,而是不能随..."
+        },
+        {
+          "title": "纳指100突破30000点大关 科技股领涨美股分化格局",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b6hkNi5Lmrbu-cJ9ARKmOJ1qXa8Fplpd9--EmnPn1xJ73MlUu_t2VtTCf9OocG36fQWtDCpxmjR5oX8jAVOwDJknYNipXl5kAUgsL6O7J3XsY38a7H1UEDBAQxaVdT9muZB_lj5SyQvOpBFk3dOl6YDIzx12B5iZpkoYQGJVKaYlcEYgyihF5pOFd5empgs6qnAZ8C4ETqYeAFV_3u-a3OQ..&amp;type=2&amp;query=%E7%BA%B3%E6%8C%87100 %E6%9D%BF%E5%9D%97&amp;token=22A8D1A6298394364B4D186499CA31024B024F526A1D7271",
+          "time": "",
+          "desc": "纳指100 30001.32点 +1.76%▲ 纳指综合 26656.18点 +1.19%▲ 标普500 7519.13点 +0.61% 历史新高科技板块在标普500指数十一大..."
+        }
+      ]
     },
     {
       "code": "159920",
@@ -518,19 +590,55 @@
         "today_tag": "↗️ 微涨",
         "short_trend": "偏弱",
         "mid_trend": "偏弱",
-        "verdict": "温和上涨，趋势健康，可继续持有观察",
+        "verdict": "温和上涨，趋势健康。弱势回调，可继续持有观察。风险评分6/10(🟡 中等)。",
         "details": [
           "↗️ 微涨 +0.81%，在25个板块中排名第4",
-          "短期MA20：跌破2.0%，趋势偏弱",
-          "中期MA60：跌破1.9%，趋势偏弱",
-          "近1周：-1.13%",
-          "近1月：-1.65%",
-          "年初至今：-6.64%"
+          "📏 均线：MA20偏离-2.0% | MA60偏离-1.9% | 空头排列 ⚠️",
+          "⚡ 动量：弱势回调 | 低波动 💤 | 连涨2天 🔥",
+          "📅 近1周：-1.13%",
+          "📅 近1月：-1.65%",
+          "📅 近3月：-5.76%，排名第17",
+          "📅 年初至今：-6.64%"
         ],
         "rank_change": 4,
-        "rank_1m": 17
+        "rank_1m": 17,
+        "align": "空头排列 ⚠️",
+        "momentum": "弱势回调",
+        "vola": "低波动 💤",
+        "risk_score": 6,
+        "risk_level": "🟡 中等",
+        "streak_text": "连涨2天 🔥"
       },
-      "news": []
+      "news": [
+        {
+          "title": "\"IPO潮\"来袭,科创板、港股板块有望迎来张江新股",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b6hkNi5Lmrbu-cJ9ARKmOJ1qXa8Fplpd9gVlW4kJ7sMeuf_Yh2lw3rAKjPz9XldDLclLAfesW9DslacdJ0cPus5IuKnMyx6L-VbhZrcBH2ZBT0LdkEIKgipSdyJB5KH2bWrqB1aDLi91fOK4gmEbKgpht62bKR3f382lz3PxBGC1dKpDhvvreIsc0eyXX3iw7V99VvhymYzbP28temKTOwg..&amp;type=2&amp;query=%E6%B8%AF%E8%82%A1 %E6%9D%BF%E5%9D%97&amp;token=22A8D2F049E2F5572A2D7805F9A8BA722B4A36AF6A1D7271",
+          "time": "",
+          "desc": "在港股板块,3月26日,宜明昂科生物医药技术(上海)有限公司(以下简称&ldquo;宜明昂科&rdquo;)再次递表港股IPO,招股书正式公开;3月..."
+        },
+        {
+          "title": "港股生物科技板块回调,是时候多看两眼了?",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b6hkNi5Lmrbu-cJ9ARKmOJ1qXa8Fplpd9DmFmgT62IgFXG3_oM7cDEmvxGyuba7MNxS5h32KcLD4nXSAyuIPwGguUCNxRcIamZXoIShfO7sEpokAdG3bfO70yy2GLKLqNeethXtXiJSecSQ2MQZQvYP_dunSIstFCkqHwR2ORiP3RsiPEH7ge6YcSN_WF4M8pdhDjMlJLnf8CYioxHkzTmA..&amp;type=2&amp;query=%E6%B8%AF%E8%82%A1 %E6%9D%BF%E5%9D%97&amp;token=22A8D2F049E2F5572A2D7805F9A8BA722B4A36AF6A1D7271",
+          "time": "",
+          "desc": "港股医药板块的主要标的,往往具备更强的国际化属性和BD(业务拓展)能力,有望更直接兑现海外授权(如License-out)带来的估..."
+        },
+        {
+          "title": "AI主线未改,港股科技板块左侧布局窗口渐近?",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b6hkNi5Lmrbu-cJ9ARKmOJ1qXa8Fplpd9e72R3wHfy0HI0SdSNowOW_3fYSeQMi0H59q7CudgrVn-7hnnXbdklqCA496WOF4y74XH_LjnF4L8mKWePhuo7qpd-9jZwp1UNgt2I2gxzWmczq7ihPTd9_VRIShdzXwgHff-8C-KoMIEgHuvzFP8pJwxCJbeO0Y26abrzZdUwxTm0CtGSSkZQQ..&amp;type=2&amp;query=%E6%B8%AF%E8%82%A1 %E6%9D%BF%E5%9D%97&amp;token=22A8D2F049E2F5572A2D7805F9A8BA722B4A36AF6A1D7271",
+          "time": "",
+          "desc": "农历马年开局,港股科技股延续震荡,恒生科技指数自去年高点最大回撤已达29.27%.港股科技板块何时或会迎来趋势性修复机会?..."
+        },
+        {
+          "title": "2026年港股为何持续弱势?各板块ETF表现解析,未来机会与布局时机全攻略",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b6hkNi5Lmrbu-cJ9ARKmOJ1qXa8Fplpd9w776S1eDWge6XqoI23KDOhQexkvYRzWKneW9cxEfjEXXXT6JXa80DRUsCkWVwwtzcKs_OVeiS1kDrbWqXG_4ezV0kVj-EMKAF1uwpYYDcbjPOBR0ci-yEmPyQua3HqaRxC4v9pxz180oqmKDhuEbimikicXO1NI_l6v14-jiHsSAFV_3u-a3OQ..&amp;type=2&amp;query=%E6%B8%AF%E8%82%A1 %E6%9D%BF%E5%9D%97&amp;token=22A8D2F049E2F5572A2D7805F9A8BA722B4A36AF6A1D7271",
+          "time": "",
+          "desc": "其他板块港股ETF表现如何?港股未来还有机会吗?什么时候才能布局?其实结合2026年开年至今的港股走势、资金流向及板块表现,..."
+        }
+      ]
     },
     {
       "code": "510300",
@@ -697,19 +805,55 @@
         "today_tag": "📉 下跌",
         "short_trend": "震荡",
         "mid_trend": "偏强",
-        "verdict": "短期回调，中期趋势仍向好，关注均线支撑",
+        "verdict": "短期回调消化压力，中期趋势仍向好。若MA20企稳回升可考虑布局。风险评分5/10(🟡 中等)。",
         "details": [
           "📉 下跌 -1.12%，在25个板块中排名第14",
-          "短期MA20：跌破0.7%，趋势震荡",
-          "中期MA60：站上3.0%，趋势偏强",
-          "近1周：-2.05%",
-          "近1月：+2.10%",
-          "年初至今：+3.16%"
+          "📏 均线：MA20偏离-0.7% | MA60偏离+3.0% | 均线交织 ↔️",
+          "⚡ 动量：弱势回调 | 低波动 💤 | 连跌3天 ⚠️",
+          "📅 近1周：-2.05%",
+          "📅 近1月：+2.10%",
+          "📅 近3月：+3.27%，排名第13",
+          "📅 年初至今：+3.16%"
         ],
         "rank_change": 14,
-        "rank_1m": 13
+        "rank_1m": 13,
+        "align": "均线交织 ↔️",
+        "momentum": "弱势回调",
+        "vola": "低波动 💤",
+        "risk_score": 5,
+        "risk_level": "🟡 中等",
+        "streak_text": "连跌3天 ⚠️"
       },
-      "news": []
+      "news": [
+        {
+          "title": "沪深300指数调整在即,游戏板块成大热门",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b6hkNi5Lmrbu-cJ9ARKmOJ1qXa8Fplpd9-4pWPab400xmvBG-af40f-zN4SurBt3Mp-lRVzWhZl8JZTjthKDYlUBn91V3RZQgLJIAyfuCSKyLVNsena_YOTh-fnwAXFd7omTitz1SMqRc9kl0pKFFn3kvAeXqsVtPlj0snmtK4bwstmz75NxhSvTivsQ525A-6pcpczCZtpBf_71bqkOtiw..&amp;type=2&amp;query=%E6%B2%AA%E6%B7%B1300 %E6%9D%BF%E5%9D%97&amp;token=22A8D416B81205A6DADD88F4085D8C93DBFBA7BE6A1D7271",
+          "time": "",
+          "desc": "作为网络游戏概念股中的代表之一,和仅有的几只沪深300指数网游板块概念成分股,相比于同行业其他上市公司,三七互娱将获得更..."
+        },
+        {
+          "title": "沪深300继续等待中线回调结束,关注医药等板块回调结束点",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b6hkNi5Lmrbu-cJ9ARKmOJ1qXa8Fplpd9UfC5LWQndRBWnb_HyZIeOv-Qm1Z4h9yQm9XSBg8qIFWJBL3D7M9pPmufOsqHLBZLkD_Nfrfj2BUzqbjvfsjDxr8aWXsWI1xkg3FZiLunl5GJ1HNypbWfIAussyBw8thbWdTBtaktaqlLNaucgqmbHmovtd0XgWkDVNT6bTWsHuWrCDCayYmfpA..&amp;type=2&amp;query=%E6%B2%AA%E6%B7%B1300 %E6%9D%BF%E5%9D%97&amp;token=22A8D416B81205A6DADD88F4085D8C93DBFBA7BE6A1D7271",
+          "time": "",
+          "desc": "但是放长周期,这两个板块是长期跑赢沪深300的板块,大家可以去统计下,长期跑赢沪深300的板块不多,医药和消费就在其中.医..."
+        },
+        {
+          "title": "上证50+沪深300VS创业板",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b6hkNi5Lmrbu-cJ9ARKmOJ1qXa8Fplpd9diHXgrTUz_yRAS95wsYVvUlTE5k77ymssvZnBAtwacYxj99OD3jRIOtVnVOBeUn34_XXJcsYW-lItRemyknbv4S7FLQ1vIn9zI1MyRY3fz17J8RX-xqTd9r3EjWeIVtOymBWgzxzajc5QoEXkAhNrs_7f6H09KEltz3PjqjEue5j3x9Nw6p-Fg..&amp;type=2&amp;query=%E6%B2%AA%E6%B7%B1300 %E6%9D%BF%E5%9D%97&amp;token=22A8D416B81205A6DADD88F4085D8C93DBFBA7BE6A1D7271",
+          "time": "",
+          "desc": "上证50+沪深300包含了管理层意志,所以虽然各种顶部背离,但... 西藏板块:三板瓶颈,因此分化成为必然,只要阿三不结束挑衅,..."
+        },
+        {
+          "title": "沪深300、创业板指、中证500,不同指数的特点及优势",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b6hkNi5Lmrbu-cJ9ARKmOJ1qXa8Fplpd94afHzd6C37b6O5MHCsN9PO6vfoz6jDQf8j1GzaiFk8gm3lEky4dj0A0C-dz23MejmTHZc6RUMxi-jMsavtMWp7co0KRPxOzEThd8a7ZsicgU9llYuAMmDbrnmE0SFgVjsTVUu3F_ZA7fEcn0fedsvHhugsy-BzaWERxAe7z1nPj6zvkPgoArRQ..&amp;type=2&amp;query=%E6%B2%AA%E6%B7%B1300 %E6%9D%BF%E5%9D%97&amp;token=22A8D416B81205A6DADD88F4085D8C93DBFBA7BE6A1D7271",
+          "time": "",
+          "desc": "类似的还有周期股、热门板块个股,长期在中证500里默默无闻,爆发后由沪深300接收.除了接盘,沪深300还容易割肉给中证500...."
+        }
+      ]
     },
     {
       "code": "510500",
@@ -876,19 +1020,55 @@
         "today_tag": "↘️ 微跌",
         "short_trend": "偏弱",
         "mid_trend": "震荡",
-        "verdict": "短期回调，中期趋势仍向好，关注均线支撑",
+        "verdict": "短期回调消化压力，中期趋势仍向好。若MA20企稳回升可考虑布局。风险评分5/10(🟡 中等)。",
         "details": [
           "↘️ 微跌 -0.86%，在25个板块中排名第12",
-          "短期MA20：跌破3.6%，趋势偏弱",
-          "中期MA60：站上0.9%，趋势震荡",
-          "近1周：-4.36%",
-          "近1月：+1.17%",
-          "年初至今：+8.28%"
+          "📏 均线：MA20偏离-3.6% | MA60偏离+0.9% | 均线交织 ↔️",
+          "⚡ 动量：弱势回调 | 中等波动 | 连跌2天 ⚠️",
+          "📅 近1周：-4.36%",
+          "📅 近1月：+1.17%",
+          "📅 近3月：-1.17%，排名第14",
+          "📅 年初至今：+8.28%"
         ],
         "rank_change": 12,
-        "rank_1m": 14
+        "rank_1m": 14,
+        "align": "均线交织 ↔️",
+        "momentum": "弱势回调",
+        "vola": "中等波动",
+        "risk_score": 5,
+        "risk_level": "🟡 中等",
+        "streak_text": "连跌2天 ⚠️"
       },
-      "news": []
+      "news": [
+        {
+          "title": "天天被我黑的中证500和创业板,下半年也许有不错的机会",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b6hkNi5Lmrbu-cJ9ARKmOJ1qXa8Fplpd9YoiX6VH5ofuQf4RxRoZ4J3oVZX85yNMzUEXMNWO_B0ym9nGJDWffjy6I1UlkausDzbh_3zPcjaPF44g2v964uishRJ3IpI0KCEMJriP1CZgsgXpC7RXUV62hUMdzcVd7__E-owr6l7UA7K-MZIdjjx7gdnejuT0niIhUhqYNMXTy08OLTBhW0A..&amp;type=2&amp;query=%E4%B8%AD%E8%AF%81500 %E6%9D%BF%E5%9D%97&amp;token=22A8D5398D263193EEE8BDC13C66C9E7EFF030726A1D7271",
+          "time": "",
+          "desc": "而是偏中盘的龙头以及背后对应的中证500板块.不过目前哪些企业会被纳入我们还不知道,但是有一个线索我们可以参考,5月份的时..."
+        },
+        {
+          "title": "建投专题 &middot; 中证500与创业板ETF期权上市影响几何?",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b6hkNi5Lmrbu-cJ9ARKmOJ1qXa8Fplpd9WsLwBCfZiNryP280oz5pJzlXxtIo48XTfLm5G_rArdzPvzH78Ic-qu_N4N5h-InG-sqHue8prDL8dsFCRDg7Pd0zBgZq2RiTLri7-CfUpQzjrhm2DOYol0a27CiMyLSrJjoQKZdlya44dqcxKF3q418b6rLCkCSGR7qKZnr2XwGFW6cwuUnkdA..&amp;type=2&amp;query=%E4%B8%AD%E8%AF%81500 %E6%9D%BF%E5%9D%97&amp;token=22A8D5398D263193EEE8BDC13C66C9E7EFF030726A1D7271",
+          "time": "",
+          "desc": "中证500在材料、金融、日常消费等行业板块与沪深300差异较为明显,沪深300 指数中权重股集中于金融、信息技术、工业、日常消..."
+        },
+        {
+          "title": "中证500&amp;创业板,应该怎么选?",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b6hkNi5Lmrbu-cJ9ARKmOJ1qXa8Fplpd940GWYp2-kl8Mpg4DD6KdckeFEa4tDdJvaQ6AR9TxnHPJ7DskFoHw5uxdDFzfEYu7vJfBqTp1NeKheStx0rx7UTcybgkuQ_r6A73MMmjpwclbslgwPCAM8ot4hRqX_jF1MJ9PvfFw-UY3pTrVMmMfhqE1-as7MFHjczRmZZXTluWFW6cwuUnkdA..&amp;type=2&amp;query=%E4%B8%AD%E8%AF%81500 %E6%9D%BF%E5%9D%97&amp;token=22A8D5398D263193EEE8BDC13C66C9E7EFF030726A1D7271",
+          "time": "",
+          "desc": "其中,与中证500指数成分股重合的有31只.行业分布上,创业板更集中在信息技术、医疗保健、日常消费等板块,尤其是信息技术、..."
+        },
+        {
+          "title": "沪深300、创业板指、中证500,不同指数的特点及优势",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b6hkNi5Lmrbu-cJ9ARKmOJ1qXa8Fplpd94afHzd6C37b6O5MHCsN9PO6vfoz6jDQf8j1GzaiFk8gm3lEky4dj0A0C-dz23MejmTHZc6RUMxi-jMsavtMWp7co0KRPxOzEThd8a7ZsicgU9llYuAMmDbrnmE0SFgVjsTVUu3F_ZA7fEcn0fedsvHhugsy-BzaWERxAe7z1nPj6zvkPgoArRQ..&amp;type=2&amp;query=%E4%B8%AD%E8%AF%81500 %E6%9D%BF%E5%9D%97&amp;token=22A8D5398D263193EEE8BDC13C66C9E7EFF030726A1D7271",
+          "time": "",
+          "desc": "类似的还有周期股、热门板块个股,长期在中证500里默默无闻,爆发后由沪深300接收.除了接盘,沪深300还容易割肉给中证500...."
+        }
+      ]
     },
     {
       "code": "588000",
@@ -1055,19 +1235,55 @@
         "today_tag": "💥 大跌",
         "short_trend": "偏弱",
         "mid_trend": "偏强",
-        "verdict": "短期弱势，可能受利空影响，关注下方支撑",
+        "verdict": "短期加速下跌，均线空头排列，需警惕继续下行。风险评分5/10(🟡 中等)，关注下方支撑位。",
         "details": [
           "💥 大跌 -4.88%，在25个板块中排名第22",
-          "短期MA20：跌破4.8%，趋势偏弱",
-          "中期MA60：站上11.1%，趋势偏强",
-          "近1周：-11.08%",
-          "近1月：+11.61%",
-          "年初至今：+18.32%"
+          "📏 均线：MA20偏离-4.8% | MA60偏离+11.1% | 均线交织 ↔️",
+          "⚡ 动量：加速下跌 | 高波动 🌊 | 连跌2天 ⚠️",
+          "📅 近1周：-11.08%",
+          "📅 近1月：+11.61%",
+          "📅 近3月：+13.42%，排名第6",
+          "📅 年初至今：+18.32%"
         ],
         "rank_change": 22,
-        "rank_1m": 6
+        "rank_1m": 6,
+        "align": "均线交织 ↔️",
+        "momentum": "加速下跌",
+        "vola": "高波动 🌊",
+        "risk_score": 5,
+        "risk_level": "🟡 中等",
+        "streak_text": "连跌2天 ⚠️"
       },
-      "news": []
+      "news": [
+        {
+          "title": "【周末财经】科创50板块压舱石作用明显 专家称\"已进入配置区间\"",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b_X1xApDDJhS-cJ9ARKmOJ1qXa8Fplpd9vXLMEN8HdtL94w9LkFYXcEpHcEJejMyudR6yOMTgpY-sMmSSh7pdnmnZhqKrWBzTwZx98_gzcRRWP2zvQWpqHAiiRng-7LdxlTa5G-esq2WNmgGwA40RHOps2zPHEGYb8RDaF5DbjZZ1stqdHlIcFgjy-Vcs96CXZWaSu_wGwvJ5Nu7CnoSqqg..&amp;type=2&amp;query=%E7%A7%91%E5%88%9B50 %E6%9D%BF%E5%9D%97&amp;token=22A8D64A04AFB81B67613548B5EAE3376713DD566A1D7272",
+          "time": "",
+          "desc": "科创50业绩高成长 彰显板块中坚力量2021年,科创板公司共计实现营业收入8,344.54亿元,归母净利润948.41亿元,其中科创50指数..."
+        },
+        {
+          "title": "科创50重磅来袭!一个板块,三个领域,拿走不谢!",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b_X1xApDDJhS-cJ9ARKmOJ1qXa8Fplpd9A5AQySUGi2NqENr2gQDUuDuxWEX8JGiQ4IHqk_twOQLYfcosjaqNigN34n2FIwIN2V1WcLMIgB4CkRykuI3l_7v8XVSwAOUj5IQRBhhJ6BI4oIFayuNisNt3XJDl7AqTsLXd2zRgd-rULfytwTZYCT0MzN_53epDwFYoMI1SrlG54z_tGSZTqA..&amp;type=2&amp;query=%E7%A7%91%E5%88%9B50 %E6%9D%BF%E5%9D%97&amp;token=22A8D64A04AFB81B67613548B5EAE3376713DD566A1D7272",
+          "time": "",
+          "desc": "那么科创50哪些板块值得我们跟踪?首先科创50成分股当中80%-90%的股票都是医药.对于科技的不稳定性,我们一直都带有偏见,..."
+        },
+        {
+          "title": "上海亚商投顾:科创50指数跌超5% 大消费板块逆势走强",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b_X1xApDDJhS-cJ9ARKmOJ1qXa8Fplpd9jDc8vOC1VW8PU1hNkTOdI0pQ09TOTLKn1JWhA9vf2vseIEHcjBQyFIIyXOOxghNBB875lK4zZGOFI_NY3iKEgAyOvD-r7q-Cgw53ZDn5RTuBUpDWmS8rla75JuHpHX1wkR0FspHSmR5M6XFw1y1wS8MIowd2bX9CK_aTvO9BOGOE8RsmObDbtQ..&amp;type=2&amp;query=%E7%A7%91%E5%88%9B50 %E6%9D%BF%E5%9D%97&amp;token=22A8D64A04AFB81B67613548B5EAE3376713DD566A1D7272",
+          "time": "",
+          "desc": "市场情绪市场全天高开低走,创业板指跌超2%,科创50指数跌超5%.大消费板块逆势走强,酒鬼酒、东百集团、国芳集团等多股涨停..."
+        },
+        {
+          "title": "解析科创50指数的板块代表性&mdash;&mdash;科创板系列研究(十六)【兴证策略|科创板】",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b_X1xApDDJhS-cJ9ARKmOJ1qXa8Fplpd9I58Y3yeWDdLcxN4TCJ3FJUnJnEBBZWdEY3bkebBkwOg0kUD8WLLV0q7tYx6-fKuJR25t4AIe4TBeE2LVaYdEJZWPA2mvVkLuE62j44Mw33-0s0zwbkkDwyCGH6E_I_A51oNTYNY3y4Si_asnHYA87ceaK4-LdgcBhI0odS8P4ur1AfaFW2DefQ..&amp;type=2&amp;query=%E7%A7%91%E5%88%9B50 %E6%9D%BF%E5%9D%97&amp;token=22A8D64A04AFB81B67613548B5EAE3376713DD566A1D7272",
+          "time": "",
+          "desc": "《解析科创50指数的板块代表性&mdash;&mdash;科创板系列研究(十六)(兴证策略王德伦团队20200623)》报告发布机构:兴业证券股份有限..."
+        }
+      ]
     },
     {
       "code": "159781",
@@ -1232,19 +1448,55 @@
         "today_tag": "💥 大跌",
         "short_trend": "偏强",
         "mid_trend": "偏强",
-        "verdict": "短期承压，建议结合基本面消息综合判断",
+        "verdict": "短期承压，加速下跌。建议结合基本面消息综合判断。风险评分7/10(🟡 中等)。",
         "details": [
           "💥 大跌 -4.77%，在25个板块中排名第21",
-          "短期MA20：站上1.4%，趋势偏强",
-          "中期MA60：站上18.2%，趋势偏强",
-          "近1周：-5.35%",
-          "近1月：+18.36%",
-          "年初至今：+30.59%"
+          "📏 均线：MA20偏离+1.4% | MA60偏离+18.2% | 多头排列 ✅",
+          "⚡ 动量：加速下跌 | 中等波动 | 连跌2天 ⚠️",
+          "📅 近1周：-5.35%",
+          "📅 近1月：+18.36%",
+          "📅 近3月：+31.70%，排名第3",
+          "📅 年初至今：+30.59%"
         ],
         "rank_change": 21,
-        "rank_1m": 3
+        "rank_1m": 3,
+        "align": "多头排列 ✅",
+        "momentum": "加速下跌",
+        "vola": "中等波动",
+        "risk_score": 7,
+        "risk_level": "🟡 中等",
+        "streak_text": "连跌2天 ⚠️"
       },
-      "news": []
+      "news": [
+        {
+          "title": "科创创业50、电子、TMT板块2022年投资机会 | 基金经理寄语2022",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b_X1xApDDJhS-cJ9ARKmOJ1qXa8Fplpd9OKPIExpfLVLLy29oSB88kiK1SWcPvQRie3dyZfQMjwQayv2cRBdt-fMpVmC7SpTcGtdO1vFiXKgEDayqnoIMVYYh5eKak0COhUnfXuS_DdcpMlc0dsM7JGqW_i4asJqbdXdscGMJx7Heps8ejWndLAPuuZLaiQTEvUeaWcRXPoE6Ebq8fk9diw..&amp;type=2&amp;query=%E7%A7%91%E5%88%9B%E5%88%9B%E4%B8%9A %E6%9D%BF%E5%9D%97&amp;token=22A8D79E6FC5D2700C0A5F23DF82414D0D7B40766A1D7272",
+          "time": "",
+          "desc": "TMT板块2022年投资机会★科创创业50板块2022年投资机会:三年以来有很多优质硬科技公司已经体现出投资价值.科创板目前上市..."
+        },
+        {
+          "title": "线上讲座 | 第三期科技创新创业板块讲座排课重磅来袭",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b_X1xApDDJhS-cJ9ARKmOJ1qXa8Fplpd9yiCCaeAPf5QxtpZd86fNMptTRvz__actJKir_lbU_3HX-ieFj9QZsNj2br_qHzlUvQ85msRKoQuSSfEH2KdzGiDGiql3rFlW-dHB6mQdsK9v_Uy-r0SUmumoPDDzQNyKMw7MufWbU6rruiJZG5CHchYAOePBpsF7GaAkZ00s882FW6cwuUnkdA..&amp;type=2&amp;query=%E7%A7%91%E5%88%9B%E5%88%9B%E4%B8%9A %E6%9D%BF%E5%9D%97&amp;token=22A8D79E6FC5D2700C0A5F23DF82414D0D7B40766A1D7272",
+          "time": "",
+          "desc": "BIM高校学生论坛特别出品          &mdash;&mdash;第三期科技创新创业板块讲座排课重磅来袭姓名身份时间(北京时间)主题戴愉人上海鲁班工程顾..."
+        },
+        {
+          "title": "模拟芯片涨价潮开启?科创创业板块迎来哪些新机遇?",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b_X1xApDDJhS-cJ9ARKmOJ1qXa8Fplpd9l90p29GKe7hHQPJF-8a7bc2YAnltlt0vKLDq5wES_h52xRtDneQ87iRF_4dhiTvUV-dyQq_83d3SRJhs3GUA386oDJ1RtRk7tn-jR36CzSFOknRuUFvj1qC3TU7cmaHTVQBEqI-9Ub1ebqIuF8rNxbaHEbZ1Dpuhdoe86GClxk76zvkPgoArRQ..&amp;type=2&amp;query=%E7%A7%91%E5%88%9B%E5%88%9B%E4%B8%9A %E6%9D%BF%E5%9D%97&amp;token=22A8D79E6FC5D2700C0A5F23DF82414D0D7B40766A1D7272",
+          "time": "",
+          "desc": "一 科创创业宽基指数概况1、科技板块概况上周(2026.3.23-2026.3.27)市场继续承压但边际减弱,科创综指下跌0.44%,创业板指下..."
+        },
+        {
+          "title": "线上讲座|第二期科技创新创业板块课程重磅来袭",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b_X1xApDDJhS-cJ9ARKmOJ1qXa8Fplpd9yiCCaeAPf5QxtpZd86fNMptTRvz__actJKir_lbU_3HX-ieFj9QZsNo7pFPrKs_a7Mi5pjsJQ4KF3784mc0vv-4Sd6miRwfj1xN-r6M5L_KjYoKYAU9FLlaVB91QHMFefBbbDTLBDos1LBn39TpbNxJvXevZ3Y-hCrsnIOTfNlP0OK9DLfgmPA..&amp;type=2&amp;query=%E7%A7%91%E5%88%9B%E5%88%9B%E4%B8%9A %E6%9D%BF%E5%9D%97&amp;token=22A8D79E6FC5D2700C0A5F23DF82414D0D7B40766A1D7272",
+          "time": "",
+          "desc": "BIM高校学生论坛特别出品                   &mdash;&mdash;第二期科技创新创业板块课程重磅来袭 姓名身份时间(北京时间)主题汪洋同炎数智科技(..."
+        }
+      ]
     },
     {
       "code": "159915",
@@ -1411,19 +1663,55 @@
         "today_tag": "📉 下跌",
         "short_trend": "震荡",
         "mid_trend": "偏强",
-        "verdict": "短期承压，建议结合基本面消息综合判断",
+        "verdict": "短期承压，弱势回调。建议结合基本面消息综合判断。风险评分5/10(🟡 中等)。",
         "details": [
           "📉 下跌 -2.20%，在25个板块中排名第16",
-          "短期MA20：站上0.4%，趋势震荡",
-          "中期MA60：站上10.9%，趋势偏强",
-          "近1周：-2.34%",
-          "近1月：+9.94%",
-          "年初至今：+20.69%"
+          "📏 均线：MA20偏离+0.4% | MA60偏离+10.9% | 多头排列 ✅",
+          "⚡ 动量：弱势回调 | 中等波动 | 连跌2天 ⚠️",
+          "📅 近1周：-2.34%",
+          "📅 近1月：+9.94%",
+          "📅 近3月：+20.18%，排名第8",
+          "📅 年初至今：+20.69%"
         ],
         "rank_change": 16,
-        "rank_1m": 8
+        "rank_1m": 8,
+        "align": "多头排列 ✅",
+        "momentum": "弱势回调",
+        "vola": "中等波动",
+        "risk_score": 5,
+        "risk_level": "🟡 中等",
+        "streak_text": "连跌2天 ⚠️"
       },
-      "news": []
+      "news": [
+        {
+          "title": "皑大佳:创业板利空完胜利好,三大板块上演崩盘中.",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b_X1xApDDJhS-cJ9ARKmOJ1qXa8Fplpd9b8JRpqk4Z4AFc2PgA-NrqMf8fDxpLGsoLoThy00pHRoJWPOko9pmgNjIJz-X2id_yo_Htrv1YtRQS03X7KZEO5eyRbAbkpkdJ8E1f4kOd8NiXL9fnFm5KwsSvuEX5673yZJX2JDhsHcCzNPZJQbSjKUpRVSV-sQ9cTzc9hGLD6MO8fIRwtipOg..&amp;type=2&amp;query=%E5%88%9B%E4%B8%9A%E6%9D%BF %E6%9D%BF%E5%9D%97&amp;token=22A8D8E519B3A4067A7C2854A8E9F31A7BED43CD6A1D7272",
+          "time": "",
+          "desc": "但更多的是对创业板整个板块的失望.信心的缺失如此可怕.     于是整个创业板终于创出了新低.      在行情惨淡的时候,之前一时显..."
+        },
+        {
+          "title": "创业板注册制来了 A股市场影响几何?哪些板块将受益?",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b_X1xApDDJhS-cJ9ARKmOJ1qXa8Fplpd9G_Ds0sMkR0HT81Cpg4kvUJfGCc3TcJd-cfQiv5D_1uYv1OygLJ0YRWv_wTGF2f2Y4uZ5gC89VKFxswH8l1nyeuUgUI1-0L-WHfR6pSZWh__CY_Ujkm2YtyWzII1fAbXtZMNiqtfe9VQ2SLFifL4QATmrNeloxpKRVEKauEyTfkNOJBjQH7pCxQ..&amp;type=2&amp;query=%E5%88%9B%E4%B8%9A%E6%9D%BF %E6%9D%BF%E5%9D%97&amp;token=22A8D8E519B3A4067A7C2854A8E9F31A7BED43CD6A1D7272",
+          "time": "",
+          "desc": "交易、退市等基础性制度改革,坚持创业板和其他板块错位发展,找准各自定位,办出各自特色,推动形成各有侧重、相互补充的适度..."
+        },
+        {
+          "title": "创业板改革试点注册制!券商板块向上弹性极大!",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b_X1xApDDJhS-cJ9ARKmOJ1qXa8Fplpd9CtcBbB3BDMtrlGHvnhxKSrev5w1iLvMMfafnPDQ8gLqrQqOIG8zokIbWzzizwVKdLg7y3XtcpUnE16_0XOdpgSAOsd3D4Kmf_Aj7fRF-27WBU9lC5DFAFHeEEKT_QtUBjLu65aa8lloxreSKLV2_hAcOsdLqlMHDQaG6JwOMoK1OJBjQH7pCxQ..&amp;type=2&amp;query=%E5%88%9B%E4%B8%9A%E6%9D%BF %E6%9D%BF%E5%9D%97&amp;token=22A8D8E519B3A4067A7C2854A8E9F31A7BED43CD6A1D7272",
+          "time": "",
+          "desc": "此次会议强调&ldquo;坚持创业板和其他板块错位发展,找准各自定位,办出各自特色,推动形成各有侧重、相互补充的适度竞争格局&rdquo;,..."
+        },
+        {
+          "title": "创业板再次逆袭!这一板块被普遍看好......",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b_X1xApDDJhS-cJ9ARKmOJ1qXa8Fplpd9zBHY60FB-7DuyhiBI9KILBAs9QrX9mpqBsylIQ6jN98aQ1BNunz9kL8nkPHsTFGN6gm17bz3AQa95r13c3ZqV6vYQRXWVdzwBpOqCFuYhSod7qfhqdQCyRFKlolgxAqnzwiMMly1jBNWOJ8qVhHq9J401hdEiisFF-CLaZt8LPLvzHZXxeLdyg..&amp;type=2&amp;query=%E5%88%9B%E4%B8%9A%E6%9D%BF %E6%9D%BF%E5%9D%97&amp;token=22A8D8E519B3A4067A7C2854A8E9F31A7BED43CD6A1D7272",
+          "time": "",
+          "desc": "周三主要股指早盘低开,随后出现分化:国产软件、通讯等概念板块逆势走强,带动创业板指数翻红.权重股整体低迷,拖累沪指低位..."
+        }
+      ]
     },
     {
       "code": "159819",
@@ -1588,19 +1876,55 @@
         "today_tag": "📉 下跌",
         "short_trend": "偏弱",
         "mid_trend": "偏强",
-        "verdict": "短期回调，中期趋势仍向好，关注均线支撑",
+        "verdict": "短期回调消化压力，中期趋势仍向好。若MA20企稳回升可考虑布局。风险评分5/10(🟡 中等)。",
         "details": [
           "📉 下跌 -2.64%，在25个板块中排名第18",
-          "短期MA20：跌破2.2%，趋势偏弱",
-          "中期MA60：站上12.5%，趋势偏强",
-          "近1周：-6.22%",
-          "近1月：+11.14%",
-          "年初至今：+21.27%"
+          "📏 均线：MA20偏离-2.2% | MA60偏离+12.5% | 均线交织 ↔️",
+          "⚡ 动量：加速下跌 | 中等波动 | 连跌2天 ⚠️",
+          "📅 近1周：-6.22%",
+          "📅 近1月：+11.14%",
+          "📅 近3月：+20.13%，排名第7",
+          "📅 年初至今：+21.27%"
         ],
         "rank_change": 18,
-        "rank_1m": 7
+        "rank_1m": 7,
+        "align": "均线交织 ↔️",
+        "momentum": "加速下跌",
+        "vola": "中等波动",
+        "risk_score": 5,
+        "risk_level": "🟡 中等",
+        "streak_text": "连跌2天 ⚠️"
       },
-      "news": []
+      "news": [
+        {
+          "title": "人工智能板块年内大涨47%,现在还能上车吗?",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b_X1xApDDJhS-cJ9ARKmOJ1qXa8Fplpd9FEMmrPw6J0-nMBLtoGD2BwqftboHfmfXJWQVlBYQjbbVk0VVhOuER_lHhJA9C7UECUnPeX5oKvTX4NeNIDbuuWrw6hOj8dBNB1HHoYatdplmh5kUecslZlX1SXuJQOtuPu0yYtv9JlwK4ArxN5hL6mbRiNSvklpQXyQhspVnG0D2CsG6-xMgzQ..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E6%9D%BF%E5%9D%97&amp;token=22A8DA416BC0D67408015B28DB9D6DAF08C6FAA36A1D7272",
+          "time": "",
+          "desc": "在此背景下,科技股里的细分领域&mdash;&mdash;人工智能板块年内飘红.Wind数据显示,截至2019年11月14日,中证人工智能主题指数(..."
+        },
+        {
+          "title": "人工智能板块23股年报预盈 私募机构看好产业长期需求",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b_X1xApDDJhS-cJ9ARKmOJ1qXa8Fplpd9_uefAUkSLjy95D4DiYZpqzYS5Ojlkm4iJVMgAJ0CZSx9FBK1Yq22m0g8sAppvFfGLyszg_98n44ndB5FEYLSElrrxvgUWsnkB6DxKznzxGo2GdWJdH0lK8CQ68Cp9GOKQblSGFD4dH9KbMQY9E0oSRPkc5MEq1Ke-ELyLj9eSbY6Ebq8fk9diw..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E6%9D%BF%E5%9D%97&amp;token=22A8DA416BC0D67408015B28DB9D6DAF08C6FAA36A1D7272",
+          "time": "",
+          "desc": "8JAN文 | 李正图 | 包图网随着年报季逐渐临近,作为2020年的热门概念板块,已有不少人工智能板块公司迫不及待地提前发布了2020..."
+        },
+        {
+          "title": "人工智能板块\"泡沫化\"了?| 汇听环球财富",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b_X1xApDDJhS-cJ9ARKmOJ1qXa8Fplpd9QFlkyNz1-N8znU_3dTGN71ZQJohINlpetQuJR05tIsJpv8udGv2xV5xsn5RvrhjvFMcPmIFbuX1UMjmUUlC3IV5pzJv5jJ81gU2kht8Ez97scoxRhs2HMElTQGjHTWy_M0as0pBTxObLyexX0jK2n0D8iPcycEwlZOIskXCMTOIYJSSFPgfogQ..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E6%9D%BF%E5%9D%97&amp;token=22A8DA416BC0D67408015B28DB9D6DAF08C6FAA36A1D7272",
+          "time": "",
+          "desc": "&darr;点击收听&darr;我们并未看到人工智能板块 &ldquo;泡沫化&rdquo;的迹象,近期的市场调整更接近健康的重新定价,而并非趋势逆转.我们依然认为该..."
+        },
+        {
+          "title": "3.27 人工智能板块还能强多久?",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b_X1xApDDJhS-cJ9ARKmOJ1qXa8Fplpd9BrUzapk_Rho_DeFPkZv2ZFZjCxWg0ntyHBMpeUJ_OJuqpZvw03CYL5tztRtT_uPgHh0goWugmRza-Ut8gddeG8vcXSIK7ggS2AqagUxt5RygMb4jy4iRkv_XbdHmBDh_0uplrQM6CQO-m9MxRpCaAj0fMjpah4ydqzHDB_f8RlstPujwwRB2Pw..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E6%9D%BF%E5%9D%97&amp;token=22A8DA416BC0D67408015B28DB9D6DAF08C6FAA36A1D7272",
+          "time": "",
+          "desc": "人工智能板块出现了&ldquo;左侧&rdquo;过热的信号,密切跟踪龙头股走势的强弱.市场聚焦的核心热点依然是AI、数字经济、国企改革相关主题..."
+        }
+      ]
     },
     {
       "code": "159995",
@@ -1765,19 +2089,55 @@
         "today_tag": "💥 大跌",
         "short_trend": "偏弱",
         "mid_trend": "偏强",
-        "verdict": "短期回调，中期趋势仍向好，关注均线支撑",
+        "verdict": "短期回调消化压力，中期趋势仍向好。若MA20企稳回升可考虑布局。风险评分8/10(🔴 较高)。",
         "details": [
           "💥 大跌 -5.38%，在25个板块中排名第23",
-          "短期MA20：跌破2.3%，趋势偏弱",
-          "中期MA60：站上18.0%，趋势偏强",
-          "近1周：-12.93%",
-          "近1月：+19.04%",
-          "年初至今：+30.22%"
+          "📏 均线：MA20偏离-2.3% | MA60偏离+18.0% | 均线交织 ↔️",
+          "⚡ 动量：加速下跌 | 中等波动 | 连跌2天 ⚠️",
+          "📅 近1周：-12.93%",
+          "📅 近1月：+19.04%",
+          "📅 近3月：+21.31%，排名第2",
+          "📅 年初至今：+30.22%"
         ],
         "rank_change": 23,
-        "rank_1m": 2
+        "rank_1m": 2,
+        "align": "均线交织 ↔️",
+        "momentum": "加速下跌",
+        "vola": "中等波动",
+        "risk_score": 8,
+        "risk_level": "🔴 较高",
+        "streak_text": "连跌2天 ⚠️"
       },
-      "news": []
+      "news": [
+        {
+          "title": "存储器价格暴涨近1000%,A股存储芯片板块还能涨多久?",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b_X1xApDDJhS-cJ9ARKmOJ1qXa8Fplpd9cROj5pv3vjjWJu0hfLELjr_OPr0l0zbx6wQ93lyTLxGkopkH6i2_1r-uzucnAnUuEJNr1JSKTCslX0GidcKBPTN1hltPkTQHRLfP5AlMHW_S60HksNMUOCepDrdN_8FPxLyLra5f4xo_hLGnNi4HWQnHj1qEbKowYip6vhooqDfP28temKTOwg..&amp;type=2&amp;query=%E8%8A%AF%E7%89%87 %E6%9D%BF%E5%9D%97&amp;token=22A8DBA2F75C4DE89392C0BC470C392394CBD45E6A1D7272",
+          "time": "",
+          "desc": "东方豪侠预言A股存储芯片板块至少还要涨3个月左右.郑重提示:东方豪侠发文纯属自娱自乐,不构成任何推荐或建议.东方豪侠欢..."
+        },
+        {
+          "title": "数据揭秘&mdash;&mdash;AI应用与芯片板块呈现冰火两重天!",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b_X1xApDDJhS-cJ9ARKmOJ1qXa8Fplpd9GkNWbpjSwnpUyLZdc__7JCLYgg7SPIeglcVoo07YyeeAFeL4fUTxce5JVLjRUMydEp_m_1C0DRPAPlJ-45C_Hk4V0QV0eQ-xik5jPTQwAdJDgAZj65civsAXQAUDI6mIBM--73-7Pe0O8qeSBZ4OqPgx5PMdgnJBrqtApaJXq6ryPfCoem7FzA..&amp;type=2&amp;query=%E8%8A%AF%E7%89%87 %E6%9D%BF%E5%9D%97&amp;token=22A8DBA2F75C4DE89392C0BC470C392394CBD45E6A1D7272",
+          "time": "",
+          "desc": "&ldquo;煤炭板块爆发,大有能源、郑州煤电、昊华能源、晋控煤业、潞... 但需警惕受资金流出的芯片、光通信及部分消费电子股的调整风险..."
+        },
+        {
+          "title": "存储芯片板块走低,东芯股份跌超10%",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b_X1xApDDJhS-cJ9ARKmOJ1qXa8Fplpd9eKyFVaIhv7Py-f2oio9Xhe5GlYdk9j8VDC5k3huok5YvdvqM_xlzDDFG0MB9SPCKjalyE1SQV2IZ-wAc_gVN_4oBMPHg7Ai91jyaPY6RARFOJ9Um_BIiI21NMCDvXJtk3RajP0KfqDgNx-VZmsJrqgyVk-FbkEUSd7i922QSMITYl_Q5RRZQjg..&amp;type=2&amp;query=%E8%8A%AF%E7%89%87 %E6%9D%BF%E5%9D%97&amp;token=22A8DBA2F75C4DE89392C0BC470C392394CBD45E6A1D7272",
+          "time": "",
+          "desc": "6月1日,存储芯片板块走低,东芯股份跌超10%,拓荆科技跌近6%,江波龙、香农芯创、德明利、佰维存储跟跌.推荐阅读160万血本..."
+        },
+        {
+          "title": "投资者在担心什么?美股芯片板块集体回调 市场静待英伟达财报定方向",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b_X1xApDDJhS-cJ9ARKmOJ1qXa8Fplpd9bQD7vJ81IPtUwIQ-AQI-VgINnhUqoQ25XqiFXSnblVrpFqjYCqrDdMhbxH8L3jMK2kxFhJ-Jp6eTdTJg2m3gwbtZBi-ngd2Q2AXtNT_1ofuDnA4R1Pz4kKC8Mm0-otdIyJzzuh2h5GESBrutHilOiAlSEIX9_FuDwti5VE9bkAvYl_Q5RRZQjg..&amp;type=2&amp;query=%E8%8A%AF%E7%89%87 %E6%9D%BF%E5%9D%97&amp;token=22A8DBA2F75C4DE89392C0BC470C392394CBD45E6A1D7272",
+          "time": "",
+          "desc": "追踪芯片板块的iShares半导体ETF下跌3%.费城半导体指数周二大幅下跌逾3%,但该指数年内累计涨幅仍超过60%.投资者在担心什..."
+        }
+      ]
     },
     {
       "code": "159516",
@@ -1942,19 +2302,55 @@
         "today_tag": "💥 大跌",
         "short_trend": "偏弱",
         "mid_trend": "偏强",
-        "verdict": "短期弱势，可能受利空影响，关注下方支撑",
+        "verdict": "短期加速下跌，均线空头排列，需警惕继续下行。风险评分8/10(🔴 较高)，关注下方支撑位。",
         "details": [
           "💥 大跌 -5.38%，在25个板块中排名第24",
-          "短期MA20：跌破4.0%，趋势偏弱",
-          "中期MA60：站上16.9%，趋势偏强",
-          "近1周：-13.11%",
-          "近1月：+17.04%",
-          "年初至今：+39.36%"
+          "📏 均线：MA20偏离-4.0% | MA60偏离+16.9% | 均线交织 ↔️",
+          "⚡ 动量：加速下跌 | 高波动 🌊 | 连跌2天 ⚠️",
+          "📅 近1周：-13.11%",
+          "📅 近1月：+17.04%",
+          "📅 近3月：+23.64%，排名第4",
+          "📅 年初至今：+39.36%"
         ],
         "rank_change": 24,
-        "rank_1m": 4
+        "rank_1m": 4,
+        "align": "均线交织 ↔️",
+        "momentum": "加速下跌",
+        "vola": "高波动 🌊",
+        "risk_score": 8,
+        "risk_level": "🔴 较高",
+        "streak_text": "连跌2天 ⚠️"
       },
-      "news": []
+      "news": [
+        {
+          "title": "半导体设备板块持续高景气  供需分化观点分歧未来如何掘金? | 专题",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bnM-AdHiYe06-cJ9ARKmOJ1qXa8Fplpd9YUPTHVNojaTO9toaR3YOHGe3k_aQbK5ie2Y9Bq5M6BsIoWXlxzyCVSooOPxsCt4faV760qAMkTrUcaz4Owp_el_9HaEE89ADP8z67fV8tMYXt9-ti9rI3KQGFkF5gvNCiPNAa0MSm4U48wBHszJnv3l7gmlZw6NiUqzl9fGbewCTJmCU1UgHwQ..&amp;type=2&amp;query=%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%AE%BE%E5%A4%87 %E6%9D%BF%E5%9D%97&amp;token=22A8DCBE56FCEB493533661AE6AEB11C35C4BF506A1D7273",
+          "time": "",
+          "desc": "半导体设备板块高歌猛进,4月至7月之间,指数显著跑赢大盘,但8月以后行情一度震荡,近一个多月以来指数还出现下滑.中金公司..."
+        },
+        {
+          "title": "半导体设备板块的投资机会",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bnM-AdHiYe06-cJ9ARKmOJ1qXa8Fplpd9-Y1hJQYiKa5HMAM-yN5Wrbau4xCtdsDFisMHF42pyT_rMh8x6WNq1VSe1ohj3BBCiepwyF5TwrDCxO_9ptnQ6yA0OXAD7IBzVXVJE2vWvQUHicbwEN83CXR6SyDSqsIE9zWAhwWbZKwgmU8x6scQp4GOfl6YbZmvVB4-7pWNbe_Yl_Q5RRZQjg..&amp;type=2&amp;query=%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%AE%BE%E5%A4%87 %E6%9D%BF%E5%9D%97&amp;token=22A8DCBE56FCEB493533661AE6AEB11C35C4BF506A1D7273",
+          "time": "",
+          "desc": "01  核心观点全球AI算力需求爆发、半导体周期上行共振,叠加国内晶圆厂扩产提速、国产替代进入从1到N放量阶段,半导体设备板块..."
+        },
+        {
+          "title": "热点解读∣半导体设备板块的新机遇",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bnM-AdHiYe06-cJ9ARKmOJ1qXa8Fplpd9zIlQn6JUWqhZ4jeV-PDzasNYebDlEPffFbgExwyf3I1tVsdDpFDSPXbTbwLm2HBz2lE6IMsFlkogRmSO-ShdezgSKibftCVNuYR26fH5VZOGv2rR3GwueJHKTgAnHnz4mLMObtGuP-cPtfQpuZCaAem5rXbItX_U1CU28W_VSgUY-UZGbO56rA..&amp;type=2&amp;query=%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%AE%BE%E5%A4%87 %E6%9D%BF%E5%9D%97&amp;token=22A8DCBE56FCEB493533661AE6AEB11C35C4BF506A1D7273",
+          "time": "",
+          "desc": "这表明市场对半导体设备板块的长期增长持有高度信心.此外,TrendForce数据显示,由于AI和数据中心需求的不断增长,预计到..."
+        },
+        {
+          "title": "一周解一惑(18):半导体设备板块中报综述【安信机械】",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bnM-AdHiYe06-cJ9ARKmOJ1qXa8Fplpd9T5hifcXmL771JEa2bngGE16n0XDRH-nyIiUISrGpkibmNFwjxz-bDRE3MXW2trlgFgX1JBrBG87iNtGZ8AGdJYpXumKrocd3yzHVGdatrbgSNOn12EPwAH1r4EDhGqHg8P_Q_L53_ESkIfVThZ7Vg42eUb15elmZScvgYw0ptjESYTqT4eyLmA..&amp;type=2&amp;query=%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%AE%BE%E5%A4%87 %E6%9D%BF%E5%9D%97&amp;token=22A8DCBE56FCEB493533661AE6AEB11C35C4BF506A1D7273",
+          "time": "",
+          "desc": "半导体设备板块属于高成长性行业,尤其在 2020 年疫情导致缺芯以及行业下游扩产需求旺盛的情况下,2021年上半年半导体设备景气..."
+        }
+      ]
     },
     {
       "code": "562500",
@@ -2119,19 +2515,55 @@
         "today_tag": "📉 下跌",
         "short_trend": "偏弱",
         "mid_trend": "偏强",
-        "verdict": "短期回调，中期趋势仍向好，关注均线支撑",
+        "verdict": "短期回调消化压力，中期趋势仍向好。若MA20企稳回升可考虑布局。风险评分5/10(🟡 中等)。",
         "details": [
           "📉 下跌 -1.43%，在25个板块中排名第15",
-          "短期MA20：跌破4.0%，趋势偏弱",
-          "中期MA60：站上6.4%，趋势偏强",
-          "近1周：-8.55%",
-          "近1月：+8.89%",
-          "年初至今：+6.27%"
+          "📏 均线：MA20偏离-4.0% | MA60偏离+6.4% | 均线交织 ↔️",
+          "⚡ 动量：加速下跌 | 中等波动 | 连跌2天 ⚠️",
+          "📅 近1周：-8.55%",
+          "📅 近1月：+8.89%",
+          "📅 近3月：+2.32%，排名第10",
+          "📅 年初至今：+6.27%"
         ],
         "rank_change": 15,
-        "rank_1m": 10
+        "rank_1m": 10,
+        "align": "均线交织 ↔️",
+        "momentum": "加速下跌",
+        "vola": "中等波动",
+        "risk_score": 5,
+        "risk_level": "🟡 中等",
+        "streak_text": "连跌2天 ⚠️"
       },
-      "news": []
+      "news": [
+        {
+          "title": "300亿电力龙头直线涨停,机器人概念重挫,上纬新材跌超10%",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bnM-AdHiYe06-cJ9ARKmOJ1qXa8Fplpd90J7UIrZc4FPvbAOHnrEghiITx6D65BdGCDkrlUeamS7keEABQpYK7SI2F8n9Bv7QNYUrYZV2NL9mzcZN8e9jiG_dta2QrSZbPcZeGH7fPCF9bcKYufGe_46yrLXHXgRYQWij4CpH6voCCypEVNHJJXBsKxUXJIAdZo6cGkLymL3RtmyIGw2VAg..&amp;type=2&amp;query=%E6%9C%BA%E5%99%A8%E4%BA%BA %E6%9D%BF%E5%9D%97&amp;token=22A8DE15A2091CBDC1C791EE115F736AC2B3222F6A1D7273",
+          "time": "",
+          "desc": "下跌方面,人形机器人集体大跌,昨日大涨的上纬新材跌超10%,浙江荣泰、五洲新春、巨轮智能、大业股份跌停.半导体设备板块持..."
+        },
+        {
+          "title": "宇树要上市机器人板块怎么看",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bnM-AdHiYe06-cJ9ARKmOJ1qXa8Fplpd9OQcaITzNy9eFQu0jtU_AESHD2FGJNHXgc1muauQWC97I2adimRjJS4R7Io-DhOMVgQM814FSIyaq4xmSHcccq8rOMEnRUxE0lIxbQ_psBJEifMgArYnEjzm1wQx0Zm6GeLg0O3F9MyUbOqu98Ptb1ge1fkQM42i5wbCv34Cz6xxj32-j2KiwUw..&amp;type=2&amp;query=%E6%9C%BA%E5%99%A8%E4%BA%BA %E6%9D%BF%E5%9D%97&amp;token=22A8DE15A2091CBDC1C791EE115F736AC2B3222F6A1D7273",
+          "time": "",
+          "desc": "放在A股市场来看,机器人板块也会告别单纯炒概念的阶段,估值逻辑迎来重塑. 和宇树产生关联的上市公司,大多集中在电机、减速..."
+        },
+        {
+          "title": "人形机器人、铝板块指数每日复盘",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bnM-AdHiYe06-cJ9ARKmOJ1qXa8Fplpd9Kg2dFEitKih9NIEsiqvIj5vMK45uiEmLyQPNtrg4wAhR2V-j9tBeV9SFBSABtg28Y_EUQ7FjgCfCoWGi4hq5GY-rAmzPU5CLaxXlcmlcIP47BI7v8jos5pgDhBTkcDQLGsLnVgu91veQQ4t9Lggcf4WFUEMn18VWwfYP6EDAmgRf_71bqkOtiw..&amp;type=2&amp;query=%E6%9C%BA%E5%99%A8%E4%BA%BA %E6%9D%BF%E5%9D%97&amp;token=22A8DE15A2091CBDC1C791EE115F736AC2B3222F6A1D7273",
+          "time": "",
+          "desc": "人形机器人、铝板块指数每日复盘新增加铝,因为有持仓+他有成为主线的可能.加上世界不安定,资源长期看好.因为我觉得人形机..."
+        },
+        {
+          "title": "机器人板块龙头-鸣志电器深度分析",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bnM-AdHiYe06-cJ9ARKmOJ1qXa8Fplpd9cvzCetXkwLdVNnQCiBhfTcuSi9jTL2dejQeVsSUAC3_AYRl4P51Ue9AyKa1MvZgckNf13UxciD4T_PCPj_CC7VV7bXQD4oVhgEmnOuboP-mSXi49_NNpS8lAiQBgDhDthQzOi2FlVh8MfKcoogHzab6bt71d4zT4eshWfHH3FyfvzHZXxeLdyg..&amp;type=2&amp;query=%E6%9C%BA%E5%99%A8%E4%BA%BA %E6%9D%BF%E5%9D%97&amp;token=22A8DE15A2091CBDC1C791EE115F736AC2B3222F6A1D7273",
+          "time": "",
+          "desc": "鸣志电器算是机器人板块的龙头企业,目前它的步进电机市场份额稳居全球前三,空心杯电机技术属于全球第一梯队,还是人形机器人..."
+        }
+      ]
     },
     {
       "code": "512710",
@@ -2298,19 +2730,55 @@
         "today_tag": "➡️ 持平",
         "short_trend": "偏弱",
         "mid_trend": "偏弱",
-        "verdict": "横盘整理，等待方向选择，可关注板块轮动",
+        "verdict": "横盘整理中，多空平衡待方向选择。关注板块轮动和成交量变化。风险评分6/10(🟡 中等)。",
         "details": [
           "➡️ 持平 -0.29%，在25个板块中排名第7",
-          "短期MA20：跌破8.9%，趋势偏弱",
-          "中期MA60：跌破11.3%，趋势偏弱",
-          "近1周：-5.48%",
-          "近1月：-8.24%",
-          "年初至今：-13.86%"
+          "📏 均线：MA20偏离-8.9% | MA60偏离-11.3% | 空头排列 ⚠️",
+          "⚡ 动量：加速下跌 | 中等波动",
+          "📅 近1周：-5.48%",
+          "📅 近1月：-8.24%",
+          "📅 近3月：-20.42%，排名第23",
+          "📅 年初至今：-13.86%"
         ],
         "rank_change": 7,
-        "rank_1m": 23
+        "rank_1m": 23,
+        "align": "空头排列 ⚠️",
+        "momentum": "加速下跌",
+        "vola": "中等波动",
+        "risk_score": 6,
+        "risk_level": "🟡 中等",
+        "streak_text": ""
       },
-      "news": []
+      "news": [
+        {
+          "title": "2026年国防军工行业动态:军工板块业绩触底回升,关注军转民投资机会(附下载)",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bnM-AdHiYe06-cJ9ARKmOJ1qXa8Fplpd9eQIh07g363ZUEm_dxVLM6bgpqetPG_-I6bBfsPx6_Qes1bxX70XR4_EBk6z3DqO1s6X8jgnhHwSJ0SJxw4EESw-wZEm0V_XMZkQWSVZhFqKC_SzVFRvjUa09yVUBh2V2Rnrjcw9MlAkOjgN14nO_3Nv5bQYblxwRiuQUA9p4PTktPujwwRB2Pw..&amp;type=2&amp;query=%E5%86%9B%E5%B7%A5 %E6%9D%BF%E5%9D%97&amp;token=22A8DF2D5AF1E644383E6A16EB9951C0392BC3CD6A1D7273",
+          "time": "",
+          "desc": "文章摘要随着军工板块上市公司 2025 年年报和 2026 年一季报的全部公告,我们可以明显看出整体板块触底回暖的趋势.2025 年军工..."
+        },
+        {
+          "title": "国庆阅兵规模超往年 军工板块强势爆发 概念股或迎超额收益?",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bnM-AdHiYe06-cJ9ARKmOJ1qXa8Fplpd9G_Ds0sMkR0HT81Cpg4kvUJfGCc3TcJd-cfQiv5D_1uYv1OygLJ0YRTG38JtgNgXkNRWN6wV3RSQgVNMf89d8rDCxKmmTjvJdAlAR_1dSLji0r6cDVP8km8BHIVULMAjmuAVF45UliVIt0xhUppsL06FJeO8eVtKXbbFWDFQTKnKq3X8EKMKOIA..&amp;type=2&amp;query=%E5%86%9B%E5%B7%A5 %E6%9D%BF%E5%9D%97&amp;token=22A8DF2D5AF1E644383E6A16EB9951C0392BC3CD6A1D7273",
+          "time": "",
+          "desc": "石冰:关注军民融合相关的军工股9月3日,军工板块延续强势,截至收盘,深南股份、光洋股份、华自科技等12股涨停.从8月中旬开..."
+        },
+        {
+          "title": "军工板块开年连续大涨 六只军工分级B怎么挑?",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6ft3wfAVofsP5Peu-UiA4DLxpLs3WH2ba8_taveigmDiVgrFeYQugDqYJpiI5YemRIML5JH_1ESzZ-h0yXudQLsDwfUzJr77_UYYMHfuD9_N_dSW4pCwfqE9mRvWekYHKJX0lSQEy8YpAqfk-b4RSS-VdUUdP-HA9a5EYMap0faw0HgMfjE60subUnNZdE8geDjioD1sZa4M6_sb50eNOnNCx2f-r8OTBTQTVM346HQqGgUyG44v1of3azErTXqMzaoivVj33-wQCu2i3NXnDiImzB2BI3QHeiZqwg0yoRFw.&amp;type=2&amp;query=%E5%86%9B%E5%B7%A5 %E6%9D%BF%E5%9D%97&amp;token=22A8DF2D5AF1E644383E6A16EB9951C0392BC3CD6A1D7273",
+          "time": "",
+          "desc": "中国基金报微信:chinafundnews【导读】沉寂许久的军工板块,近期开启&ldquo;暴走&rdquo;模式.中国基金报记者  张筱翠wind数据显示,今日..."
+        },
+        {
+          "title": "军工板块逆势走强军工基金表现亮眼,机构这样说",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bnM-AdHiYe06-cJ9ARKmOJ1qXa8Fplpd9wht5et5FDdFzv1BdkYfSubWbc2niLz7f-WuvGl0WOTLL6oc-mo10zebvIejvYSP-eBl13B8BAAbHWpFC4svxUC16r1eAzU-o1q8qPHf5vHkV8oSkwVPpBUM3Wj4q07OvzAaSc24WKSHvlWnw6Ah7h9peL1TnDDZmtOKosRwuhrrwdVqCwyPdzA..&amp;type=2&amp;query=%E5%86%9B%E5%B7%A5 %E6%9D%BF%E5%9D%97&amp;token=22A8DF2D5AF1E644383E6A16EB9951C0392BC3CD6A1D7273",
+          "time": "",
+          "desc": "胡杨过去一个月,在A股各大指数持续震荡下行的行情中,军工板块一枝独秀,走出一波反弹行情.受益于板块反弹,军工主题基金净..."
+        }
+      ]
     },
     {
       "code": "159206",
@@ -2475,19 +2943,55 @@
         "today_tag": "📉 下跌",
         "short_trend": "偏弱",
         "mid_trend": "偏弱",
-        "verdict": "短期弱势，可能受利空影响，关注下方支撑",
+        "verdict": "短期加速下跌，均线空头排列，需警惕继续下行。风险评分8/10(🔴 较高)，关注下方支撑位。",
         "details": [
           "📉 下跌 -2.93%，在25个板块中排名第19",
-          "短期MA20：跌破13.8%，趋势偏弱",
-          "中期MA60：跌破9.6%，趋势偏弱",
-          "近1周：-10.66%",
-          "近1月：-10.56%",
-          "年初至今：-7.82%"
+          "📏 均线：MA20偏离-13.8% | MA60偏离-9.6% | 空头排列 ⚠️",
+          "⚡ 动量：加速下跌 | 高波动 🌊 | 连跌2天 ⚠️",
+          "📅 近1周：-10.66%",
+          "📅 近1月：-10.56%",
+          "📅 近3月：-10.86%，排名第25",
+          "📅 年初至今：-7.82%"
         ],
         "rank_change": 19,
-        "rank_1m": 25
+        "rank_1m": 25,
+        "align": "空头排列 ⚠️",
+        "momentum": "加速下跌",
+        "vola": "高波动 🌊",
+        "risk_score": 8,
+        "risk_level": "🔴 较高",
+        "streak_text": "连跌2天 ⚠️"
       },
-      "news": []
+      "news": [
+        {
+          "title": "华为引爆卫星互联网!空有概念,业绩惨淡",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bnM-AdHiYe06-cJ9ARKmOJ1qXa8Fplpd9himNK8Mu_TMYdLtLBF4QsI9jlIjkBgm6mF1zC_-6ft85JFp4XPLji6gkfjgBYJlMg2IVW4hbt6actagxMpoEfPXdAxPPI2PZqDSAK0OQ9AlRWpkWjg6UH6J5lkgbo1s5Jk6RLpyGoAXAdvt0NvJR5YdlcMonyZbsK9Yaz8S8WI8CYioxHkzTmA..&amp;type=2&amp;query=%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91 %E6%9D%BF%E5%9D%97&amp;token=22A8E0BC62C8DE7D0107532FD2A4176001E89C1E6A1D7273",
+          "time": "",
+          "desc": "受此影响,卫星互联网板块狂飙.9月8日当天,华力创通(300045)、海格通信(002465)纷纷涨停.尤其是华力创通,股价相较于..."
+        },
+        {
+          "title": "卫星互联网再度引爆市场,是炒概念or真风口?",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bnM-AdHiYe06-cJ9ARKmOJ1qXa8Fplpd9himNK8Mu_TMYdLtLBF4QsI9jlIjkBgm6mF1zC_-6ft85JFp4XPLji0AAtdJcgWRqBVuVvwDvMFwniMvUCB98Kq52o7kdTDZpD_VGp9xHwdm1RG7nV7J_8Iz9pihM8Ao3KO6kc3wRHC3bO90KVNbIYjghy2YajainxjEAda0cF2x6VKrzu_4XKA..&amp;type=2&amp;query=%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91 %E6%9D%BF%E5%9D%97&amp;token=22A8E0BC62C8DE7D0107532FD2A4176001E89C1E6A1D7273",
+          "time": "",
+          "desc": "突然迎来了狂欢,那就是卫星互联网板块,像神宇股份(300563)、灿勤科技(688182)都喜提了一波20cm的狂潮.神宇股份股价情..."
+        },
+        {
+          "title": "卫星互联网板块集体崛起 航天宏图上涨7.00%居首",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bnM-AdHiYe06-cJ9ARKmOJ1qXa8Fplpd9_uefAUkSLjy95D4DiYZpq2i7vRz_MtkIvCXUOKpRoB1WoiMdjcSv8bWPRVkF5k5FHgbbrRE0Gm64bLUXOatBTqdLAmxaPhYIIFqLopbPtJozoLU8wmVMXItOGmM96PpK9pPwbvMmTiFt4LEX0fHjTo8n9MuSXzkY&amp;type=2&amp;query=%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91 %E6%9D%BF%E5%9D%97&amp;token=22A8E0BC62C8DE7D0107532FD2A4176001E89C1E6A1D7273",
+          "time": "",
+          "desc": "板块方面,卫星互联网概念板块盘中集体崛起,整体上涨2.42%,航天宏图涨幅居首,达到7.00%,振芯科技(4.07%)、华力创通(..."
+        },
+        {
+          "title": "市场聚焦华为支付概念股 卫星互联网板块多股涨停",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bnM-AdHiYe06-cJ9ARKmOJ1qXa8Fplpd9xRguyb0DH_VcETr758jlN5_yJhO1laaFA6SYsq6ZjEpRLdTYAoRoousSNjhVTE1VGwIBjQJkyXK6KHorScltVveOHqDnAUOwoV_tLQXeWnNcjcEmd7giUdnKbtvP00xQoXT1lDziVsMrSMJIgCMGbHCI47Pnugtp3mvDVZly0zSE8RsmObDbtQ..&amp;type=2&amp;query=%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91 %E6%9D%BF%E5%9D%97&amp;token=22A8E0BC62C8DE7D0107532FD2A4176001E89C1E6A1D7273",
+          "time": "",
+          "desc": "行业上看,在华为旗下支付机构&ldquo;讯联智付&rdquo;更名为&ldquo;花瓣支付&rdquo;的影响下,移动支付板块强势领涨;卫星互联网受中国卫星应用大会..."
+        }
+      ]
     },
     {
       "code": "516160",
@@ -2654,19 +3158,55 @@
         "today_tag": "📉 下跌",
         "short_trend": "偏弱",
         "mid_trend": "偏弱",
-        "verdict": "短期承压，建议结合基本面消息综合判断",
+        "verdict": "短期承压，弱势回调。建议结合基本面消息综合判断。风险评分6/10(🟡 中等)。",
         "details": [
           "📉 下跌 -1.03%，在25个板块中排名第13",
-          "短期MA20：跌破4.4%，趋势偏弱",
-          "中期MA60：跌破2.0%，趋势偏弱",
-          "近1周：-2.83%",
-          "近1月：-2.55%",
-          "年初至今：+5.93%"
+          "📏 均线：MA20偏离-4.4% | MA60偏离-2.0% | 空头排列 ⚠️",
+          "⚡ 动量：弱势回调 | 低波动 💤 | 连跌2天 ⚠️",
+          "📅 近1周：-2.83%",
+          "📅 近1月：-2.55%",
+          "📅 近3月：+0.36%，排名第18",
+          "📅 年初至今：+5.93%"
         ],
         "rank_change": 13,
-        "rank_1m": 18
+        "rank_1m": 18,
+        "align": "空头排列 ⚠️",
+        "momentum": "弱势回调",
+        "vola": "低波动 💤",
+        "risk_score": 6,
+        "risk_level": "🟡 中等",
+        "streak_text": "连跌2天 ⚠️"
       },
-      "news": []
+      "news": [
+        {
+          "title": "聚焦新能源板块!省级环保平台与一能源公司签署战略合作协议",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bukbLscfuzYy-cJ9ARKmOJ1qXa8Fplpd9AygVhmATzSekHN8WRKDaEVZSVjxCSaq0GJ1c8goV0yrLzVCv3taW-5pyhp4h_WS4zpFlN2mtU1CWZ6VzgBelwDeXVUi3GjD0h6emY8cFZjg5Ap4elxXrKm4H34BTNVC_1Pt6X29B994nQcxB1slItjEtno6ogJbNS-u0sF0CXUT2CsG6-xMgzQ..&amp;type=2&amp;query=%E6%96%B0%E8%83%BD%E6%BA%90 %E6%9D%BF%E5%9D%97&amp;token=22A8E20EEB4157F5888EDAA75A2089F089A872DA6A1D7273",
+          "time": "",
+          "desc": "双方要以贵港农林生物质能集中供热项目热电联产、分布式能源及光储充检一体化的应用为典型合作案例,聚焦新能源板块,进行广泛..."
+        },
+        {
+          "title": "机构观点:新能源板块空间有多大?牛年A股主战场在哪里?",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bukbLscfuzYy-cJ9ARKmOJ1qXa8Fplpd9T_uBOOm49Raq6fnEOSDRusVFWyv4t2MEqeX_YfiApTSZke4NYobULUlmL092z-KLPbQ9RXp7c9m_uel9TtXZhqAwBtGTLPwik4oADcIWnbnpfygVpD6s0Ng_weCy_nFvJjKsK70Xsy1gweZRPKvHXlxj0E1aGsLCEhpx2PuyEKFS6t2rFt2rnA..&amp;type=2&amp;query=%E6%96%B0%E8%83%BD%E6%BA%90 %E6%9D%BF%E5%9D%97&amp;token=22A8E20EEB4157F5888EDAA75A2089F089A872DA6A1D7273",
+          "time": "",
+          "desc": "2020年是新能源板块很出彩的一年.对于新能源的投资,我们也是源自于长期角度.回顾过去或者2019年,这一板块的表现一般,行..."
+        },
+        {
+          "title": "A股大风口!新能源板块长期投资机会在哪里?",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bukbLscfuzYy-cJ9ARKmOJ1qXa8Fplpd9wht5et5FDdFzv1BdkYfSubWbc2niLz7f-WuvGl0WOTLL6oc-mo10zQcp8l0dj08iuqsL2VZDA0C83XjNhe4xoc83RxIFFAHK6IjnB9hTCJCdyZrU3fXB-rhMrLQ_t70oyMxApibgujiqUxBXhxvMhvrQ7N6zXFZvZlcLtqzG3K6AFV_3u-a3OQ..&amp;type=2&amp;query=%E6%96%B0%E8%83%BD%E6%BA%90 %E6%9D%BF%E5%9D%97&amp;token=22A8E20EEB4157F5888EDAA75A2089F089A872DA6A1D7273",
+          "time": "",
+          "desc": "新能源板块也成为A股投资新风口,2020年,中证新能源指数大涨105.29%(数据来源:Wind,截至2020.12.31)近期完成短期调整后..."
+        },
+        {
+          "title": "新能源板块为什么持续疯涨?全世界都在推支持政策!",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bukbLscfuzYy-cJ9ARKmOJ1qXa8Fplpd9inrFJjKLBKR92vs4irkExMe5UWIJsxpgpksmfZeowiIvPVVB18Ckv8Qsa9T8tfnzmV8IzvfHjz71DUvioneFBOss91YIzhNF4N6p0Ob5Qul7fFeHcBR08xLs_npdmnbYHUY8qpH2IxD5CC2IQwuN_8Km9JKnQNhReYqvkYWBrsd535pjGOOjYg..&amp;type=2&amp;query=%E6%96%B0%E8%83%BD%E6%BA%90 %E6%9D%BF%E5%9D%97&amp;token=22A8E20EEB4157F5888EDAA75A2089F089A872DA6A1D7273",
+          "time": "",
+          "desc": "包括光伏、风电、新能源车在内的大新能源板块占据了全市场最核心、最引人瞩目的位置,而且一点都没客气,涨幅遥遥领先于其他板..."
+        }
+      ]
     },
     {
       "code": "515790",
@@ -2831,19 +3371,55 @@
         "today_tag": "↘️ 微跌",
         "short_trend": "偏弱",
         "mid_trend": "偏弱",
-        "verdict": "短期承压，建议结合基本面消息综合判断",
+        "verdict": "短期承压，弱势回调。建议结合基本面消息综合判断。风险评分6/10(🟡 中等)。",
         "details": [
           "↘️ 微跌 -0.84%，在25个板块中排名第11",
-          "短期MA20：跌破3.7%，趋势偏弱",
-          "中期MA60：跌破2.5%，趋势偏弱",
-          "近1周：-4.31%",
-          "近1月：+2.50%",
-          "年初至今：+9.00%"
+          "📏 均线：MA20偏离-3.7% | MA60偏离-2.5% | 空头排列 ⚠️",
+          "⚡ 动量：弱势回调 | 中等波动 | 连跌2天 ⚠️",
+          "📅 近1周：-4.31%",
+          "📅 近1月：+2.50%",
+          "📅 近3月：-3.96%，排名第12",
+          "📅 年初至今：+9.00%"
         ],
         "rank_change": 11,
-        "rank_1m": 12
+        "rank_1m": 12,
+        "align": "空头排列 ⚠️",
+        "momentum": "弱势回调",
+        "vola": "中等波动",
+        "risk_score": 6,
+        "risk_level": "🟡 中等",
+        "streak_text": "连跌2天 ⚠️"
       },
-      "news": []
+      "news": [
+        {
+          "title": "太空光伏板块,午后走强",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bukbLscfuzYy-cJ9ARKmOJ1qXa8Fplpd9yHMa5SANImE2H8fKqSK2fzG2stdipD3L4HIz1K-aHDxPWmk8tFTW2mhe3ttDTH2XIWLD4WcOuUY19kghq-3b3akR-KdOcHW-MRCt1uQxX4T8M0QTPaxNT9SZXx2CDHsyPGBU0UJXN3-lqa_fJ2ElDMTHJ-Ll9UKw6rSWNPP_mkV5LU3lqtPw9g..&amp;type=2&amp;query=%E5%85%89%E4%BC%8F %E6%9D%BF%E5%9D%97&amp;token=22A8E37B5BF0E744383E6A17EA935EA839AC22456A1D7274",
+          "time": "",
+          "desc": "2月4日午后,太空光伏板块走强,晶科能源、中来股份20%涨停,拓日新能涨停,天合光能涨超8%,乾照光电涨近4%,通威股份涨超..."
+        },
+        {
+          "title": "行业突发!光伏板块,逆市走强!",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bukbLscfuzYy-cJ9ARKmOJ1qXa8Fplpd97D8dqSGLFvNmNdezWpkf4PE-DsnDdtKIZBG79pPM_ZAxUrjVdBBboioh6lUQDSotfjfTqJbD-d9wF2nzo5WKlt62DBvlgBqrY0cJepDEUzElRNdDMNqMhF_VLIC6dk-K3v_uEgh4MnPr_HM3U1LNxTT24Cx4-lPxlBbjapP5CRCAFV_3u-a3OQ..&amp;type=2&amp;query=%E5%85%89%E4%BC%8F %E6%9D%BF%E5%9D%97&amp;token=22A8E37B5BF0E744383E6A17EA935EA839AC22456A1D7274",
+          "time": "",
+          "desc": "丨光伏板块逆市走强上周五,光伏板块全天强势,上能电气、首航新能20cm涨停,锦浪科技、九洲集团、海优新材等涨超13%,中利..."
+        },
+        {
+          "title": "关于光伏板块和ETF的一些看法",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bukbLscfuzYy-cJ9ARKmOJ1qXa8Fplpd9nIT8kj0OndNsV6Zko3jIk4VxqaU0moQiF9Ce6TksylpbbepkloJRPrPE-4M_WaQWBOIsyhZP2XCqE0y3DXSNJBXjsQkCSNe4WMXBYwv8IZHpexFgkSAl6N2dwB4UrHdxwnAZDJoF3_XMnG9SXqcErByskcSZVgIsTzsX7TR4AoZCy6umSSPEsg..&amp;type=2&amp;query=%E5%85%89%E4%BC%8F %E6%9D%BF%E5%9D%97&amp;token=22A8E37B5BF0E744383E6A17EA935EA839AC22456A1D7274",
+          "time": "",
+          "desc": "最近光伏ETF处于高位横盘,这种表现非常强势,所以分析一下.根据最新市场数据,光伏板块当前正处于产能出清与价格筑底的关键..."
+        },
+        {
+          "title": "光伏设备优于光伏概念.",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bukbLscfuzYy-cJ9ARKmOJ1qXa8Fplpd9Mbj0Mlz_AJA7PgEJDleyLm8U8BvSL9id4-emr7hbSWH6pWa7-3NUt0VmkT54MUWvH0mnAS1bHlewPD-dfy8jYrrRnZxu9tzzjCteAf7O8pK-1fXToOexInxp4SnsVFpQjRtj5yQM_ZDoI5m9x3_uFW5vlY9_-x_tC8FhtiEd8h5j3x9Nw6p-Fg..&amp;type=2&amp;query=%E5%85%89%E4%BC%8F %E6%9D%BF%E5%9D%97&amp;token=22A8E37B5BF0E744383E6A17EA935EA839AC22456A1D7274",
+          "time": "",
+          "desc": "结论:光伏设备属于精选,光伏概念就是题材沾边,优先前者.1、从上涨到低位所有板块看,目前仅有光伏设备、证券、商业医药、..."
+        }
+      ]
     },
     {
       "code": "159566",
@@ -3008,19 +3584,55 @@
         "today_tag": "↘️ 微跌",
         "short_trend": "偏弱",
         "mid_trend": "震荡",
-        "verdict": "短期回调，中期趋势仍向好，关注均线支撑",
+        "verdict": "短期回调消化压力，中期趋势仍向好。若MA20企稳回升可考虑布局。风险评分5/10(🟡 中等)。",
         "details": [
           "↘️ 微跌 -0.39%，在25个板块中排名第8",
-          "短期MA20：跌破3.2%，趋势偏弱",
-          "中期MA60：站上0.8%，趋势震荡",
-          "近1周：-3.29%",
-          "近1月：+3.15%",
-          "年初至今：+9.36%"
+          "📏 均线：MA20偏离-3.2% | MA60偏离+0.8% | 均线交织 ↔️",
+          "⚡ 动量：弱势回调 | 中等波动 | 连跌2天 ⚠️",
+          "📅 近1周：-3.29%",
+          "📅 近1月：+3.15%",
+          "📅 近3月：+6.80%，排名第11",
+          "📅 年初至今：+9.36%"
         ],
         "rank_change": 8,
-        "rank_1m": 11
+        "rank_1m": 11,
+        "align": "均线交织 ↔️",
+        "momentum": "弱势回调",
+        "vola": "中等波动",
+        "risk_score": 5,
+        "risk_level": "🟡 中等",
+        "streak_text": "连跌2天 ⚠️"
       },
-      "news": []
+      "news": [
+        {
+          "title": "储能板块持续热度的逻辑与关注重点方向",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bukbLscfuzYy-cJ9ARKmOJ1qXa8Fplpd9ir5OIgznPB5FAPyzmK7rW4n43h2UHpYX9EuRGDUEINeIUzerdETdAeiVT-hAPzTetFsoROdCjymBftqojGViOP3YgaJC6bTo03DNq8gdTPaQF_WHx6tzFo5vw-7W7F-049Ac-bZv4IIFFODswH0MKwe3B2Jmo4zCqcnlqzjMftjyPfCoem7FzA..&amp;type=2&amp;query=%E5%82%A8%E8%83%BD %E6%9D%BF%E5%9D%97&amp;token=22A8E4C609A1B716696C3A45B9C740F16AA2952B6A1D7274",
+          "time": "",
+          "desc": "储能板块3月3-20日14天中,79只个股涨超10%,其中42只涨超20%,17只涨超30%,首航新能涨幅89.78%居首.逐日记录储能板块涨..."
+        },
+        {
+          "title": "储能板块一家独大",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bukbLscfuzYy-cJ9ARKmOJ1qXa8Fplpd9Z6yhHY3eEfALuy4TDk7sBfebIIodV7DmP7oQtiqGnUVj47VJHq23jWYmLaUNMGXYlRWQgRv3oU6Cq6MG5ZjjlGSUlplVIZbGS5Upf-svG1jt9EMLyfFT4gU3p4-3GkZoYeqdDrL4NzBXQ_CJofc-5BkbpQ69w8N_YrUoBh81JtI5eBgmN3LoYQ..&amp;type=2&amp;query=%E5%82%A8%E8%83%BD %E6%9D%BF%E5%9D%97&amp;token=22A8E4C609A1B716696C3A45B9C740F16AA2952B6A1D7274",
+          "time": "",
+          "desc": "市场还是结构性的机会,储能板块一家独大,盘面上储能、煤炭开采、特高压、电气设备、军工等涨幅靠前.涨跌各半,一天换一个方..."
+        },
+        {
+          "title": "储能板块:九家优质企业",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bukbLscfuzYy-cJ9ARKmOJ1qXa8Fplpd9HKbu2ueksfHaweKLEwBa-s5oPnSP1SKQxcFbCjTNT4PStGEbgfrx4_o0lHLijt8hmVl_u-f23oX9M_e88EHmR34Ak_tZGAQ_9t8fqROiZWpyulXSEr2BWd33Sw6JyYneg9alPnULuWSWE4DYIFj4YO0BAI4Weee1ImgtCeYSqZ0O8fIRwtipOg..&amp;type=2&amp;query=%E5%82%A8%E8%83%BD %E6%9D%BF%E5%9D%97&amp;token=22A8E4C609A1B716696C3A45B9C740F16AA2952B6A1D7274",
+          "time": "",
+          "desc": "储能板块指数图指数当前正处在上图两条水平红色箱体中运动,并接近与箱体替补支撑线附近.我们可以利用指数的重要点位对个股进..."
+        },
+        {
+          "title": "储能板块回暖:现状、上涨逻辑与后市展望",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bukbLscfuzYy-cJ9ARKmOJ1qXa8Fplpd9YtFNORkhGLe5nnl-JiLDIcojUOm-hy0i-IWOQeTrRJFx2rfXvY6t_cOiIQL_xWzeT4SaLDLUPCxKKXcJYbYSJRcM7WiAPr_y-a6KgqnxVvdsOwIM_ZHCJYe94grTI3TxY5TIHLPYLJHiELxi_JRI_xM_tF1udCyMcbBjXk-QDhMCn9lOoZLP2Q..&amp;type=2&amp;query=%E5%82%A8%E8%83%BD %E6%9D%BF%E5%9D%97&amp;token=22A8E4C609A1B716696C3A45B9C740F16AA2952B6A1D7274",
+          "time": "",
+          "desc": "近期 A 股储能板块震荡回升,多只龙头股强势反弹,资金关注度持续升温.截至 2026年5月20日,储能产业指数报3986.38点,近一周..."
+        }
+      ]
     },
     {
       "code": "512800",
@@ -3187,19 +3799,55 @@
         "today_tag": "📈 上涨",
         "short_trend": "偏强",
         "mid_trend": "震荡",
-        "verdict": "温和上涨，趋势健康，可继续持有观察",
+        "verdict": "温和上涨，趋势健康。温和上涨，可继续持有观察。风险评分5/10(🟡 中等)。",
         "details": [
           "📈 上涨 +1.16%，在25个板块中排名第3",
-          "短期MA20：站上1.6%，趋势偏强",
-          "中期MA60：站上0.1%，趋势震荡",
-          "近1周：+2.46%",
-          "近1月：-1.62%",
-          "年初至今：-3.66%"
+          "📏 均线：MA20偏离+1.6% | MA60偏离+0.1% | 多头排列 ✅",
+          "⚡ 动量：温和上涨 | 中等波动 | 连涨2天 🔥",
+          "📅 近1周：+2.46%",
+          "📅 近1月：-1.62%",
+          "📅 近3月：+1.67%，排名第16",
+          "📅 年初至今：-3.66%"
         ],
         "rank_change": 3,
-        "rank_1m": 16
+        "rank_1m": 16,
+        "align": "多头排列 ✅",
+        "momentum": "温和上涨",
+        "vola": "中等波动",
+        "risk_score": 5,
+        "risk_level": "🟡 中等",
+        "streak_text": "连涨2天 🔥"
       },
-      "news": []
+      "news": [
+        {
+          "title": "年内跌幅超7%,A股银行板块为何大幅跑输大盘?",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bukbLscfuzYy-cJ9ARKmOJ1qXa8Fplpd9G_Ds0sMkR0HT81Cpg4kvUJfGCc3TcJd-cfQiv5D_1uYv1OygLJ0YRYQMdKs4gJvXWG0KzH4qFZuVjz3g5cI-hEoXy-kPtLqyTbJfQifj5btK1psAXiMYxolnN9I2bLFwzqaXLAwPK9e9BpeqW-XI1izODbcp3-LbhJc5Vy-d4dQHpHkoPMgL3A..&amp;type=2&amp;query=%E9%93%B6%E8%A1%8C %E6%9D%BF%E5%9D%97&amp;token=22A8E653EB4057F5888FDAA75B38FFD0896836AF6A1D7274",
+          "time": "",
+          "desc": "在连续调整近一个月后,A股银行板块5月19日迎来久违反弹.Wind数据显示,当日中证银行指数(399986.SZ)收涨,多只区域性银..."
+        },
+        {
+          "title": "2021年银行板块投资策略",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bukbLscfuzYy-cJ9ARKmOJ1qXa8Fplpd96pHj946-o72yzByPDXHUWbXIjkeleaYNfj7jBrISZi3pmHuLbvIucNBnVs8PbiSZNhXc7munRcdNeiIG506Ws2phqXaGDa8868nn4rKD3XQAVStHFhAnp0kaFUDWNwDB2ydQsoywuhc_9qMapFl45zKv08dyb_n9r_ur1ODqe4yE8RsmObDbtQ..&amp;type=2&amp;query=%E9%93%B6%E8%A1%8C %E6%9D%BF%E5%9D%97&amp;token=22A8E653EB4057F5888FDAA75B38FFD0896836AF6A1D7274",
+          "time": "",
+          "desc": "银行板块历史行情复盘 回顾过去银行板块行情,银行板块上升行情区间每轮持续2-10个月不等,而近两年由于结构性行情的极致化...货币政策拐点是否来临 股市实际上是对货币政策即流动性的映射,对于实际经济的"
+        },
+        {
+          "title": "领涨银行板块,城商行的机会来了?",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bukbLscfuzYy-cJ9ARKmOJ1qXa8Fplpd9VsQKd5IRiuMBpOIjktOgQOBVS7sjzr_N2XvDLGzfSJ1A6TpPCZbcTAllQtU1zorvnYpOVd5TTyhhvTBmjENb3fbDE0g5Pe4EQNWqZgR_fMOwdL48lKFYhiFh0znDP1frR-NX_G0uwr8yw87WLK066HUAiKVJBOpuq0yFN7_tZAf6zvkPgoArRQ..&amp;type=2&amp;query=%E9%93%B6%E8%A1%8C %E6%9D%BF%E5%9D%97&amp;token=22A8E653EB4057F5888FDAA75B38FFD0896836AF6A1D7274",
+          "time": "",
+          "desc": "读懂财经&middot;金融组原创/出品作者 | 杨扬编辑 | 夏益军近期银行成为资本市场最亮眼的板块之一.今年以来,银行ETF涨超15.2%,超过..."
+        },
+        {
+          "title": "银行板块行情来了?",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bukbLscfuzYy-cJ9ARKmOJ1qXa8Fplpd9T_uBOOm49Raq6fnEOSDRusVFWyv4t2MEqeX_YfiApTSZke4NYobULSjTxYZ1Gos7eUL1FA62rHkRRqdVUGf6si1xuy0E-lDgFXRvkdCcO7CGzR8YDAB-BZgbJwv8B6JoRjU3k5OuVvv14zy_o8XswTuUAKVMPw2lTmTr1NoEXI7wdVqCwyPdzA..&amp;type=2&amp;query=%E9%93%B6%E8%A1%8C %E6%9D%BF%E5%9D%97&amp;token=22A8E653EB4057F5888FDAA75B38FFD0896836AF6A1D7274",
+          "time": "",
+          "desc": "小编收集了最近基金吧里热议的养基问题,为大家汇总了基友们的优质热门问答,供大家参考,一起来看看吧~问题一:银行板块行情..."
+        }
+      ]
     },
     {
       "code": "512880",
@@ -3366,19 +4014,55 @@
         "today_tag": "➡️ 持平",
         "short_trend": "偏弱",
         "mid_trend": "偏弱",
-        "verdict": "横盘整理，等待方向选择，可关注板块轮动",
+        "verdict": "横盘整理中，多空平衡待方向选择。关注板块轮动和成交量变化。风险评分6/10(🟡 中等)。",
         "details": [
           "➡️ 持平 +0.19%，在25个板块中排名第6",
-          "短期MA20：跌破2.5%，趋势偏弱",
-          "中期MA60：跌破3.2%，趋势偏弱",
-          "近1周：-1.99%",
-          "近1月：-3.27%",
-          "年初至今：-16.19%"
+          "📏 均线：MA20偏离-2.5% | MA60偏离-3.2% | 空头排列 ⚠️",
+          "⚡ 动量：弱势回调 | 中等波动 | 连涨2天 🔥",
+          "📅 近1周：-1.99%",
+          "📅 近1月：-3.27%",
+          "📅 近3月：-11.69%，排名第19",
+          "📅 年初至今：-16.19%"
         ],
         "rank_change": 6,
-        "rank_1m": 19
+        "rank_1m": 19,
+        "align": "空头排列 ⚠️",
+        "momentum": "弱势回调",
+        "vola": "中等波动",
+        "risk_score": 6,
+        "risk_level": "🟡 中等",
+        "streak_text": "连涨2天 🔥"
       },
-      "news": []
+      "news": [
+        {
+          "title": "\"旗手\"跌到位没有?图解证券板块反弹位置和力度",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bukbLscfuzYy-cJ9ARKmOJ1qXa8Fplpd9dUWVZWZsUB5DTLPycvr2saExvHwpEk_chIrRKxPE2aQjKARBQln31lOqoeOF-d5AjwEKoFgT_X6ucz1QPAQ4c6skhgyGdZtQQkvknRdiY-N_rWSHRUQMTVOmyiMuD3JOyZRWVL6bTrxf9me0XFVuwRr6eWPvSQ2SVVyBOfu7Owz0OK9DLfgmPA..&amp;type=2&amp;query=%E8%AF%81%E5%88%B8 %E6%9D%BF%E5%9D%97&amp;token=22A8E7760FA4B2176C6A3F43BFD8520C6CDFEF706A1D7274",
+          "time": "",
+          "desc": "证券板块要承担护盘重任;指数上攻,证券板块的助推作用同样无法忽略.从技术面进行分析,证券板块在60日线附近获得支撑进而触..."
+        },
+        {
+          "title": "证券板块反转的信号来了?",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bukbLscfuzYy-cJ9ARKmOJ1qXa8Fplpd9wXXS-BcogX4YvCNr-SibLnbYpAJm7xWkRQvYRHMF3x9WE7XToBbN78ZT1OP0XaM34wENTXC1hFibP7H0Y5LSmdcoOkVH_5sh3Vlq89M8IvimYmXfNavGzjNRy5po9AbPNeTtXngzwLpkgEkIL51k4CNGk0rA0hBclFfijT2aDw4Cn9lOoZLP2Q..&amp;type=2&amp;query=%E8%AF%81%E5%88%B8 %E6%9D%BF%E5%9D%97&amp;token=22A8E7760FA4B2176C6A3F43BFD8520C6CDFEF706A1D7274",
+          "time": "",
+          "desc": "所以当前证券板块的状态就是:估值便宜、相对大盘走势创新低、业绩预期不低,基于这些,富二以为证券板块到了值得客官们重视的..."
+        },
+        {
+          "title": "证券板块一季度业绩炸了!",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bukbLscfuzYy-cJ9ARKmOJ1qXa8Fplpd9WgnaGahoLtUenxaqaQ19T7qPD4PsDvnazPDcEdVKP6Amg8Cw6PbbFW6ja7QXN364RJqhV-Vfq-q96_ESXQFLQJMydevewml-DcrTAZmIrpR55tylG7_M9D3pqDA1R5qOtNLRRT1rWBFGw5lBPZKcz33zGfrerlxGbnnPSjny9xxAe0f8bRARvQ..&amp;type=2&amp;query=%E8%AF%81%E5%88%B8 %E6%9D%BF%E5%9D%97&amp;token=22A8E7760FA4B2176C6A3F43BFD8520C6CDFEF706A1D7274",
+          "time": "",
+          "desc": "这可能是未来证券板块另一个催化剂.最后再提一下债券市场,这几天国债调整得有点凶,从国债期货近期的大幅下跌看,随着PMI数..."
+        },
+        {
+          "title": "最新!投资证券板块三大逻辑分析,怎么投?速看",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bukbLscfuzYy-cJ9ARKmOJ1qXa8Fplpd98s7qOc-4trcC9o8BPOMV5ccl5F_me0alXKw326ifgmnfUD8Q1-8P-DG32W5UAYX7fDt-wYkQ6AVTPEHeji7eOrvrPcZlDNTiCgTbWgYHQKg0GdI9yWlgyHQ2W-Xek9xrzeXkAZjbkKpONNMEwvDAuzEapTqQz-5l-1QqctaRqV4O8fIRwtipOg..&amp;type=2&amp;query=%E8%AF%81%E5%88%B8 %E6%9D%BF%E5%9D%97&amp;token=22A8E7760FA4B2176C6A3F43BFD8520C6CDFEF706A1D7274",
+          "time": "",
+          "desc": "内容来源:2020/08/25新浪直播&ldquo;证券板块投资机会在哪里&rdquo;主讲人:黄岳证券公司的收入构成最大的一块就是自营业务,占比大概在..."
+        }
+      ]
     },
     {
       "code": "159928",
@@ -3545,19 +4229,55 @@
         "today_tag": "➡️ 持平",
         "short_trend": "偏弱",
         "mid_trend": "偏弱",
-        "verdict": "横盘整理，等待方向选择，可关注板块轮动",
+        "verdict": "横盘整理中，多空平衡待方向选择。关注板块轮动和成交量变化。风险评分6/10(🟡 中等)。",
         "details": [
           "➡️ 持平 +0.29%，在25个板块中排名第5",
-          "短期MA20：跌破2.4%，趋势偏弱",
-          "中期MA60：跌破6.5%，趋势偏弱",
-          "近1周：+1.47%",
-          "近1月：-5.74%",
-          "年初至今：-13.97%"
+          "📏 均线：MA20偏离-2.4% | MA60偏离-6.5% | 空头排列 ⚠️",
+          "⚡ 动量：温和上涨 | 中等波动 | 连涨2天 🔥",
+          "📅 近1周：+1.47%",
+          "📅 近1月：-5.74%",
+          "📅 近3月：-10.51%，排名第22",
+          "📅 年初至今：-13.97%"
         ],
         "rank_change": 5,
-        "rank_1m": 22
+        "rank_1m": 22,
+        "align": "空头排列 ⚠️",
+        "momentum": "温和上涨",
+        "vola": "中等波动",
+        "risk_score": 6,
+        "risk_level": "🟡 中等",
+        "streak_text": "连涨2天 🔥"
       },
-      "news": []
+      "news": [
+        {
+          "title": "股市分析:大消费板块浅析!",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bukbLscfuzYy-cJ9ARKmOJ1qXa8Fplpd9yMAje8lZAOswcPold_qi91xx36_XX5D_mwNLQS-jXstc8efUA02ZZOHXztl9aDrBMQHoV8zHgx1pmP62DiZjdrH9lrGshRHWz9XDkUWqBk0fcaAECy7eXr2jJnmPByESL8pweXd8XaTGMpSgX8KumILjQ4YmtaM0FpNZRZQvOif2CsG6-xMgzQ..&amp;type=2&amp;query=%E6%B6%88%E8%B4%B9 %E6%9D%BF%E5%9D%97&amp;token=22A8E895288495304B4D1F639FFAB7234CC3538F6A1D7274",
+          "time": "",
+          "desc": "预判:1、大消费板块有望出现两至三个月的周线级别的反弹.2、大消费的这波反弹与科技股的调整,形成跷跷板效应(之前预判半导..."
+        },
+        {
+          "title": "段永平重仓泡泡玛特的故事,消费板块里还有哪些?",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bukbLscfuzYy-cJ9ARKmOJ1qXa8Fplpd9wch8_a_PNGdWD3L19gI9593za7aDilnsj7VbHl6RLY1htDN5eqqPgkjddnMwR22aWRfXkAy_NgGZA2Mm1vFOaielH1Ef1SFOg6bNfOlzKpc8kOsfCi8XCUmG_3VaLeLPNeD02VmNvrGUU_sNcoPsqtnCi4SmSPSiN9NGdP1AyHZQL0Hr9Gyd3Q..&amp;type=2&amp;query=%E6%B6%88%E8%B4%B9 %E6%9D%BF%E5%9D%97&amp;token=22A8E895288495304B4D1F639FFAB7234CC3538F6A1D7274",
+          "time": "",
+          "desc": "段永平重仓泡泡玛特点燃了港股新消费行情,多只个股集体反弹,但板块长期回暖仍需企业持续讲出新故事、业绩落地验证.自从段永..."
+        },
+        {
+          "title": "直达服务行千里 理性投资进万家|消费板块财务报表阅读浅析(二)",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bukbLscfuzYy-cJ9ARKmOJ1qXa8Fplpd9gJzUQYDushpA5Rnc7qkiSdjflTcigj-M3ITAUdT8qX8TRD3lbY-aKmA9-_NPSALv1T8b807QtpEtF8nXfLRIMRCOLqmzUhuczeCM0lcf6SO41uqw5OPmOPQqR7cLSQ9xRymKMnyb2-0mNq5zhHcUDqIonsIfio44xQTO3ssG2q5OJBjQH7pCxQ..&amp;type=2&amp;query=%E6%B6%88%E8%B4%B9 %E6%9D%BF%E5%9D%97&amp;token=22A8E895288495304B4D1F639FFAB7234CC3538F6A1D7274",
+          "time": "",
+          "desc": "【免责声明:本栏目仅为投资者教育目的而发布,不构成任何投资建议.投资者不应以该等信息取代其独立判断或仅根据该等信息做出..."
+        },
+        {
+          "title": "公募\"风格漂移\"遭严管,消费板块迎史诗级回流?",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-bukbLscfuzYy-cJ9ARKmOJ1qXa8Fplpd9g21b02ijTZBjF9dDXLbGQxiEVAjx6IBsh4HNttvBJzn6pqIDj0P2-UmCX1CgF3O6jB_wrWbloTKAAH4OO5Q3qvU7XwCAX7n8aBFPaweyfZetgyGeEwEeYJj2x24uFpxTnGcVfYA1p9MSlv2XS59euni1e0WQtHGkkKDuIwn721rzAjcIGepUqA..&amp;type=2&amp;query=%E6%B6%88%E8%B4%B9 %E6%9D%BF%E5%9D%97&amp;token=22A8E895288495304B4D1F639FFAB7234CC3538F6A1D7274",
+          "time": "",
+          "desc": "因此,消费板块的上涨空间不仅取决于短期资金回流,更取决于基本面拐点的确认.若后续CPI持续回升、社零数据改善,消费板块有..."
+        }
+      ]
     },
     {
       "code": "515170",
@@ -3724,19 +4444,55 @@
         "today_tag": "➡️ 持平",
         "short_trend": "偏弱",
         "mid_trend": "偏弱",
-        "verdict": "横盘整理，等待方向选择，可关注板块轮动",
+        "verdict": "横盘整理中，多空平衡待方向选择。关注板块轮动和成交量变化。风险评分6/10(🟡 中等)。",
         "details": [
           "➡️ 持平 +0.00%，在25个板块中排名第25",
-          "短期MA20：跌破1.6%，趋势偏弱",
-          "中期MA60：跌破5.0%，趋势偏弱",
-          "近1周：+1.47%",
-          "近1月：-4.72%",
-          "年初至今：-13.11%"
+          "📏 均线：MA20偏离-1.6% | MA60偏离-5.0% | 空头排列 ⚠️",
+          "⚡ 动量：温和上涨 | 中等波动",
+          "📅 近1周：+1.47%",
+          "📅 近1月：-4.72%",
+          "📅 近3月：-10.70%，排名第21",
+          "📅 年初至今：-13.11%"
         ],
         "rank_change": 25,
-        "rank_1m": 21
+        "rank_1m": 21,
+        "align": "空头排列 ⚠️",
+        "momentum": "温和上涨",
+        "vola": "中等波动",
+        "risk_score": 6,
+        "risk_level": "🟡 中等",
+        "streak_text": ""
       },
-      "news": []
+      "news": [
+        {
+          "title": "美酒咖啡,新晋顶流 | 食品饮料板块机会来了吗?",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b4xMfJ4xjYkq-cJ9ARKmOJ1qXa8Fplpd95hHH4Eh4qJFrId688SNdX3aJjc_loSESXsSlOO0jQPsjURojSMm6M2bgsk1dmhjm0QQSAGIWzFeXTznH1ZC0rHP8_7iPktaCm0_-7VtrLziS1n-7LFzupAf6KSTNLNE3UWR5kMcXitl4BEwZveJfXvOe3-HlFB-C2xcZHCRdJOXy08OLTBhW0A..&amp;type=2&amp;query=%E9%A3%9F%E5%93%81%E9%A5%AE%E6%96%99 %E6%9D%BF%E5%9D%97&amp;token=22A8E9A8963C2A88F4F2A6DB264D4E7DF5B582526A1D7275",
+          "time": "",
+          "desc": "食品饮料板块的估值自2018年触底后上升,在2020年触顶达到55倍后,就迅速进入了下行通道.截至2023年9月1日,食品饮料板块估..."
+        },
+        {
+          "title": "高油价推升通胀预期 看好食品饮料板块四个方向",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b4xMfJ4xjYkq-cJ9ARKmOJ1qXa8Fplpd9dXuT0jhe-yBr8Iy65oNoIQayo6aJ4etCmQ94P5qRkzqmf1I5hJ0G-IGFWUIeOq3suF2ekmfoc_ZuHD5ocRD5UcFJtqaEDpV6c5FaHWp9mjurjLMnvMOlsbtEwtZri72OHi401nRNJcgAPGSoDY9mfOUzbzGNPibG9zcFvCw81ibS-e4Yz84xMA..&amp;type=2&amp;query=%E9%A3%9F%E5%93%81%E9%A5%AE%E6%96%99 %E6%9D%BF%E5%9D%97&amp;token=22A8E9A8963C2A88F4F2A6DB264D4E7DF5B582526A1D7275",
+          "time": "",
+          "desc": "在通胀预期下,食品饮料板块迎来哪些投资机会?通胀传导往往先从原油、金属等全球定价的大宗商品,再到上游原料及农产品,最后..."
+        },
+        {
+          "title": "华泰 | 食品饮料:Q4板块持仓回落,乳制品获增持",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b4xMfJ4xjYkq-cJ9ARKmOJ1qXa8Fplpd9Xmcqltv5iSF6y9quiu72vwmeYTE7jUOOuDsu-rAkoLTLVCv58-KsnmNc8kuC401l_ZkVP885kGYg1FDAjn_gI3JUKa72G3TtbbYddgzSqrpISDKSHb1agh6zUGX_NvP98U3DcxTOl-5kHc3W4jWZbEzU_CegFirzvo9tTRiLscb1AfaFW2DefQ..&amp;type=2&amp;query=%E9%A3%9F%E5%93%81%E9%A5%AE%E6%96%99 %E6%9D%BF%E5%9D%97&amp;token=22A8E9A8963C2A88F4F2A6DB264D4E7DF5B582526A1D7275",
+          "time": "",
+          "desc": "食品饮料板块部分企业业绩有所承压;此外,北向资金流出等资金面负面变化亦是重要影响因素.子板块分化延续,白酒及啤酒板块减..."
+        },
+        {
+          "title": "诺德基金姜禄彦:食品饮料板块底部逐渐确认,投资价值显现",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b4xMfJ4xjYkq-cJ9ARKmOJ1qXa8Fplpd9mmbyVvuim4B-y0MnwnhT6gPK7sZJjNbQLgDyyQF8SBTQv6yuNtCB0HKAs5SjNs_oh12Cz7uR3vMRBhzRXvdQWAK3upDap4bhf2BHk0Ir2GrFaymOHy1ntlCyaI14a5EbnESYl2dXq5BftArYdTotEWLhBk4WDSZAcjk0zTbBgnR535pjGOOjYg..&amp;type=2&amp;query=%E9%A3%9F%E5%93%81%E9%A5%AE%E6%96%99 %E6%9D%BF%E5%9D%97&amp;token=22A8E9A8963C2A88F4F2A6DB264D4E7DF5B582526A1D7275",
+          "time": "",
+          "desc": "诺德基金大体认为,以白酒为核心的食品饮料板块底部已逐步确认,板块的投资价值已逐步显现.长期来看,商业模式优、成长潜力足..."
+        }
+      ]
     },
     {
       "code": "512170",
@@ -3903,19 +4659,55 @@
         "today_tag": "↘️ 微跌",
         "short_trend": "偏弱",
         "mid_trend": "偏弱",
-        "verdict": "短期承压，建议结合基本面消息综合判断",
+        "verdict": "短期承压，弱势回调。建议结合基本面消息综合判断。风险评分6/10(🟡 中等)。",
         "details": [
           "↘️ 微跌 -0.63%，在25个板块中排名第10",
-          "短期MA20：跌破5.0%，趋势偏弱",
-          "中期MA60：跌破6.5%，趋势偏弱",
-          "近1周：-3.12%",
-          "近1月：-8.82%",
-          "年初至今：-13.41%"
+          "📏 均线：MA20偏离-5.0% | MA60偏离-6.5% | 空头排列 ⚠️",
+          "⚡ 动量：弱势回调 | 中等波动",
+          "📅 近1周：-3.12%",
+          "📅 近1月：-8.82%",
+          "📅 近3月：-12.18%，排名第24",
+          "📅 年初至今：-13.41%"
         ],
         "rank_change": 10,
-        "rank_1m": 24
+        "rank_1m": 24,
+        "align": "空头排列 ⚠️",
+        "momentum": "弱势回调",
+        "vola": "中等波动",
+        "risk_score": 6,
+        "risk_level": "🟡 中等",
+        "streak_text": ""
       },
-      "news": []
+      "news": [
+        {
+          "title": "Alpha Insights|乔海英:医药板块或已进入一个极具性价比的布局时点",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b4xMfJ4xjYkq-cJ9ARKmOJ1qXa8Fplpd9ney_QUXqXbm5LixCiE4yid1FmrC5oAOVnuDOtq-JYXjhnBKiamamQ_vH-Kaet6TKxfFAmno2wUYNutmLtjyLeIQBr8m8OFcMHo9sT40dwKUOMkzPmPEBiBsmnmR8nZO4KOI7JCzLM5_EB0oxHl5J7Nkfxw8zEbSyzEvto-WPr4uFW6cwuUnkdA..&amp;type=2&amp;query=%E5%8C%BB%E7%96%97 %E6%9D%BF%E5%9D%97&amp;token=22A8EAF2D2786ECDB0B6E39F630DC070B10B90966A1D7275",
+          "time": "",
+          "desc": "景顺长城科技军团成员,景顺长城医疗产业基金经理乔海英认为,全年维度看,当下医药板块或已进入一个极具性价比的布局时点...."
+        },
+        {
+          "title": "银河日评 | 医保目录新增,创新药放量,医药板块上涨",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b4xMfJ4xjYkq-cJ9ARKmOJ1qXa8Fplpd960fEazY0PVHdU72NXI7fMEg3jSWRKxbm8Usje9n5zOcPlSiUkgUPjuXanxE6k2u-tXBzISuj9IgBkoUu9ufUGC24c8E4bfpdMpFx-2B6XNSGAHiVMbuxiQ_9iLPD6LvplWEFi7Nmej57lj6e9UqEZR9g_RSzy9PrtkUBQHbPu4Fj32-j2KiwUw..&amp;type=2&amp;query=%E5%8C%BB%E7%96%97 %E6%9D%BF%E5%9D%97&amp;token=22A8EAF2D2786ECDB0B6E39F630DC070B10B90966A1D7275",
+          "time": "",
+          "desc": "04焦点板块领涨行业为医药生物板块、通信板块、传媒板块.Wind数据显示,医药生物板块方面,新版医保目录新增114种药品,创新..."
+        },
+        {
+          "title": "医疗板块突然爆发!48亿资金抢筹,这个行业要翻身了?",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b4xMfJ4xjYkq-cJ9ARKmOJ1qXa8Fplpd9udH176D9bAgcDezvCEwbPifHTFsGCF_qYRegLZLz7Q7woSlrdFXAAeGd9bdDmFWg98JnuRQJbDUTGPMDUQzJNXWn-aiNLyzJ4EQmGSbppJK5Z8EFE0W81dJu1HI3QDTgg0y4YSFPH0qgrx8SXyM_gUSFHWIp5q1wzI6fFikrrtR5Nu7CnoSqqg..&amp;type=2&amp;query=%E5%8C%BB%E7%96%97 %E6%9D%BF%E5%9D%97&amp;token=22A8EAF2D2786ECDB0B6E39F630DC070B10B90966A1D7275",
+          "time": "",
+          "desc": "最近医疗板块有点不一样.不是那种一日游的反弹,而是真金白银的流入&mdash;&mdash;**单日48.43亿资金抢筹**,涨幅超过3%.放在前几个月..."
+        },
+        {
+          "title": "涨停复盘:医药板块全线飙升!创新药、器械、中药齐涨!津药药业斩获4连板,广生堂、爱迪药业、睿智医药20CM涨停",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b4xMfJ4xjYkq-cJ9ARKmOJ1qXa8Fplpd9USVY2XKBbKoXYzBnXPSVs4wyyHcWUojY1lbYUzqasCZ4WHOvW5q1x_iYpgvCd2bM_M0dP0vkq423eohX47K-ZM5BiQI25ujQC_gYplf_IAuuO2Nb7dtSaANgpYJXPAgjIIg8ArH--iTnZHHhlZXyur-DxVs-Q92_7JKYj_FtuwTs46dn8Efgxg..&amp;type=2&amp;query=%E5%8C%BB%E7%96%97 %E6%9D%BF%E5%9D%97&amp;token=22A8EAF2D2786ECDB0B6E39F630DC070B10B90966A1D7275",
+          "time": "",
+          "desc": "从板块来看,医药板块强者恒强,创新药继续领涨,医疗器械、中药等细分方向也全面开花,凯莱英2连板,广生堂、爱迪药业、睿智..."
+        }
+      ]
     },
     {
       "code": "515880",
@@ -4082,19 +4874,55 @@
         "today_tag": "💥 大跌",
         "short_trend": "偏强",
         "mid_trend": "偏强",
-        "verdict": "短期承压，建议结合基本面消息综合判断",
+        "verdict": "短期承压，弱势回调。建议结合基本面消息综合判断。风险评分7/10(🟡 中等)。",
         "details": [
           "💥 大跌 -3.65%，在25个板块中排名第20",
-          "短期MA20：站上2.1%，趋势偏强",
-          "中期MA60：站上19.9%，趋势偏强",
-          "近1周：-1.16%",
-          "近1月：+15.30%",
-          "年初至今：+45.99%"
+          "📏 均线：MA20偏离+2.1% | MA60偏离+19.9% | 多头排列 ✅",
+          "⚡ 动量：弱势回调 | 中等波动 | 连跌2天 ⚠️",
+          "📅 近1周：-1.16%",
+          "📅 近1月：+15.30%",
+          "📅 近3月：+41.93%，排名第5",
+          "📅 年初至今：+45.99%"
         ],
         "rank_change": 20,
-        "rank_1m": 5
+        "rank_1m": 5,
+        "align": "多头排列 ✅",
+        "momentum": "弱势回调",
+        "vola": "中等波动",
+        "risk_score": 7,
+        "risk_level": "🟡 中等",
+        "streak_text": "连跌2天 ⚠️"
       },
-      "news": []
+      "news": [
+        {
+          "title": "靴子即将落地!中兴通讯涨停!5G板块异常强势",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b4xMfJ4xjYkq-cJ9ARKmOJ1qXa8Fplpd96vo42192g9AwvuiJ609HfegVlfzscJRejSsfgvP3Uw7s6ucEfL-BkzWqgMVp94CpV0EQZ6UWtcW1nBEcUFjDkLoWPNj-PrI0qukK9pdnKIjwHsrDGiVmrF9-xoaRo0DOHswckzU_mw9YGLeC0DTCshNIQdfKtFlU1VZkV7DDT-vs46dn8Efgxg..&amp;type=2&amp;query=5G%E9%80%9A%E4%BF%A1 %E6%9D%BF%E5%9D%97&amp;token=22A8EC3060CBDD7F0405502CD7C31B74049408616A1D7275",
+          "time": "",
+          "desc": "今日指数集体涨逾1% ,各路资金聚焦在新能源车和白酒板块持但是还有一个板块, 5G通信板块,表现也很亮眼板块涨幅超4.5%,移..."
+        },
+        {
+          "title": "智芯公司发布基于融合终端的嵌入式5G通信模块",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b4xMfJ4xjYkq-cJ9ARKmOJ1qXa8Fplpd9U-8g8IUKcxk5g4z0eNQZh2f7mTlV_KHOfEfQtmP8vy5ObGJgm_Kcc1ckV3CQCM6engoWiyC_qka_qHdqZWiVzEHSwItev5qL5Ik9U1RPZARYLTtsL0I2QFsaQicYyaAA7x4ZFfb1NeKFSi2sIQULjv5_M-iw9CXDQUzqQq1K7SXs46dn8Efgxg..&amp;type=2&amp;query=5G%E9%80%9A%E4%BF%A1 %E6%9D%BF%E5%9D%97&amp;token=22A8EC3060CBDD7F0405502CD7C31B74049408616A1D7275",
+          "time": "",
+          "desc": "新产品发布1月7日,智芯公司率先研制出低功耗、小体积、嵌入式5G通信模块,实现5G技术在智能融合终端产品的实网通信,实测平..."
+        },
+        {
+          "title": "中兴通讯盘中涨停,5G板块午后爆发!背后发生了什么事?",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b4xMfJ4xjYkq-cJ9ARKmOJ1qXa8Fplpd9wht5et5FDdFzv1BdkYfSubWbc2niLz7f-WuvGl0WOTLL6oc-mo10zdCYoIuVGOB0zjQ7aj0aXzidcoHGCyStoJk3PffJzzrg0BJuHU9EKGHokNujHpvs9n78YYJUbkBdHEbLW_K9hEMAnKtAr2aNsZNHV4PKxTQr_2wUyfrAoUMYJSSFPgfogQ..&amp;type=2&amp;query=5G%E9%80%9A%E4%BF%A1 %E6%9D%BF%E5%9D%97&amp;token=22A8EC3060CBDD7F0405502CD7C31B74049408616A1D7275",
+          "time": "",
+          "desc": "8月20日,5G通信概念大放异彩,吸引场内外资金加速流入.在市场调整中,5G板块的主要股票中兴通讯、亨通光电、烽火通信、光..."
+        },
+        {
+          "title": "【关注】中天科技:努力让下一代5G通信从概念走进现实",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6ft3wfAVofsP5Peu-UiA4DLxpLs3WH2babFUTnhnbsS6VgrFeYQugDi2p2sAzycYx3RfvohEwC37AiOxEEJHfjRA2KFgV5v85Ks-L8EMAxcF-UdaafAU-cPARbORva--THN76waABDcPImYEDur_CllV3XmDx69-LRO_QDRGvUh8lM5pXaKYlEBklHwzPoEf1k3b7Pg8uBR22xds6JTZ_id8zrapVy8_k7Buv6o01XRMpGwnlGgySX0qZ2pVfClAvDy7qBPdSr4RoI1-qbndperCQaV72WF_siZqwg0yoRFw.&amp;type=2&amp;query=5G%E9%80%9A%E4%BF%A1 %E6%9D%BF%E5%9D%97&amp;token=22A8EC3060CBDD7F0405502CD7C31B74049408616A1D7275",
+          "time": "",
+          "desc": "下一代5G通信要从概念走进现实,研究人员不仅需要解决前所未有的无线数据传输速率要求,还要找到网络延迟和响应性的解决方案..."
+        }
+      ]
     },
     {
       "code": "518880",
@@ -4259,19 +5087,55 @@
         "today_tag": "↘️ 微跌",
         "short_trend": "偏弱",
         "mid_trend": "偏弱",
-        "verdict": "短期承压，建议结合基本面消息综合判断",
+        "verdict": "短期承压，弱势回调。建议结合基本面消息综合判断。风险评分6/10(🟡 中等)。",
         "details": [
           "↘️ 微跌 -0.56%，在25个板块中排名第9",
-          "短期MA20：跌破2.4%，趋势偏弱",
-          "中期MA60：跌破5.9%，趋势偏弱",
-          "近1周：-1.21%",
-          "近1月：-4.03%",
-          "年初至今：-1.63%"
+          "📏 均线：MA20偏离-2.4% | MA60偏离-5.9% | 空头排列 ⚠️",
+          "⚡ 动量：弱势回调 | 中等波动",
+          "📅 近1周：-1.21%",
+          "📅 近1月：-4.03%",
+          "📅 近3月：-14.70%，排名第20",
+          "📅 年初至今：-1.63%"
         ],
         "rank_change": 9,
-        "rank_1m": 20
+        "rank_1m": 20,
+        "align": "空头排列 ⚠️",
+        "momentum": "弱势回调",
+        "vola": "中等波动",
+        "risk_score": 6,
+        "risk_level": "🟡 中等",
+        "streak_text": ""
       },
-      "news": []
+      "news": [
+        {
+          "title": "A股黄金板块年内跌超40%,1300亿巨头股价重挫50%",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b4xMfJ4xjYkq-cJ9ARKmOJ1qXa8Fplpd90J7UIrZc4FPvbAOHnrEghiITx6D65BdGCDkrlUeamS7keEABQpYK7U3pvN9MEjtKjuAT6jZIP2cBeJ1aKNZ-AJpG7J_Mz4V9XkGHZ35mXWmHag19n6C-gkfH9JdENwOWOJSjklJtg-BWfXC8yRg7hfAo88MFMGG7r2gOUoFO9JMHpHkoPMgL3A..&amp;type=2&amp;query=%E9%BB%84%E9%87%91 %E6%9D%BF%E5%9D%97&amp;token=22A8ED2A99322485F9FCAAD62A3ADB31FA2FE46B6A1D7275",
+          "time": "",
+          "desc": "板块整体下跌超40%.其中,截至6月1日,A股千亿黄金巨头山东黄金的股价年内已经下跌超50%,目前公司市值1356亿元.多只A股..."
+        },
+        {
+          "title": "黄金板块表现活跃 机构看好长期配置价值",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b4xMfJ4xjYkq-cJ9ARKmOJ1qXa8Fplpd9_uefAUkSLjy95D4DiYZpq2i7vRz_MtkIvCXUOKpRoB1WoiMdjcSv8bwopo1dBOHuSamnpUZ802QU_sNosV1ghjzyXLFaQxngeDmabywiVF2rCw2tKnfraNeLiz3qceId4dBmGjyGm_-dtcWHM_TZdY8n9MuSXzkY&amp;type=2&amp;query=%E9%BB%84%E9%87%91 %E6%9D%BF%E5%9D%97&amp;token=22A8ED2A99322485F9FCAAD62A3ADB31FA2FE46B6A1D7275",
+          "time": "",
+          "desc": "&ensp;&ensp;&ensp;&ensp;本报记者 任世碧&ensp;&ensp;&ensp;&ensp;5月26日,黄金板块表现活跃.截至收盘,该板块整体上涨1.56%,上证指数当日下跌0.1"
+        },
+        {
+          "title": "黄金板块、大盘格局&amp;我们的对策",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6ft3wfAVofsP5Peu-UiA4DLxpLs3WH2babFUTnhnbsS6VgrFeYQugDhUGLNMozMqHCKpBDBAlAtqnl8fN53MEtelcBykHAHzigPNVG9OwmpWRfIUgFGT6P-ZN5HQ98NQcnfCzQ6Mr48XtzSD34oBHQPMxsQZ_UrrPNZzo3a5vO0Cs0QeRTYbalWiA0fa_dsnLOz99L9Y3RpZfTp_KLDZRb4gklqpuxkO5B9iKrBwXwqPtDlWyl5BzWjepewWoKNXOOBOb4z5fh8C0Cd9meRavaB_b6p1Z6RYniZqwg0yoRFw.&amp;type=2&amp;query=%E9%BB%84%E9%87%91 %E6%9D%BF%E5%9D%97&amp;token=22A8ED2A99322485F9FCAAD62A3ADB31FA2FE46B6A1D7275",
+          "time": "",
+          "desc": "一、黄金板块实战思路从上周开始,理念兄就提请大家关注黄金板块,本周更是在我的短线操盘指导计划里面,强调并且指导大家利用..."
+        },
+        {
+          "title": "反弹半途而废  黄金板块一枝独秀",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b4xMfJ4xjYkq-cJ9ARKmOJ1qXa8Fplpd9mqk7PygVE7u8nffTpUZtBbA71cRbjET2IwOVKDYQ0WljoZBtBzyL4ePVwQK4B1hI8WF-wb73r-gzMpntsXaB7B_nGDTUhrj-Y_OGENuJ8EmUS7Gm8naM-2GCLu5LLMFk2Yk1EffTMH3nrTJqea-hnwEN9wfNR36XmkTk1Bh-ZMw6Ebq8fk9diw..&amp;type=2&amp;query=%E9%BB%84%E9%87%91 %E6%9D%BF%E5%9D%97&amp;token=22A8ED2A99322485F9FCAAD62A3ADB31FA2FE46B6A1D7275",
+          "time": "",
+          "desc": "黄金板块技术面上图蓝色方框标识为前期套牢盘区域,经过上周的拉升上涨周五黄金板块打到该套牢盘区域后未能进行突破,出现量价..."
+        }
+      ]
     },
     {
       "code": "516360",
@@ -4436,19 +5300,55 @@
         "today_tag": "📉 下跌",
         "short_trend": "偏弱",
         "mid_trend": "偏强",
-        "verdict": "短期弱势，可能受利空影响，关注下方支撑",
+        "verdict": "短期加速下跌，均线空头排列，需警惕继续下行。风险评分5/10(🟡 中等)，关注下方支撑位。",
         "details": [
           "📉 下跌 -2.40%，在25个板块中排名第17",
-          "短期MA20：跌破3.2%，趋势偏弱",
-          "中期MA60：站上3.9%，趋势偏强",
-          "近1周：-4.52%",
-          "近1月：+0.83%",
-          "年初至今：+13.78%"
+          "📏 均线：MA20偏离-3.2% | MA60偏离+3.9% | 均线交织 ↔️",
+          "⚡ 动量：弱势回调 | 中等波动 | 连跌2天 ⚠️",
+          "📅 近1周：-4.52%",
+          "📅 近1月：+0.83%",
+          "📅 近3月：+5.48%，排名第15",
+          "📅 年初至今：+13.78%"
         ],
         "rank_change": 17,
-        "rank_1m": 15
+        "rank_1m": 15,
+        "align": "均线交织 ↔️",
+        "momentum": "弱势回调",
+        "vola": "中等波动",
+        "risk_score": 5,
+        "risk_level": "🟡 中等",
+        "streak_text": "连跌2天 ⚠️"
       },
-      "news": []
+      "news": [
+        {
+          "title": "新能源与新材料板块2023年A股资本市场回顾(下篇)",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b4xMfJ4xjYkq-cJ9ARKmOJ1qXa8Fplpd9Th7M1FpcImvs44tOo1S3pOWF7F28PDBMJfk6zhim_SSzkF7MboOeieof-TAVpbrefRG2qgCBo0AKEyaPomYZoX2SRpvRQV_0wz2vEIGfk6WAUmwFvPEb3Uh0pEqDtSJar6cCY54hCkUqrxwP6rdJUvge7S-_gxcL1IeUs5dp0bHI3OTRHYU2og..&amp;type=2&amp;query=%E6%96%B0%E6%9D%90%E6%96%99 %E6%9D%BF%E5%9D%97&amp;token=22A8EE27248F993B4741146994821E7747DBFE6D6A1D7275",
+          "time": "",
+          "desc": "新能源与新材料板块2023年A股资本市场回顾(上篇)一、新能源与新材料行业2023年上市公司A股再融资情况(一)新能源与新材料..."
+        },
+        {
+          "title": "通用技术新材料板块组织召开市场协同工作2022年第一次月例会",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b4xMfJ4xjYkq-cJ9ARKmOJ1qXa8Fplpd9lfChgh1o3LJ3cfbFuR7BFcTkCQfPSGe-YSyqpKrnNsbxsHjogPBNpjPdCQ_afIqThQ_eyzqCdi0ke_GmYYIQak4S9UFpY6bfYV2-VSFs8J2qzhpAMPlcuB5z66hLsfqikdxjzxJStBHSHrzvjo35Pq_p-mweUXLJ35hhD9LwIvVFkDr8IT4KYw..&amp;type=2&amp;query=%E6%96%B0%E6%9D%90%E6%96%99 %E6%9D%BF%E5%9D%97&amp;token=22A8EE27248F993B4741146994821E7747DBFE6D6A1D7275",
+          "time": "",
+          "desc": "7月29日下午,通用技术新材料板块以现场和视频形式召开市场协同工作2022年第一次月例会.通用技术新材副总经理刘剑出席会议并..."
+        },
+        {
+          "title": "中国平煤神马集团党委公开选拔新能源新材料板块中层副职后备人选公告",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b4xMfJ4xjYkq-cJ9ARKmOJ1qXa8Fplpd9KFqt26TfuVFcHoH8hnDxovbaEsEdqzYL0niqFsUvLdjW2vYhMrIr9enrR3jRWWfMR-KKQip-vb3eE5PFb1sqTIDehSszaOKJUdNHyS4TSMz3wDyPb8Vny7tPouU6Ub2BFDTM-dYUOlIg7PtYUFDwBAg6wLtoNZ3bDaQSh7UkwAufxjh3za6jWA..&amp;type=2&amp;query=%E6%96%B0%E6%9D%90%E6%96%99 %E6%9D%BF%E5%9D%97&amp;token=22A8EE27248F993B4741146994821E7747DBFE6D6A1D7275",
+          "time": "",
+          "desc": "中国平煤神马集团党委公开选拔新能源新材料板块中层副职后备人选公告为持续优化中层管理人员队伍结构,着力破解新能源新材料板..."
+        },
+        {
+          "title": "再升级!通用技术新材料板块又添2家国家级专精特新\"小巨人\"企业!",
+          "source": "微信公众号",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MVrFiywf-b4xMfJ4xjYkq-cJ9ARKmOJ1qXa8Fplpd9lfChgh1o3LJ3cfbFuR7BFcTkCQfPSGe-YSyqpKrnNsbxsHjogPBNpqsbNwf-ksDsruDQyPtCG8Xg4toQg8AW-1P9Heycz8AkEoUxakwEtccMy46bCg0iYX2ny126p_paFzdGv1FZCmCfD-kFX1edPB51DQynptT4bqC2JW8I9MxCy6umSSPEsg..&amp;type=2&amp;query=%E6%96%B0%E6%9D%90%E6%96%99 %E6%9D%BF%E5%9D%97&amp;token=22A8EE27248F993B4741146994821E7747DBFE6D6A1D7275",
+          "time": "",
+          "desc": "通用技术新材料板块中纺化工、中纺新材料入选国家级专精特新&ldquo;小巨人&rdquo;企业名单,这也是继今年初中纺化工、中纺新材料被认定为..."
+        }
+      ]
     }
   ]
 }
