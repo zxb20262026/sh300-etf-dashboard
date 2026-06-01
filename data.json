@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-01 20:20:07",
+  "generated": "2026-06-01 20:22:19",
   "etfs": [
     {
       "code": "513500",
@@ -751,7 +751,26 @@
         "risk_level": "🟡 中等",
         "streak_text": "连跌3天 ⚠️"
       },
-      "news": []
+      "news": [
+        {
+          "title": "摩根士丹利将戴尔目标价从170美元上调至448美元，将戴尔评级上调至“与大盘持平”，此前为“减持”。",
+          "source": "华尔街见闻",
+          "url": "https://wallstreetcn.com/livenews/3112422",
+          "desc": "点击查看华尔街见闻原文"
+        },
+        {
+          "title": "摩根士丹利将戴尔目标价从170美元上调至448美元，将戴尔评级上调至“与大盘持平”，此前为“减持”。",
+          "source": "华尔街见闻",
+          "url": "https://wallstreetcn.com/livenews/3112422",
+          "desc": "点击查看华尔街见闻原文"
+        },
+        {
+          "title": "摩根士丹利将戴尔目标价从170美元上调至448美元，将戴尔评级上调至“与大盘持平”，此前为“减持”。",
+          "source": "华尔街见闻",
+          "url": "https://wallstreetcn.com/livenews/3112422",
+          "desc": "点击查看华尔街见闻原文"
+        }
+      ]
     },
     {
       "code": "510500",
@@ -1123,7 +1142,14 @@
         "risk_level": "🟡 中等",
         "streak_text": "连跌2天 ⚠️"
       },
-      "news": []
+      "news": [
+        {
+          "title": "197只ETF获融资净买入 易方达上证科创板50ETF居首",
+          "source": "证券时报",
+          "url": "https://www.stcn.com/article/detail/3936227.html",
+          "desc": "点击查看证券时报原文"
+        }
+      ]
     },
     {
       "code": "159781",
@@ -3217,7 +3243,20 @@
         "risk_level": "🟡 中等",
         "streak_text": "连跌2天 ⚠️"
       },
-      "news": []
+      "news": [
+        {
+          "title": "钠电池迎来历史性拐点，产业链核心标的曝光",
+          "source": "证券时报",
+          "url": "https://www.stcn.com/article/detail/3936566.html",
+          "desc": "点击查看证券时报原文"
+        },
+        {
+          "title": "8倍大牛股，大跳水！钠电池迎来历史性拐点，产业链核心标的曝光",
+          "source": "证券时报",
+          "url": "https://www.stcn.com/article/detail/3936550.html",
+          "desc": "点击查看证券时报原文"
+        }
+      ]
     },
     {
       "code": "512800",
