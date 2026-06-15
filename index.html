@@ -49,6 +49,8 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Microsoft YaHei","PingFang SC
 .etf-card.rise{border-left:3px solid #f85149}
 .etf-card.fall{border-left:3px solid #3fb950}
 .etf-card.flat{border-left:3px solid #484f58}
+.etf-card{position:relative}
+.portfolio-badge{position:absolute;top:8px;right:8px;font-size:16px;z-index:2;filter:drop-shadow(0 0 4px rgba(63,185,80,.5))}
 
 /* 卡片头部 */
 .etf-top{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:6px}
@@ -139,7 +141,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Microsoft YaHei","PingFang SC
   <a class="nav-btn" href="https://zxb20262026.github.io/600900/">💧 长江电力</a>
   <a class="nav-btn" href="https://zxb20262026.github.io/00700/">🐧 腾讯控股</a>
   <a class="nav-btn active">🎯 ETF赛道雷达</a>
-  <a class="nav-btn" href="https://zxb20262026.github.io/vibe-dashboard/stocks/300750_vibe.html">🧬 港大看板</a>
+  <a class="nav-btn" href="https://zxb20262026.github.io/vibe-dashboard/">🧬 Vibe-Trading港大看板</a>
 </div>
 
 <!-- 头部 -->
@@ -298,6 +300,8 @@ function buildTrendSVG(trend) {
 let currentFilter = "all";
 let currentSort = "change";
 
+const PORTFOLIO = ["512480","159782","588200","512760","588000","159516","588790","159206","159227","159566"];
+
 function renderCards() {
     let etfs = [...DATA.etfs];
     
@@ -319,7 +323,7 @@ function renderCards() {
         const chgCls = chg>0?"rise":chg<0?"fall":"flat";
         const r = e.returns || {};
         
-        html += `<div class="etf-card ${chgCls}" data-cat="${e.cat}">
+        html += `<div class="etf-card ${chgCls}" data-cat="${e.cat}">${PORTFOLIO.includes(e.code) ? '<span class="portfolio-badge">✅</span>' : ''}
             <div class="etf-top">
                 <div class="etf-info">
                     <span class="etf-name">${e.short}</span>
