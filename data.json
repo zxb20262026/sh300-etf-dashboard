@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-17 11:41:43",
+  "generated": "2026-06-17 12:40:18",
   "etfs": [
     {
       "code": "513500",
@@ -553,6 +553,13 @@
       },
       "news": [
         {
+          "title": "港股午评：恒生指数跌0.37% 恒生科技指数涨0.17%",
+          "source": "证券时报",
+          "url": "https://www.stcn.com/article/detail/3965949.html",
+          "desc": "点击查看证券时报原文",
+          "time": "06-17"
+        },
+        {
           "title": "溜溜梅港股首日涨超190%！A股大佬参与基石，红杉退在黎明前",
           "source": "证券时报",
           "url": "https://www.stcn.com/article/detail/3962737.html",
@@ -572,13 +579,6 @@
           "url": "https://www.stcn.com/article/detail/3944467.html",
           "desc": "点击查看证券时报原文",
           "time": "10-01"
-        },
-        {
-          "title": "证监会主席吴清：支持符合条件的港股上市公司境内上市",
-          "source": "华尔街见闻",
-          "url": "https://wallstreetcn.com/livenews/3120697",
-          "desc": "中国证监会主席吴清17日在2026陆家嘴论坛上表示，支持符合条件的港股上市公司境内上市，更好促进两地市场联动发展。",
-          "time": "06-17 11:12"
         }
       ]
     },
@@ -1774,13 +1774,6 @@
           "time": "06-17"
         },
         {
-          "title": "吴清：适时发布规范发展资本市场人工智能的指导意见",
-          "source": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3965817.html",
-          "desc": "点击查看证券时报原文",
-          "time": "06-17"
-        },
-        {
           "title": "吴清：依法从严打击利用人工智能非法荐股等乱象",
           "source": "华尔街见闻",
           "url": "https://wallstreetcn.com/livenews/3120716",
@@ -1793,6 +1786,13 @@
           "url": "https://wallstreetcn.com/livenews/3120696",
           "desc": "中国证监会主席吴清表示，将适时发布规范发展资本市场人工智能的指导意见。",
           "time": "06-17 11:11"
+        },
+        {
+          "title": "民进党当局被曝“正考虑对向大陆销售人工智能芯片实施严厉管制”，国台办回应",
+          "source": "华尔街见闻",
+          "url": "https://wallstreetcn.com/livenews/3120694",
+          "desc": "6月17日上午，国台办举行例行新闻发布会，发言人陈斌华就近期两岸热点问题回答记者提问。记者：据彭博社报道，民进党当局正考虑对向大陆销售人工智能芯片实施严厉管制，拟将未经授权的相关出口行为定性为刑事犯罪。岛内舆论认为这是赖清德当局向美国递出的“投名状”，若执意如此，将导致台湾半导体产业陷入孤立。请问对",
+          "time": "06-17 11:10"
         }
       ]
     },
@@ -2191,7 +2191,15 @@
         "risk_level": "🟡 中等",
         "streak_text": "连涨3天 🔥"
       },
-      "news": []
+      "news": [
+        {
+          "title": "午评：科创综指涨0.78%，半导体板块拉升，玻璃基板概念爆发",
+          "source": "证券时报",
+          "url": "https://www.stcn.com/article/detail/3965899.html",
+          "desc": "点击查看证券时报原文",
+          "time": "06-17"
+        }
+      ]
     },
     {
       "code": "562500",
@@ -2377,9 +2385,9 @@
       },
       "news": [
         {
-          "title": "FF发布四款机器人 落地首个EAI教育生态",
+          "title": "机器人持股公司在浙江成立智能机器人公司",
           "source": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3965836.html",
+          "url": "https://www.stcn.com/article/detail/3965905.html",
           "desc": "点击查看证券时报原文",
           "time": "06-17"
         },
@@ -2760,7 +2768,36 @@
         "risk_level": "🟡 中等",
         "streak_text": "连涨5天 🔥"
       },
-      "news": []
+      "news": [
+        {
+          "title": "我国成功发射卫星互联网低轨22组卫星",
+          "source": "证券时报",
+          "url": "https://www.stcn.com/article/detail/3965970.html",
+          "desc": "点击查看证券时报原文",
+          "time": "06-17"
+        },
+        {
+          "title": "我国成功发射卫星互联网低轨22组卫星",
+          "source": "华尔街见闻",
+          "url": "https://wallstreetcn.com/livenews/3120744",
+          "desc": "北京时间2026年6月17日10时44分，我国在海南商业航天发射场使用长征十二号运载火箭，成功将卫星互联网低轨22组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。（央视）",
+          "time": "06-17 12:22"
+        },
+        {
+          "title": "我国成功发射卫星互联网低轨22组卫星",
+          "source": "华尔街见闻",
+          "url": "https://wallstreetcn.com/livenews/3120744",
+          "desc": "北京时间2026年6月17日10时44分，我国在海南商业航天发射场使用长征十二号运载火箭，成功将卫星互联网低轨22组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。（央视）",
+          "time": "06-17 12:22"
+        },
+        {
+          "title": "我国成功发射卫星互联网低轨22组卫星",
+          "source": "华尔街见闻",
+          "url": "https://wallstreetcn.com/livenews/3120744",
+          "desc": "北京时间2026年6月17日10时44分，我国在海南商业航天发射场使用长征十二号运载火箭，成功将卫星互联网低轨22组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。（央视）",
+          "time": "06-17 12:22"
+        }
+      ]
     },
     {
       "code": "516160",
@@ -2948,11 +2985,11 @@
       },
       "news": [
         {
-          "title": "新能源重卡迎政策利好 产业链企业抢滩布局",
+          "title": "宁德时代在东营成立新能源公司 含电气安装服务业务",
           "source": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3965294.html",
+          "url": "https://www.stcn.com/article/detail/3965951.html",
           "desc": "点击查看证券时报原文",
-          "time": "06-15"
+          "time": "06-17"
         }
       ]
     },
@@ -3138,15 +3175,7 @@
         "risk_level": "🟡 中等",
         "streak_text": ""
       },
-      "news": [
-        {
-          "title": "002379，近2200亿元市值股，跌了快一半！太空光伏加速发展，机构密集关注股揭秘（附名单）",
-          "source": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3964638.html",
-          "desc": "点击查看证券时报原文",
-          "time": "06-17"
-        }
-      ]
+      "news": []
     },
     {
       "code": "159566",
@@ -3330,29 +3359,7 @@
         "risk_level": "🟡 中等",
         "streak_text": ""
       },
-      "news": [
-        {
-          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报169150元/吨，较上日16:30价格上涨300元/吨。",
-          "source": "华尔街见闻",
-          "url": "https://wallstreetcn.com/livenews/3120651",
-          "desc": "点击查看华尔街见闻原文",
-          "time": "06-17 10:32"
-        },
-        {
-          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报169150元/吨，较上日16:30价格上涨300元/吨。",
-          "source": "华尔街见闻",
-          "url": "https://wallstreetcn.com/livenews/3120651",
-          "desc": "点击查看华尔街见闻原文",
-          "time": "06-17 10:32"
-        },
-        {
-          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报169150元/吨，较上日16:30价格上涨300元/吨。",
-          "source": "华尔街见闻",
-          "url": "https://wallstreetcn.com/livenews/3120651",
-          "desc": "点击查看华尔街见闻原文",
-          "time": "06-17 10:32"
-        }
-      ]
+      "news": []
     },
     {
       "code": "512800",
@@ -3540,16 +3547,9 @@
       },
       "news": [
         {
-          "title": "吴清：会同人民银行研究推进人民币外汇期货试点",
+          "title": "【独家】银行理财两大业务资质低调开闸",
           "source": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3965830.html",
-          "desc": "点击查看证券时报原文",
-          "time": "06-17"
-        },
-        {
-          "title": "上海国际金融中心发展离岸金融行动方案：支持符合条件的商业银行开展上海自贸试验区离岸人民币外汇交易业务",
-          "source": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3965827.html",
+          "url": "https://www.stcn.com/article/detail/3965946.html",
           "desc": "点击查看证券时报原文",
           "time": "06-17"
         },
@@ -3559,6 +3559,13 @@
           "url": "https://www.stcn.com/article/detail/3965257.html",
           "desc": "点击查看证券时报原文",
           "time": "06-17"
+        },
+        {
+          "title": "银行理财两大业务资质低调开闸",
+          "source": "华尔街见闻",
+          "url": "https://wallstreetcn.com/livenews/3120739",
+          "desc": "银行理财迎利好，近日两大业务资质低调开闸。银行理财公司近日被首度引入银行间外币对市场，于6月16日完成理财资金在该市场的首笔交易；同时，三家理财公司已低调获批首批债券通“南向通”参与主体资格，首笔交易于上月末落地。",
+          "time": "06-17 12:09"
         },
         {
           "title": "吴清：会同人民银行研究推进人民币外汇期货试点",
@@ -3956,13 +3963,6 @@
           "time": "06-17"
         },
         {
-          "title": "一个专为“老小孩”建的商场，和它背后的服务消费新赛道",
-          "source": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3965293.html",
-          "desc": "点击查看证券时报原文",
-          "time": "06-17"
-        },
-        {
           "title": "绿证首次纳入非化石能源电力消费核算体系 企业需精细化采购绿证",
           "source": "证券时报",
           "url": "https://www.stcn.com/article/detail/3942938.html",
@@ -4341,7 +4341,15 @@
         "risk_level": "🟡 中等",
         "streak_text": "连跌3天 ⚠️"
       },
-      "news": []
+      "news": [
+        {
+          "title": "我国将制定统一的航空医疗救护标准",
+          "source": "证券时报",
+          "url": "https://www.stcn.com/article/detail/3965907.html",
+          "desc": "点击查看证券时报原文",
+          "time": "06-17"
+        }
+      ]
     },
     {
       "code": "515880",
@@ -4527,7 +4535,15 @@
         "risk_level": "🟡 中等",
         "streak_text": "连涨3天 🔥"
       },
-      "news": []
+      "news": [
+        {
+          "title": "国盾量子等取得量子通信工程技术领域新突破",
+          "source": "证券时报",
+          "url": "https://www.stcn.com/article/detail/3965942.html",
+          "desc": "点击查看证券时报原文",
+          "time": "06-17"
+        }
+      ]
     },
     {
       "code": "518880",
