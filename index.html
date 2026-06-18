@@ -52,6 +52,21 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Microsoft YaHei","PingFang SC
 .etf-card{position:relative}
 .portfolio-badge{position:absolute;top:8px;right:8px;font-size:16px;z-index:2;filter:drop-shadow(0 0 4px rgba(63,185,80,.5))}
 
+/* 六大方向简版卡片 */
+.theme-six-row{margin:0 0 14px 0;padding:12px 16px;background:#0f1623;border:1px solid #1e2d45;border-radius:12px}
+.theme-six-title{font-size:0.8em;color:#6e7681;margin-bottom:8px;padding-left:2px}
+.theme-six-grid{display:grid;grid-template-columns:repeat(6,1fr);gap:8px}
+.six-card{background:#131a26;border:1px solid #1e2d45;border-radius:8px;padding:10px 12px;text-align:center;transition:border-color .2s}
+.six-card:hover{border-color:#3a5a8a}
+.six-card-dir{font-size:0.6em;color:#6e7681;margin-bottom:2px}
+.six-card-name{font-size:0.75em;font-weight:600;color:#e6edf3;margin-bottom:1px}
+.six-card-code{font-size:0.65em;color:#58a6ff;margin-bottom:4px}
+.six-card-price{font-size:0.9em;font-weight:700;color:#e6edf3}
+.six-card-chg{font-size:0.72em;margin:2px 0}
+.six-card-size{font-size:0.6em;color:#484f58}
+@media(max-width:900px){.theme-six-grid{grid-template-columns:repeat(3,1fr)}}
+@media(max-width:480px){.theme-six-grid{grid-template-columns:repeat(2,1fr)}}
+
 /* 卡片头部 */
 .etf-top{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:6px}
 .etf-info{flex:1}
@@ -148,6 +163,12 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Microsoft YaHei","PingFang SC
 <div class="header">
   <h1>🎯 主题ETF赛道雷达</h1>
   <div class="sub">27板块 · 日监控 · <span id="gen-time">2026-06-18 12:53:41</span></div>
+</div>
+
+<!-- 六大方向简版卡片 -->
+<div class="theme-six-row" id="theme-six-row">
+  <div class="theme-six-title">🎯 任泽平六大方向</div>
+  <div class="theme-six-grid" id="theme-six-grid"></div>
 </div>
 
 <!-- KPI汇总 -->
@@ -362,6 +383,43 @@ function renderCards() {
     
     if (html === "") html = '<div style="grid-column:1/-1;text-align:center;padding:40px;color:#484f58">暂无数据</div>';
     document.getElementById("etf-grid").innerHTML = html;
+    renderSixCards();
+}
+
+// ═══════════════════════════════════
+// 六大方向简版卡片
+// ═══════════════════════════════════
+const SIX_DIRECTIONS = [
+    {dir:"大模型/AI", code:"159819"},
+    {dir:"算力芯片", code:"159516"},
+    {dir:"芯片半导体", code:"159995"},
+    {dir:"机器人", code:"562500"},
+    {dir:"商业航天", code:"159227"},
+    {dir:"自动驾驶", code:"516520"},
+];
+
+function renderSixCards() {
+    const dataMap = {};
+    (DATA.etfs || []).forEach(e => dataMap[e.code] = e);
+    let html = '';
+    SIX_DIRECTIONS.forEach(sd => {
+        const e = dataMap[sd.code];
+        if (!e) return;
+        const chg = e.change_pct || 0;
+        const chgClr = chg > 0 ? '#f85149' : (chg < 0 ? '#3fb950' : '#8b949e');
+        const chgStr = (chg > 0 ? '+' : '') + (chg||0).toFixed(2) + '%';
+        const aum = e.aum ? (e.aum >= 100 ? (e.aum/100).toFixed(1)+'百亿' : e.aum.toFixed(1)+'亿') : '';
+        const price = e.price ? e.price.toFixed(3) : '—';
+        html += `<div class="six-card">
+            <div class="six-card-dir">${sd.dir}</div>
+            <div class="six-card-name">${e.short||e.name}</div>
+            <div class="six-card-code">${sd.code}</div>
+            <div class="six-card-price">¥${price}</div>
+            <div class="six-card-chg" style="color:${chgClr}">${chgStr}</div>
+            <div class="six-card-size">${aum}</div>
+        </div>`;
+    });
+    document.getElementById("theme-six-grid").innerHTML = html;
 }
 
 // ═══════════════════════════════════
