@@ -64,6 +64,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Microsoft YaHei","PingFang SC
 .six-card-price{font-size:0.9em;font-weight:700;color:#e6edf3}
 .six-card-chg{font-size:0.72em;margin:2px 0}
 .six-card-size{font-size:0.6em;color:#484f58}
+.six-card-returns{display:flex;flex-wrap:wrap;justify-content:center;gap:3px 6px;font-size:0.58em;margin:3px 0;line-height:1.4}
 @media(max-width:900px){.theme-six-grid{grid-template-columns:repeat(3,1fr)}}
 @media(max-width:480px){.theme-six-grid{grid-template-columns:repeat(2,1fr)}}
 
@@ -401,20 +402,45 @@ function renderSixCards() {
     const dataMap = {};
     (DATA.etfs || []).forEach(e => dataMap[e.code] = e);
     let html = '';
-    SIX_DIRECTIONS.forEach(sd => {
+    const sorted = [...SIX_DIRECTIONS].sort((a,b) => (dataMap[b.code]?.aum||0) - (dataMap[a.code]?.aum||0));
+    sorted.forEach(sd => {
         const e = dataMap[sd.code];
         if (!e) return;
         const chg = e.change_pct || 0;
         const chgClr = chg > 0 ? '#f85149' : (chg < 0 ? '#3fb950' : '#8b949e');
         const chgStr = (chg > 0 ? '+' : '') + (chg||0).toFixed(2) + '%';
-        const aum = e.aum ? (e.aum >= 100 ? (e.aum/100).toFixed(1)+'百亿' : e.aum.toFixed(1)+'亿') : '';
-        const price = e.price ? e.price.toFixed(3) : '—';
+        const aum = e.aum ? (e.aum >= 100 ? (e.aum/100).toFixed(0)+'百亿' : e.aum.toFixed(0)+'亿') : '';
+        const r = e.returns || {};
+        const r1w = r['1w']; const r1m = r['1m']; const r3m = r['3m']; const rytd = r['ytd'];
+        const rc = v => v==null ? '#8b949e' : (v>0?'#f85149':(v<0?'#3fb950':'#8b949e'));
+        const rs = v => v==null ? '—' : ((v>0?'+':'')+v.toFixed(1)+'%');
+        const trend = e.trend_30 || [];
+        let svg = '';
+        if (trend.length >= 5) {
+            const vals = trend.map(t=>t.close);
+            const min = Math.min(...vals), max = Math.max(...vals);
+            const range = max - min || 1;
+            const w = 80, h = 28, pad = 2;
+            const pts = vals.map((v,i) => {
+                const x = pad + (i/(vals.length-1))*(w-2*pad);
+                const y = h - pad - ((v-min)/range)*(h-2*pad);
+                return x.toFixed(1)+','+y.toFixed(1);
+            }).join(' ');
+            const lineClr = vals[vals.length-1] >= vals[0] ? '#f85149' : '#3fb950';
+            svg = `<svg width="${w}" height="${h}" style="display:block;margin:4px auto 0"><polyline points="${pts}" fill="none" stroke="${lineClr}" stroke-width="1.2"/></svg>`;
+        }
         html += `<div class="six-card">
             <div class="six-card-dir">${sd.dir}</div>
             <div class="six-card-name">${e.short||e.name}</div>
             <div class="six-card-code">${sd.code}</div>
-            <div class="six-card-price">¥${price}</div>
-            <div class="six-card-chg" style="color:${chgClr}">${chgStr}</div>
+            <div class="six-card-chg" style="color:${chgClr};font-size:0.95em;font-weight:700">${chgStr}</div>
+            <div class="six-card-returns">
+                <span style="color:${rc(r1w)}">1周 ${rs(r1w)}</span>
+                <span style="color:${rc(r1m)}">1月 ${rs(r1m)}</span>
+                <span style="color:${rc(r3m)}">3月 ${rs(r3m)}</span>
+                <span style="color:${rc(rytd)}">YTD ${rs(rytd)}</span>
+            </div>
+            ${svg}
             <div class="six-card-size">${aum}</div>
         </div>`;
     });
