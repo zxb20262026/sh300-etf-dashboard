@@ -58,6 +58,8 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Microsoft YaHei","PingFang SC
 .theme-six-grid{display:grid;grid-template-columns:repeat(6,1fr);gap:8px}
 .six-card{background:#131a26;border:1px solid #1e2d45;border-radius:8px;padding:10px 12px;text-align:center;transition:border-color .2s}
 .six-card:hover{border-color:#3a5a8a}
+.six-card{position:relative}
+.six-badge{position:absolute;top:4px;right:6px;font-size:12px}
 .six-card-dir{font-size:0.6em;color:#6e7681;margin-bottom:2px}
 .six-card-name{font-size:0.75em;font-weight:600;color:#e6edf3;margin-bottom:1px}
 .six-card-code{font-size:0.65em;color:#58a6ff;margin-bottom:4px}
@@ -321,7 +323,7 @@ function buildTrendSVG(trend) {
 let currentFilter = "all";
 let currentSort = "change";
 
-const PORTFOLIO = ["512480","159782","588200","512760","588000","159516","588790","159206","159227","159566"];
+const PORTFOLIO = ["159819","159516","159995","562500","159227","512710","516520"];
 
 function renderCards() {
     let etfs = [...DATA.etfs];
@@ -446,7 +448,7 @@ function renderSixCards() {
             scaleSvg = `<svg width="${sw}" height="${sh_h}" style="display:block;margin:2px auto 0"><polyline points="${spts}" fill="none" stroke="${sClr}" stroke-width="1"/></svg>`;
         }
         html += `<div class="six-card">
-            <div class="six-card-dir">${sd.dir}</div>
+            ${PORTFOLIO.includes(sd.code) ? '<span class="six-badge">✅</span>' : ""}<div class="six-card-dir">${sd.dir}</div>
             <div class="six-card-name">${e.short||e.name}</div>
             <div class="six-card-code">${sd.code}</div>
             <div class="six-card-chg" style="color:${chgClr};font-size:0.95em;font-weight:700">${chgStr}</div>
