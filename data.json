@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-19 11:42:22",
+  "generated": "2026-06-19 18:02:02",
   "etfs": [
     {
       "code": "513500",
@@ -1258,6 +1258,13 @@
       },
       "news": [
         {
+          "title": "第五套标准下罕有的“盈利派”创新药企，信诺维科创板IPO上会在即",
+          "source": "证券时报",
+          "url": "https://www.stcn.com/article/detail/3970026.html",
+          "desc": "点击查看证券时报原文",
+          "time": "06-19"
+        },
+        {
           "title": "剂泰科技：科创板第五套标准扩围 AI制药赛道或迎新契机",
           "source": "证券时报",
           "url": "https://www.stcn.com/article/detail/3969762.html",
@@ -1890,7 +1897,7 @@
           "source": "证券时报",
           "url": "https://www.stcn.com/article/detail/3969728.html",
           "desc": "点击查看证券时报原文",
-          "time": "06-19"
+          "time": "06-18"
         },
         {
           "title": "重要资讯丨八部门发文，推进“人工智能+消费”发展",
@@ -1905,13 +1912,6 @@
           "url": "https://www.stcn.com/article/detail/3969593.html",
           "desc": "点击查看证券时报原文",
           "time": "06-19"
-        },
-        {
-          "title": "摩根大通预计：受人工智能和改革推动，日经指数年底将达到7.5万点",
-          "source": "华尔街见闻",
-          "url": "https://wallstreetcn.com/livenews/3121949",
-          "desc": "摩根大通证券将日经225指数的年终目标从7万点上调至7.5万点，因为预计人工智能将带来更多利好，企业改革也将带来上行空间。将东证指数预期从4300点上调至4400点。其预计，下半年，央行加息和地缘政治风险等负面因素将被“人工智能半导体周期的顺风”、资产负债表改善等结构性变化和公司增长战略所抵消。",
-          "time": "06-19 09:14"
         }
       ]
     },
@@ -2119,22 +2119,7 @@
         "risk_level": "🟡 中等",
         "streak_text": "连涨4天 🔥"
       },
-      "news": [
-        {
-          "title": "芯片股全线拉升，消息引爆，英特尔股价飙涨",
-          "source": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3969303.html",
-          "desc": "点击查看证券时报原文",
-          "time": "06-19"
-        },
-        {
-          "title": "全线大涨！芯片巨头狂飙！日韩股市，历史新高",
-          "source": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3969983.html",
-          "desc": "点击查看证券时报原文",
-          "time": "06-19"
-        }
-      ]
+      "news": []
     },
     {
       "code": "159516",
@@ -2340,15 +2325,7 @@
         "risk_level": "🟡 中等",
         "streak_text": "连涨4天 🔥"
       },
-      "news": [
-        {
-          "title": "成本攀升！两家国产半导体厂商加入涨价阵营",
-          "source": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3969646.html",
-          "desc": "点击查看证券时报原文",
-          "time": "06-19"
-        }
-      ]
+      "news": []
     },
     {
       "code": "562500",
@@ -3590,13 +3567,6 @@
       },
       "news": [
         {
-          "title": "中国汽研新能源公司获得IECEE CB测试实验室（CBTL）资质",
-          "source": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3969992.html",
-          "desc": "点击查看证券时报原文",
-          "time": "06-19"
-        },
-        {
           "title": "陆家嘴论坛共议沪港协同：“中国指数”“新能源货币”成焦点",
           "source": "证券时报",
           "url": "https://www.stcn.com/article/detail/3969724.html",
@@ -3809,15 +3779,7 @@
         "risk_level": "🟡 中等",
         "streak_text": "连跌2天 ⚠️"
       },
-      "news": [
-        {
-          "title": "中澳校企合作开发无铟叠层光伏电池",
-          "source": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3969991.html",
-          "desc": "点击查看证券时报原文",
-          "time": "06-19"
-        }
-      ]
+      "news": []
     },
     {
       "code": "159566",
@@ -4023,15 +3985,7 @@
         "risk_level": "🟡 中等",
         "streak_text": ""
       },
-      "news": [
-        {
-          "title": "中澳校企合作开发无铟叠层光伏电池",
-          "source": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3969991.html",
-          "desc": "点击查看证券时报原文",
-          "time": "06-19"
-        }
-      ]
+      "news": []
     },
     {
       "code": "512800",
@@ -4661,6 +4615,13 @@
           "source": "证券时报",
           "url": "https://www.stcn.com/article/detail/3969728.html",
           "desc": "点击查看证券时报原文",
+          "time": "06-18"
+        },
+        {
+          "title": "潍坊：扩大实施2026年消费品以旧换新品类补贴活动",
+          "source": "证券时报",
+          "url": "https://www.stcn.com/article/detail/3970075.html",
+          "desc": "点击查看证券时报原文",
           "time": "06-19"
         },
         {
@@ -4676,13 +4637,6 @@
           "url": "https://www.stcn.com/article/detail/3969593.html",
           "desc": "点击查看证券时报原文",
           "time": "06-19"
-        },
-        {
-          "title": "英国6月GfK消费者信心指数 -23，预期 -23，前值 -23。",
-          "source": "华尔街见闻",
-          "url": "https://wallstreetcn.com/livenews/3121929",
-          "desc": "点击查看华尔街见闻原文",
-          "time": "06-19 07:01"
         }
       ]
     },
@@ -5514,29 +5468,7 @@
         "risk_level": "🟡 中等",
         "streak_text": ""
       },
-      "news": [
-        {
-          "title": "高盛将金价目标下调500美元",
-          "source": "华尔街见闻",
-          "url": "https://wallstreetcn.com/livenews/3121969",
-          "desc": "高盛集团将其年底黄金价格预测下调500美元/盎司，因美联储预计在2026年不会再降息。高盛在报告中称，12月金价修正后的目标位为每盎司4,900美元，暗示金价下半年仍料上涨，但涨幅低于先前预期。",
-          "time": "06-19 11:28"
-        },
-        {
-          "title": "高盛将金价目标下调500美元",
-          "source": "华尔街见闻",
-          "url": "https://wallstreetcn.com/livenews/3121969",
-          "desc": "高盛集团将其年底黄金价格预测下调500美元/盎司，因美联储预计在2026年不会再降息。高盛在报告中称，12月金价修正后的目标位为每盎司4,900美元，暗示金价下半年仍料上涨，但涨幅低于先前预期。",
-          "time": "06-19 11:28"
-        },
-        {
-          "title": "高盛将金价目标下调500美元",
-          "source": "华尔街见闻",
-          "url": "https://wallstreetcn.com/livenews/3121969",
-          "desc": "高盛集团将其年底黄金价格预测下调500美元/盎司，因美联储预计在2026年不会再降息。高盛在报告中称，12月金价修正后的目标位为每盎司4,900美元，暗示金价下半年仍料上涨，但涨幅低于先前预期。",
-          "time": "06-19 11:28"
-        }
-      ]
+      "news": []
     },
     {
       "code": "516360",
