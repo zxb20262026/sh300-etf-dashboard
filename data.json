@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-19 18:02:02",
+  "generated": "2026-06-21 22:55:46",
   "etfs": [
     {
       "code": "513500",
@@ -619,18 +619,11 @@
       },
       "news": [
         {
-          "title": "德勤：上半年港股IPO融资额同比增90%，创新科技公司将率先“回A”",
-          "source": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3969834.html",
-          "desc": "点击查看证券时报原文",
-          "time": "06-19"
-        },
-        {
           "title": "上市后股价大涨超89%！新三板企业转战港股掀小高潮",
           "source": "证券时报",
           "url": "https://www.stcn.com/article/detail/3935463.html",
           "desc": "点击查看证券时报原文",
-          "time": "06-19"
+          "time": "06-21"
         }
       ]
     },
@@ -1256,22 +1249,7 @@
         "risk_level": "🟡 中等",
         "streak_text": "连涨5天 🔥"
       },
-      "news": [
-        {
-          "title": "第五套标准下罕有的“盈利派”创新药企，信诺维科创板IPO上会在即",
-          "source": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3970026.html",
-          "desc": "点击查看证券时报原文",
-          "time": "06-19"
-        },
-        {
-          "title": "剂泰科技：科创板第五套标准扩围 AI制药赛道或迎新契机",
-          "source": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3969762.html",
-          "desc": "点击查看证券时报原文",
-          "time": "06-19"
-        }
-      ]
+      "news": []
     },
     {
       "code": "159781",
@@ -1893,25 +1871,11 @@
       },
       "news": [
         {
-          "title": "重要资讯丨八部门发文，推进“人工智能+消费”发展",
-          "source": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3969728.html",
-          "desc": "点击查看证券时报原文",
-          "time": "06-18"
-        },
-        {
-          "title": "重要资讯丨八部门发文，推进“人工智能+消费”发展",
-          "source": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3969728.html",
-          "desc": "点击查看证券时报原文",
-          "time": "06-19"
-        },
-        {
           "title": "8部门发文加快“人工智能+消费”：服务领域是重点 鼓励适度超前布局城市智能设施",
           "source": "证券时报",
           "url": "https://www.stcn.com/article/detail/3969593.html",
           "desc": "点击查看证券时报原文",
-          "time": "06-19"
+          "time": "06-21"
         }
       ]
     },
@@ -2119,7 +2083,15 @@
         "risk_level": "🟡 中等",
         "streak_text": "连涨4天 🔥"
       },
-      "news": []
+      "news": [
+        {
+          "title": "603986，存储芯片大牛股，下周解禁！",
+          "source": "证券时报",
+          "url": "https://www.stcn.com/article/detail/3970329.html",
+          "desc": "点击查看证券时报原文",
+          "time": "06-21"
+        }
+      ]
     },
     {
       "code": "159516",
@@ -2325,7 +2297,22 @@
         "risk_level": "🟡 中等",
         "streak_text": "连涨4天 🔥"
       },
-      "news": []
+      "news": [
+        {
+          "title": "公告精选：兴业科技拟收购磷化铟业务资产，切入化合物半导体新材料赛道",
+          "source": "证券时报",
+          "url": "https://www.stcn.com/article/detail/3970564.html",
+          "desc": "点击查看证券时报原文",
+          "time": "06-21"
+        },
+        {
+          "title": "兴业科技拟收购磷化铟业务相关资产，切入化合物半导体新材料赛道",
+          "source": "证券时报",
+          "url": "https://www.stcn.com/article/detail/3970513.html",
+          "desc": "点击查看证券时报原文",
+          "time": "06-21"
+        }
+      ]
     },
     {
       "code": "562500",
@@ -3567,11 +3554,11 @@
       },
       "news": [
         {
-          "title": "陆家嘴论坛共议沪港协同：“中国指数”“新能源货币”成焦点",
+          "title": "世嘉科技拟定增募资不超过4.03亿元，拟用于新能源电气精密箱体及系统集成建设项目等",
           "source": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3969724.html",
+          "url": "https://www.stcn.com/article/detail/3970502.html",
           "desc": "点击查看证券时报原文",
-          "time": "06-19"
+          "time": "06-21"
         }
       ]
     },
@@ -3985,7 +3972,15 @@
         "risk_level": "🟡 中等",
         "streak_text": ""
       },
-      "news": []
+      "news": [
+        {
+          "title": "峰璟股份：锂电池项目一期2GWh工程全面建设完成，进入客户洽谈阶段",
+          "source": "证券时报",
+          "url": "https://www.stcn.com/article/detail/3970512.html",
+          "desc": "点击查看证券时报原文",
+          "time": "06-21"
+        }
+      ]
     },
     {
       "code": "512800",
@@ -4193,7 +4188,36 @@
         "risk_level": "🟡 中等",
         "streak_text": "连跌4天 ⚠️"
       },
-      "news": []
+      "news": [
+        {
+          "title": "上海构建离岸金融体系时间表确立，外资银行集中发声",
+          "source": "证券时报",
+          "url": "https://www.stcn.com/article/detail/3970465.html",
+          "desc": "点击查看证券时报原文",
+          "time": "06-21"
+        },
+        {
+          "title": "巨星科技入股网商银行，“实业+金融”协同效应加速",
+          "source": "证券时报",
+          "url": "https://www.stcn.com/article/detail/3970496.html",
+          "desc": "点击查看证券时报原文",
+          "time": "06-21"
+        },
+        {
+          "title": "中国人民银行行长潘功胜会见印度尼西亚财政部部长普尔巴亚·尤迪·萨德瓦",
+          "source": "华尔街见闻",
+          "url": "https://wallstreetcn.com/livenews/3122329",
+          "desc": "6月18日，中国人民银行行长潘功胜会见印度尼西亚财政部部长普尔巴亚·尤迪·萨德瓦。双方就当前经济金融形势、中印尼金融合作、印度尼西亚财政部在我国境内发行人民币计价债券（熊猫债）等进行了交流。",
+          "time": "06-21 17:46"
+        },
+        {
+          "title": "中国人民银行行长潘功胜会见印度尼西亚财政部部长普尔巴亚·尤迪·萨德瓦",
+          "source": "华尔街见闻",
+          "url": "https://wallstreetcn.com/livenews/3122329",
+          "desc": "6月18日，中国人民银行行长潘功胜会见印度尼西亚财政部部长普尔巴亚·尤迪·萨德瓦。双方就当前经济金融形势、中印尼金融合作、印度尼西亚财政部在我国境内发行人民币计价债券（熊猫债）等进行了交流。",
+          "time": "06-21 17:46"
+        }
+      ]
     },
     {
       "code": "512880",
@@ -4401,7 +4425,15 @@
         "risk_level": "🟡 中等",
         "streak_text": "连跌2天 ⚠️"
       },
-      "news": []
+      "news": [
+        {
+          "title": "券商业绩利好频频，市场交投持续活跃",
+          "source": "证券时报",
+          "url": "https://www.stcn.com/article/detail/3970544.html",
+          "desc": "点击查看证券时报原文",
+          "time": "06-21"
+        }
+      ]
     },
     {
       "code": "159928",
@@ -4611,32 +4643,18 @@
       },
       "news": [
         {
-          "title": "重要资讯丨八部门发文，推进“人工智能+消费”发展",
+          "title": "实探端午假期黄金消费：金价回落释放刚需",
           "source": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3969728.html",
+          "url": "https://www.stcn.com/article/detail/3970546.html",
           "desc": "点击查看证券时报原文",
-          "time": "06-18"
-        },
-        {
-          "title": "潍坊：扩大实施2026年消费品以旧换新品类补贴活动",
-          "source": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3970075.html",
-          "desc": "点击查看证券时报原文",
-          "time": "06-19"
-        },
-        {
-          "title": "重要资讯丨八部门发文，推进“人工智能+消费”发展",
-          "source": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3969728.html",
-          "desc": "点击查看证券时报原文",
-          "time": "06-19"
+          "time": "06-21"
         },
         {
           "title": "8部门发文加快“人工智能+消费”：服务领域是重点 鼓励适度超前布局城市智能设施",
           "source": "证券时报",
           "url": "https://www.stcn.com/article/detail/3969593.html",
           "desc": "点击查看证券时报原文",
-          "time": "06-19"
+          "time": "06-21"
         }
       ]
     },
@@ -5468,7 +5486,36 @@
         "risk_level": "🟡 中等",
         "streak_text": ""
       },
-      "news": []
+      "news": [
+        {
+          "title": "实探端午假期黄金消费：金价回落释放刚需",
+          "source": "证券时报",
+          "url": "https://www.stcn.com/article/detail/3970546.html",
+          "desc": "点击查看证券时报原文",
+          "time": "06-21"
+        },
+        {
+          "title": "高盛突然下调黄金价格预测，美联储重磅数据将发布",
+          "source": "证券时报",
+          "url": "https://www.stcn.com/article/detail/3970463.html",
+          "desc": "点击查看证券时报原文",
+          "time": "06-21"
+        },
+        {
+          "title": "几内亚总统敦布亚宣布禁止出口黄金原矿",
+          "source": "华尔街见闻",
+          "url": "https://wallstreetcn.com/livenews/3122367",
+          "desc": "几内亚总统Mamadi Doumbouya宣布禁止黄金原矿出口，旨在推动该国黄金的本土化加工，助力国内经济发展。Doumbouya在会见该国工业及手工采金生产商以及黄金收购机构时表示，几内亚现在将要求所有黄金必须在其境内进行加工，黄金原矿将不再允许离开几内亚。黄金只有在首都科纳克里的一座新建工厂中精",
+          "time": "06-21 21:45"
+        },
+        {
+          "title": "几内亚总统敦布亚宣布禁止出口黄金原矿",
+          "source": "华尔街见闻",
+          "url": "https://wallstreetcn.com/livenews/3122367",
+          "desc": "几内亚总统Mamadi Doumbouya宣布禁止黄金原矿出口，旨在推动该国黄金的本土化加工，助力国内经济发展。Doumbouya在会见该国工业及手工采金生产商以及黄金收购机构时表示，几内亚现在将要求所有黄金必须在其境内进行加工，黄金原矿将不再允许离开几内亚。黄金只有在首都科纳克里的一座新建工厂中精",
+          "time": "06-21 21:45"
+        }
+      ]
     },
     {
       "code": "516360",
@@ -5676,11 +5723,18 @@
       },
       "news": [
         {
-          "title": "德方纳米拟定增募资不超29亿元 加码锂电新材料一体化扩产",
+          "title": "公告精选：兴业科技拟收购磷化铟业务资产，切入化合物半导体新材料赛道",
           "source": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3969761.html",
+          "url": "https://www.stcn.com/article/detail/3970564.html",
           "desc": "点击查看证券时报原文",
-          "time": "06-19"
+          "time": "06-21"
+        },
+        {
+          "title": "兴业科技拟收购磷化铟业务相关资产，切入化合物半导体新材料赛道",
+          "source": "证券时报",
+          "url": "https://www.stcn.com/article/detail/3970513.html",
+          "desc": "点击查看证券时报原文",
+          "time": "06-21"
         }
       ]
     }
