@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-21 22:55:46",
+  "generated": "2026-06-22 08:02:14",
   "etfs": [
     {
       "code": "513500",
@@ -411,7 +411,29 @@
         "risk_level": "🟡 中等",
         "streak_text": ""
       },
-      "news": []
+      "news": [
+        {
+          "title": "纳斯达克100指数期货跌幅扩大至1.1%。",
+          "source": "华尔街见闻",
+          "url": "https://wallstreetcn.com/livenews/3122424",
+          "desc": "点击查看华尔街见闻原文",
+          "time": "06-22 07:44"
+        },
+        {
+          "title": "纳斯达克100指数期货跌幅扩大至1.1%。",
+          "source": "华尔街见闻",
+          "url": "https://wallstreetcn.com/livenews/3122424",
+          "desc": "点击查看华尔街见闻原文",
+          "time": "06-22 07:44"
+        },
+        {
+          "title": "纳斯达克100指数期货跌幅扩大至1.1%。",
+          "source": "华尔街见闻",
+          "url": "https://wallstreetcn.com/livenews/3122424",
+          "desc": "点击查看华尔街见闻原文",
+          "time": "06-22 07:44"
+        }
+      ]
     },
     {
       "code": "159920",
@@ -623,7 +645,7 @@
           "source": "证券时报",
           "url": "https://www.stcn.com/article/detail/3935463.html",
           "desc": "点击查看证券时报原文",
-          "time": "06-21"
+          "time": "06-22"
         }
       ]
     },
@@ -1249,7 +1271,15 @@
         "risk_level": "🟡 中等",
         "streak_text": "连涨5天 🔥"
       },
-      "news": []
+      "news": [
+        {
+          "title": "精准支持“硬科技” 科创板扩围哺育前沿科技创新",
+          "source": "证券时报",
+          "url": "https://www.stcn.com/article/detail/3970744.html",
+          "desc": "点击查看证券时报原文",
+          "time": "06-22"
+        }
+      ]
     },
     {
       "code": "159781",
@@ -1869,15 +1899,7 @@
         "risk_level": "🟡 中等",
         "streak_text": "连涨4天 🔥"
       },
-      "news": [
-        {
-          "title": "8部门发文加快“人工智能+消费”：服务领域是重点 鼓励适度超前布局城市智能设施",
-          "source": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3969593.html",
-          "desc": "点击查看证券时报原文",
-          "time": "06-21"
-        }
-      ]
+      "news": []
     },
     {
       "code": "159995",
@@ -2085,11 +2107,32 @@
       },
       "news": [
         {
+          "title": "美芯片股再度走强 多只重仓QDII基金收益翻倍",
+          "source": "证券时报",
+          "url": "https://www.stcn.com/article/detail/3970657.html",
+          "desc": "点击查看证券时报原文",
+          "time": "06-22"
+        },
+        {
+          "title": "美芯片股再度走强 多只重仓QDII基金收益翻倍",
+          "source": "证券时报",
+          "url": "https://www.stcn.com/article/detail/3970844.html",
+          "desc": "点击查看证券时报原文",
+          "time": "06-22"
+        },
+        {
           "title": "603986，存储芯片大牛股，下周解禁！",
           "source": "证券时报",
           "url": "https://www.stcn.com/article/detail/3970329.html",
           "desc": "点击查看证券时报原文",
-          "time": "06-21"
+          "time": "06-22"
+        },
+        {
+          "title": "Toto Ltd.（东陶）未来五年将在芯片材料领域投资800亿日元。（日经新闻）",
+          "source": "华尔街见闻",
+          "url": "https://wallstreetcn.com/livenews/3122395",
+          "desc": "点击查看华尔街见闻原文",
+          "time": "06-22 05:31"
         }
       ]
     },
@@ -2297,22 +2340,7 @@
         "risk_level": "🟡 中等",
         "streak_text": "连涨4天 🔥"
       },
-      "news": [
-        {
-          "title": "公告精选：兴业科技拟收购磷化铟业务资产，切入化合物半导体新材料赛道",
-          "source": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3970564.html",
-          "desc": "点击查看证券时报原文",
-          "time": "06-21"
-        },
-        {
-          "title": "兴业科技拟收购磷化铟业务相关资产，切入化合物半导体新材料赛道",
-          "source": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3970513.html",
-          "desc": "点击查看证券时报原文",
-          "time": "06-21"
-        }
-      ]
+      "news": []
     },
     {
       "code": "562500",
@@ -3554,11 +3582,18 @@
       },
       "news": [
         {
-          "title": "世嘉科技拟定增募资不超过4.03亿元，拟用于新能源电气精密箱体及系统集成建设项目等",
+          "title": "新股提示：华润新能源、北交所益坤电气今日申购",
           "source": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3970502.html",
+          "url": "https://www.stcn.com/article/detail/3970731.html",
           "desc": "点击查看证券时报原文",
-          "time": "06-21"
+          "time": "06-22"
+        },
+        {
+          "title": "新股提示：华润新能源、北交所益坤电气今日申购",
+          "source": "证券时报",
+          "url": "https://www.stcn.com/article/detail/3970731.html",
+          "desc": "点击查看证券时报原文",
+          "time": "06-22"
         }
       ]
     },
@@ -3972,15 +4007,7 @@
         "risk_level": "🟡 中等",
         "streak_text": ""
       },
-      "news": [
-        {
-          "title": "峰璟股份：锂电池项目一期2GWh工程全面建设完成，进入客户洽谈阶段",
-          "source": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3970512.html",
-          "desc": "点击查看证券时报原文",
-          "time": "06-21"
-        }
-      ]
+      "news": []
     },
     {
       "code": "512800",
@@ -4190,32 +4217,11 @@
       },
       "news": [
         {
-          "title": "上海构建离岸金融体系时间表确立，外资银行集中发声",
+          "title": "银行绿色金融的生物多样性账本： 让生态价值转换成金融资产",
           "source": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3970465.html",
+          "url": "https://www.stcn.com/article/detail/3970728.html",
           "desc": "点击查看证券时报原文",
-          "time": "06-21"
-        },
-        {
-          "title": "巨星科技入股网商银行，“实业+金融”协同效应加速",
-          "source": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3970496.html",
-          "desc": "点击查看证券时报原文",
-          "time": "06-21"
-        },
-        {
-          "title": "中国人民银行行长潘功胜会见印度尼西亚财政部部长普尔巴亚·尤迪·萨德瓦",
-          "source": "华尔街见闻",
-          "url": "https://wallstreetcn.com/livenews/3122329",
-          "desc": "6月18日，中国人民银行行长潘功胜会见印度尼西亚财政部部长普尔巴亚·尤迪·萨德瓦。双方就当前经济金融形势、中印尼金融合作、印度尼西亚财政部在我国境内发行人民币计价债券（熊猫债）等进行了交流。",
-          "time": "06-21 17:46"
-        },
-        {
-          "title": "中国人民银行行长潘功胜会见印度尼西亚财政部部长普尔巴亚·尤迪·萨德瓦",
-          "source": "华尔街见闻",
-          "url": "https://wallstreetcn.com/livenews/3122329",
-          "desc": "6月18日，中国人民银行行长潘功胜会见印度尼西亚财政部部长普尔巴亚·尤迪·萨德瓦。双方就当前经济金融形势、中印尼金融合作、印度尼西亚财政部在我国境内发行人民币计价债券（熊猫债）等进行了交流。",
-          "time": "06-21 17:46"
+          "time": "06-22"
         }
       ]
     },
@@ -4427,11 +4433,32 @@
       },
       "news": [
         {
-          "title": "券商业绩利好频频，市场交投持续活跃",
+          "title": "财富板块适配人才难招 券商分支机构遭遇“人才荒”",
           "source": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3970544.html",
+          "url": "https://www.stcn.com/article/detail/3970673.html",
           "desc": "点击查看证券时报原文",
-          "time": "06-21"
+          "time": "06-22"
+        },
+        {
+          "title": "十大券商策略丨看好AI算力，成长主导但谨慎追高",
+          "source": "证券时报",
+          "url": "https://www.stcn.com/article/detail/3970645.html",
+          "desc": "点击查看证券时报原文",
+          "time": "06-22"
+        },
+        {
+          "title": "一线岗位人才需求旺盛 券商分支机构遭遇“人才荒”",
+          "source": "证券时报",
+          "url": "https://www.stcn.com/article/detail/3970784.html",
+          "desc": "点击查看证券时报原文",
+          "time": "06-22"
+        },
+        {
+          "title": "财富板块适配人才难招 券商分支机构遭遇“人才荒”",
+          "source": "证券时报",
+          "url": "https://www.stcn.com/article/detail/3970673.html",
+          "desc": "点击查看证券时报原文",
+          "time": "06-22"
         }
       ]
     },
@@ -4643,18 +4670,32 @@
       },
       "news": [
         {
-          "title": "实探端午假期黄金消费：金价回落释放刚需",
+          "title": "实探端午假期深圳水贝黄金消费：金价回落释放刚需",
           "source": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3970546.html",
+          "url": "https://www.stcn.com/article/detail/3970669.html",
           "desc": "点击查看证券时报原文",
-          "time": "06-21"
+          "time": "06-22"
         },
         {
-          "title": "8部门发文加快“人工智能+消费”：服务领域是重点 鼓励适度超前布局城市智能设施",
+          "title": "实探端午假期深圳水贝黄金消费：金价回落释放刚需",
           "source": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3969593.html",
+          "url": "https://www.stcn.com/article/detail/3970669.html",
           "desc": "点击查看证券时报原文",
-          "time": "06-21"
+          "time": "06-22"
+        },
+        {
+          "title": "国家发展改革委就消费品以旧换新答每经：6月底前下达第三批625亿元资金",
+          "source": "证券时报",
+          "url": "https://www.stcn.com/article/detail/3970795.html",
+          "desc": "点击查看证券时报原文",
+          "time": "06-18"
+        },
+        {
+          "title": "实探端午假期深圳水贝黄金消费：金价回落释放刚需，批发商迅速补货",
+          "source": "华尔街见闻",
+          "url": "https://wallstreetcn.com/livenews/3122421",
+          "desc": "最近，黄金价格持续调整。走访深圳水贝市场和多家品牌金饰门店了解到，今年“618”叠加端午假期，黄金消费有所升温，但部分消费者仍处于“买涨不买跌”的观望状态，选择分批小额配置，上游批发商则抓住价格窗口集中完成全品类补货。“往年6月本是金饰销售传统淡季，但今年价格高位回落之后，婚庆类刚需订单明显回暖，整",
+          "time": "06-22 07:42"
         }
       ]
     },
@@ -5488,32 +5529,32 @@
       },
       "news": [
         {
-          "title": "实探端午假期黄金消费：金价回落释放刚需",
+          "title": "实探端午假期深圳水贝黄金消费：金价回落释放刚需",
           "source": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3970546.html",
+          "url": "https://www.stcn.com/article/detail/3970669.html",
           "desc": "点击查看证券时报原文",
-          "time": "06-21"
+          "time": "06-22"
         },
         {
-          "title": "高盛突然下调黄金价格预测，美联储重磅数据将发布",
+          "title": "实探端午假期深圳水贝黄金消费：金价回落释放刚需",
           "source": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3970463.html",
+          "url": "https://www.stcn.com/article/detail/3970669.html",
           "desc": "点击查看证券时报原文",
-          "time": "06-21"
+          "time": "06-22"
         },
         {
-          "title": "几内亚总统敦布亚宣布禁止出口黄金原矿",
+          "title": "实探端午假期深圳水贝黄金消费：金价回落释放刚需，批发商迅速补货",
           "source": "华尔街见闻",
-          "url": "https://wallstreetcn.com/livenews/3122367",
-          "desc": "几内亚总统Mamadi Doumbouya宣布禁止黄金原矿出口，旨在推动该国黄金的本土化加工，助力国内经济发展。Doumbouya在会见该国工业及手工采金生产商以及黄金收购机构时表示，几内亚现在将要求所有黄金必须在其境内进行加工，黄金原矿将不再允许离开几内亚。黄金只有在首都科纳克里的一座新建工厂中精",
-          "time": "06-21 21:45"
+          "url": "https://wallstreetcn.com/livenews/3122421",
+          "desc": "最近，黄金价格持续调整。走访深圳水贝市场和多家品牌金饰门店了解到，今年“618”叠加端午假期，黄金消费有所升温，但部分消费者仍处于“买涨不买跌”的观望状态，选择分批小额配置，上游批发商则抓住价格窗口集中完成全品类补货。“往年6月本是金饰销售传统淡季，但今年价格高位回落之后，婚庆类刚需订单明显回暖，整",
+          "time": "06-22 07:42"
         },
         {
-          "title": "几内亚总统敦布亚宣布禁止出口黄金原矿",
+          "title": "实探端午假期深圳水贝黄金消费：金价回落释放刚需，批发商迅速补货",
           "source": "华尔街见闻",
-          "url": "https://wallstreetcn.com/livenews/3122367",
-          "desc": "几内亚总统Mamadi Doumbouya宣布禁止黄金原矿出口，旨在推动该国黄金的本土化加工，助力国内经济发展。Doumbouya在会见该国工业及手工采金生产商以及黄金收购机构时表示，几内亚现在将要求所有黄金必须在其境内进行加工，黄金原矿将不再允许离开几内亚。黄金只有在首都科纳克里的一座新建工厂中精",
-          "time": "06-21 21:45"
+          "url": "https://wallstreetcn.com/livenews/3122421",
+          "desc": "最近，黄金价格持续调整。走访深圳水贝市场和多家品牌金饰门店了解到，今年“618”叠加端午假期，黄金消费有所升温，但部分消费者仍处于“买涨不买跌”的观望状态，选择分批小额配置，上游批发商则抓住价格窗口集中完成全品类补货。“往年6月本是金饰销售传统淡季，但今年价格高位回落之后，婚庆类刚需订单明显回暖，整",
+          "time": "06-22 07:42"
         }
       ]
     },
@@ -5721,22 +5762,7 @@
         "risk_level": "🟡 中等",
         "streak_text": ""
       },
-      "news": [
-        {
-          "title": "公告精选：兴业科技拟收购磷化铟业务资产，切入化合物半导体新材料赛道",
-          "source": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3970564.html",
-          "desc": "点击查看证券时报原文",
-          "time": "06-21"
-        },
-        {
-          "title": "兴业科技拟收购磷化铟业务相关资产，切入化合物半导体新材料赛道",
-          "source": "证券时报",
-          "url": "https://www.stcn.com/article/detail/3970513.html",
-          "desc": "点击查看证券时报原文",
-          "time": "06-21"
-        }
-      ]
+      "news": []
     }
   ]
 }
