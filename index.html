@@ -203,6 +203,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Microsoft YaHei","PingFang SC
   <div class="fl-title">🔗 友情链接 · 更多项目</div>
   <div class="fl-items">
     <a class="fl-item" href="https://zxb20262026.github.io/ich-diy-research/index.html" target="_blank">🎨 非遗DIY调研</a>
+    <a class="fl-item" href="https://dapanyuntu.com/" target="_blank" accesskey="d">📊 大盘云图 <kbd>D</kbd></a>
   </div>
 </div>
 
@@ -566,6 +567,11 @@ document.getElementById('etf-grid').addEventListener('click', function(e) {
     if (etfs[idx]) showInsight(etfs[idx]);
 });
 
+</script>
+
+<!-- 快捷键 -->
+<script>
+document.addEventListener("keydown",function(e){if(e.key.toLowerCase()==="d"&&!e.ctrlKey&&!e.metaKey&&!e.altKey&&document.activeElement===document.body){window.open("https://dapanyuntu.com/","_blank")}});
 </script>
 </body>
 </html>
