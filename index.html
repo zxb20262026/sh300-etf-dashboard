@@ -596,5 +596,23 @@ document.getElementById('etf-grid').addEventListener('click', function(e) {
 });
 
 </script>
+<script>
+document.addEventListener('DOMContentLoaded',function(){
+  var dd=document.querySelectorAll('.nav-dropdown');
+  if(!dd.length)return;
+  dd.forEach(function(d){
+    var b=d.querySelector('.nav-dropdown-btn');
+    if(!b)return;
+    b.addEventListener('click',function(e){
+      e.stopPropagation();
+      var o=d.classList.contains('open');
+      dd.forEach(function(x){x.classList.remove('open');});
+      if(!o)d.classList.add('open');
+    });
+    d.addEventListener('mouseleave',function(){d.classList.remove('open');});
+  });
+  document.addEventListener('click',function(){dd.forEach(function(x){x.classList.remove('open');});});
+});
+</script>
 </body>
 </html>
